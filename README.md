@@ -1,4 +1,4 @@
-# WB JEPBN 2026 Mock Test — MERN Stack
+# WB JEPBN Mock Test — MERN Stack
 
 Your original HTML/CSS/JS mock test app, rebuilt as a full MERN (MongoDB, Express,
 React, Node) application with user accounts, Google login, server-side grading,
