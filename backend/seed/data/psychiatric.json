@@ -1,0 +1,2002 @@
+[
+  {
+    "text": "The most common type of mental disorder is:",
+    "options": [
+      "Schizophrenia",
+      "Depression",
+      "Bipolar disorder",
+      "OCD"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Hallucination is defined as:",
+    "options": [
+      "False belief",
+      "False perception without stimulus",
+      "Loss of memory",
+      "Lack of emotion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Delusion is:",
+    "options": [
+      "False sensory perception",
+      "False fixed belief",
+      "Loss of insight",
+      "Emotional instability"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which drug is commonly used in schizophrenia?",
+    "options": [
+      "Fluoxetine",
+      "Haloperidol",
+      "Diazepam",
+      "Lithium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Lithium is mainly used in:",
+    "options": [
+      "Depression",
+      "Anxiety",
+      "Bipolar disorder",
+      "Schizophrenia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common symptom of depression is:",
+    "options": [
+      "Hallucination",
+      "Elevated mood",
+      "Persistent sadness",
+      "Hyperactivity"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Mania is characterized by:",
+    "options": [
+      "Low energy",
+      "Sad mood",
+      "Elevated mood",
+      "Social withdrawal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which therapy uses electrical stimulus?",
+    "options": [
+      "CBT",
+      "Psychotherapy",
+      "ECT",
+      "Behavior therapy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The main purpose of psychiatric nursing is:",
+    "options": [
+      "Cure disease",
+      "Promote mental health",
+      "Provide surgery",
+      "Give medications only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "OCD is characterized by:",
+    "options": [
+      "Delusion",
+      "Obsession and compulsion",
+      "Mood swings",
+      "Hallucination"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The fear of open places is:",
+    "options": [
+      "Claustrophobia",
+      "Agoraphobia",
+      "Acrophobia",
+      "Hydrophobia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a negative symptom of schizophrenia?",
+    "options": [
+      "Delusion",
+      "Hallucination",
+      "Flat affect",
+      "Agitation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The nurse’s priority in suicidal patient is:",
+    "options": [
+      "Medication",
+      "Safety",
+      "Counseling",
+      "Nutrition"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which neurotransmitter is decreased in depression?",
+    "options": [
+      "Dopamine",
+      "Serotonin",
+      "GABA",
+      "Acetylcholine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Insight means:",
+    "options": [
+      "Memory",
+      "Awareness of illness",
+      "Intelligence",
+      "Judgment"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which defense mechanism involves returning to earlier stage?",
+    "options": [
+      "Projection",
+      "Regression",
+      "Denial",
+      "Sublimation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Autism is characterized by:",
+    "options": [
+      "Hyperactivity",
+      "Social interaction impairment",
+      "Aggression",
+      "Hallucination"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Panic attack includes:",
+    "options": [
+      "Calmness",
+      "Severe anxiety",
+      "Sleepiness",
+      "Depression"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which drug is used for anxiety?",
+    "options": [
+      "Diazepam",
+      "Haloperidol",
+      "Lithium",
+      "Fluoxetine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Therapeutic communication includes:",
+    "options": [
+      "Giving advice",
+      "Judging patient",
+      "Active listening",
+      "Ignoring patient"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common side effect of antipsychotic drugs is:",
+    "options": [
+      "Hypertension",
+      "Extrapyramidal symptoms",
+      "Diarrhea",
+      "Hyperglycemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition is treated with SSRIs?",
+    "options": [
+      "Schizophrenia",
+      "Depression",
+      "Mania",
+      "Delirium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The early sign of lithium toxicity is:",
+    "options": [
+      "Tremor",
+      "Seizure",
+      "Coma",
+      "Hypertension"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a mood stabilizer?",
+    "options": [
+      "Diazepam",
+      "Lithium",
+      "Haloperidol",
+      "Fluoxetine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Delirium is characterized by:",
+    "options": [
+      "Gradual onset",
+      "Clear consciousness",
+      "Acute confusion",
+      "Long-term memory loss"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Dementia mainly affects:",
+    "options": [
+      "Mood",
+      "Memory",
+      "Reflexes",
+      "Appetite"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best communication technique is:",
+    "options": [
+      "Arguing",
+      "Giving advice",
+      "Active listening",
+      "Ignoring"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which disorder has flight of ideas?",
+    "options": [
+      "Depression",
+      "Mania",
+      "OCD",
+      "Schizophrenia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Phobia is a type of:",
+    "options": [
+      "Mood disorder",
+      "Anxiety disorder",
+      "Personality disorder",
+      "Psychotic disorder"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main feature of schizophrenia is:",
+    "options": [
+      "Mood swings",
+      "Loss of contact with reality",
+      "Memory loss",
+      "Anxiety"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which drug causes tardive dyskinesia?",
+    "options": [
+      "Lithium",
+      "Haloperidol",
+      "Diazepam",
+      "Fluoxetine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main goal of psychotherapy is:",
+    "options": [
+      "Cure infection",
+      "Change behavior and thoughts",
+      "Surgery",
+      "Sedation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a positive symptom of schizophrenia?",
+    "options": [
+      "Flat affect",
+      "Social withdrawal",
+      "Delusion",
+      "Apathy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The nurse should first assess in aggressive patient:",
+    "options": [
+      "Mood",
+      "Safety",
+      "Family history",
+      "Diet"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which therapy is best for phobia?",
+    "options": [
+      "ECT",
+      "Behavior therapy",
+      "Surgery",
+      "Drug therapy only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a sedative drug?",
+    "options": [
+      "Diazepam",
+      "Lithium",
+      "Haloperidol",
+      "Fluoxetine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Anorexia nervosa is characterized by:",
+    "options": [
+      "Overeating",
+      "Refusal to eat",
+      "Increased sleep",
+      "Aggression"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Bulimia nervosa includes:",
+    "options": [
+      "Starvation only",
+      "Binge eating and vomiting",
+      "Hallucination",
+      "Memory loss"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition requires ECT most urgently?",
+    "options": [
+      "Mild anxiety",
+      "Severe depression with suicide risk",
+      "Phobia",
+      "OCD"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which personality disorder shows lack of empathy?",
+    "options": [
+      "Borderline",
+      "Antisocial",
+      "Histrionic",
+      "Avoidant"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which symptom is most characteristic of schizophrenia?",
+    "options": [
+      "Mood swings",
+      "Thought disorder",
+      "Memory loss",
+      "Anxiety"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The first priority in a patient with hallucination is:",
+    "options": [
+      "Ignore",
+      "Ensure safety",
+      "Give food",
+      "Give advice"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which drug is used in OCD?",
+    "options": [
+      "Lithium",
+      "Fluoxetine",
+      "Haloperidol",
+      "Diazepam"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a defense mechanism?",
+    "options": [
+      "Projection",
+      "Denial",
+      "Hallucination",
+      "Regression"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Insight is absent in:",
+    "options": [
+      "Anxiety",
+      "Depression",
+      "Psychosis",
+      "Phobia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most serious side effect of Clozapine is:",
+    "options": [
+      "Weight gain",
+      "Agranulocytosis",
+      "Sedation",
+      "Dry mouth"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition shows neologism?",
+    "options": [
+      "Depression",
+      "Schizophrenia",
+      "Anxiety",
+      "Mania"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best method to prevent suicide is:",
+    "options": [
+      "Counseling",
+      "Medication",
+      "Constant observation",
+      "Family support"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which symptom is seen in mania?",
+    "options": [
+      "Slow speech",
+      "Flight of ideas",
+      "Social withdrawal",
+      "Apathy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Delusion of persecution means:",
+    "options": [
+      "Feeling grand",
+      "Feeling followed or harmed",
+      "Feeling guilty",
+      "Feeling powerful"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a negative symptom of schizophrenia?",
+    "options": [
+      "Hallucination",
+      "Delusion",
+      "Avolition",
+      "Agitation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which disorder is associated with panic attacks?",
+    "options": [
+      "Depression",
+      "Panic disorder",
+      "Schizophrenia",
+      "Dementia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most appropriate response to delusion is:",
+    "options": [
+      "Agree",
+      "Argue",
+      "Present reality",
+      "Ignore completely"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition has splitting of personality?",
+    "options": [
+      "Depression",
+      "Schizophrenia",
+      "Anxiety",
+      "OCD"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most common anxiety disorder?",
+    "options": [
+      "OCD",
+      "Phobia",
+      "Panic disorder",
+      "GAD"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which drug is contraindicated with alcohol?",
+    "options": [
+      "Diazepam",
+      "Lithium",
+      "Haloperidol",
+      "Fluoxetine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a typical antipsychotic?",
+    "options": [
+      "Risperidone",
+      "Clozapine",
+      "Haloperidol",
+      "Olanzapine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The hallmark of depression is:",
+    "options": [
+      "Anxiety",
+      "Loss of interest (anhedonia)",
+      "Aggression",
+      "Hallucination"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which therapy focuses on changing thoughts?",
+    "options": [
+      "Psychoanalysis",
+      "CBT",
+      "ECT",
+      "Behavior therapy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most important role of nurse in psychiatry is:",
+    "options": [
+      "Medication only",
+      "Therapeutic relationship",
+      "Surgery",
+      "Diagnosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which neurotransmitter is increased in schizophrenia?",
+    "options": [
+      "Serotonin",
+      "Dopamine",
+      "GABA",
+      "Acetylcholine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a feature of delirium?",
+    "options": [
+      "Slow onset",
+      "Clear consciousness",
+      "Fluctuating consciousness",
+      "Permanent memory loss"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which disorder has echolalia?",
+    "options": [
+      "Depression",
+      "Mania",
+      "Schizophrenia",
+      "Anxiety"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of dementia is:",
+    "options": [
+      "Parkinson’s disease",
+      "Alzheimer’s disease",
+      "Stroke",
+      "Infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which drug requires WBC monitoring?",
+    "options": [
+      "Fluoxetine",
+      "Clozapine",
+      "Diazepam",
+      "Lithium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a symptom of mania?",
+    "options": [
+      "Grandiosity",
+      "Increased activity",
+      "Flight of ideas",
+      "Social withdrawal"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which condition shows confabulation?",
+    "options": [
+      "Depression",
+      "Dementia",
+      "Anxiety",
+      "OCD"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best position for interviewing psychiatric patient is:",
+    "options": [
+      "Very close",
+      "Far away",
+      "At eye level",
+      "Standing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which drug is first-line for panic disorder?",
+    "options": [
+      "Lithium",
+      "SSRI",
+      "Antipsychotic",
+      "Antihistamine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a dissociative disorder?",
+    "options": [
+      "OCD",
+      "Amnesia",
+      "Depression",
+      "Mania"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which symptom is seen in catatonia?",
+    "options": [
+      "Hyperactivity",
+      "Mutism",
+      "Talkativeness",
+      "Aggression"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The nurse should not do in therapeutic communication:",
+    "options": [
+      "Listening",
+      "Empathy",
+      "Judgment",
+      "Clarification"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is a somatoform disorder?",
+    "options": [
+      "Anxiety",
+      "Conversion disorder",
+      "Schizophrenia",
+      "Bipolar disorder"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a sign of alcohol withdrawal?",
+    "options": [
+      "Bradycardia",
+      "Tremors",
+      "Sleep",
+      "Calmness"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency causes confusion in alcoholics?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B1",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which defense mechanism is “blaming others”?",
+    "options": [
+      "Denial",
+      "Projection",
+      "Regression",
+      "Sublimation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a positive symptom of schizophrenia?",
+    "options": [
+      "Hallucination",
+      "Delusion",
+      "Apathy",
+      "Disorganized speech"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The best way to deal with violent patient is:",
+    "options": [
+      "Argue",
+      "Restrain immediately",
+      "Stay calm and ensure safety",
+      "Ignore"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which drug is used in acute anxiety attack?",
+    "options": [
+      "Diazepam",
+      "Lithium",
+      "Haloperidol",
+      "Fluoxetine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which disorder shows lack of identity?",
+    "options": [
+      "Depression",
+      "Dissociative disorder",
+      "Mania",
+      "OCD"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a side effect of lithium?",
+    "options": [
+      "Hypertension",
+      "Tremor",
+      "Hair loss",
+      "Constipation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which therapy is best for depression?",
+    "options": [
+      "ECT",
+      "CBT",
+      "Surgery",
+      "Isolation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which symptom is seen in depression?",
+    "options": [
+      "Insomnia",
+      "Hyperactivity",
+      "Euphoria",
+      "Aggression"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which disorder is related to body image?",
+    "options": [
+      "OCD",
+      "Anorexia nervosa",
+      "Schizophrenia",
+      "Anxiety"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition shows “word salad”?",
+    "options": [
+      "Mania",
+      "Schizophrenia",
+      "Depression",
+      "Anxiety"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a sign of severe depression?",
+    "options": [
+      "Increased appetite",
+      "Suicidal thoughts",
+      "Hyperactivity",
+      "Aggression"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which drug is used for bipolar mania?",
+    "options": [
+      "Fluoxetine",
+      "Lithium",
+      "Diazepam",
+      "Haloperidol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disorder involves repeated hand washing?",
+    "options": [
+      "Phobia",
+      "OCD",
+      "Depression",
+      "Mania"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which symptom is seen in anxiety?",
+    "options": [
+      "Relaxation",
+      "Tachycardia",
+      "Sleep",
+      "Coma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which therapy uses reinforcement?",
+    "options": [
+      "Behavior therapy",
+      "Psychoanalysis",
+      "ECT",
+      "Drug therapy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a personality disorder?",
+    "options": [
+      "Depression",
+      "Anxiety",
+      "Borderline",
+      "OCD"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is a typical symptom of PTSD?",
+    "options": [
+      "Amnesia only",
+      "Flashbacks",
+      "Hallucination",
+      "Mania"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which drug causes sedation?",
+    "options": [
+      "Diazepam",
+      "Lithium",
+      "Fluoxetine",
+      "Haloperidol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which disorder shows excessive fear?",
+    "options": [
+      "Depression",
+      "Anxiety",
+      "Mania",
+      "Schizophrenia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a cognitive disorder?",
+    "options": [
+      "Dementia",
+      "Anxiety",
+      "OCD",
+      "Phobia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is NOT therapeutic communication?",
+    "options": [
+      "Listening",
+      "Empathy",
+      "Criticizing",
+      "Clarifying"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition shows poor impulse control?",
+    "options": [
+      "Depression",
+      "Mania",
+      "Dementia",
+      "Anxiety"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disorder includes fear of social situations?",
+    "options": [
+      "OCD",
+      "Social anxiety disorder",
+      "Mania",
+      "Schizophrenia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most severe mental illness?",
+    "options": [
+      "Anxiety",
+      "Depression",
+      "Schizophrenia",
+      "Phobia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most important principle in psychiatric care is:",
+    "options": [
+      "Medication",
+      "Safety",
+      "Diagnosis",
+      "Investigation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the earliest symptom of schizophrenia?",
+    "options": [
+      "Delusion",
+      "Hallucination",
+      "Social withdrawal",
+      "Catatonia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which antipsychotic has least EPS?",
+    "options": [
+      "Haloperidol",
+      "Chlorpromazine",
+      "Clozapine",
+      "Fluphenazine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Neuroleptic malignant syndrome includes:",
+    "options": [
+      "Hypothermia",
+      "Muscle rigidity",
+      "Hypotension",
+      "Bradycardia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which drug causes “cheese reaction”?",
+    "options": [
+      "SSRI",
+      "MAOI",
+      "TCA",
+      "Benzodiazepine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which symptom is seen in paranoid schizophrenia?",
+    "options": [
+      "Flat affect",
+      "Delusion of persecution",
+      "Mutism",
+      "Catatonia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a side effect of SSRIs?",
+    "options": [
+      "Hypertension",
+      "Sexual dysfunction",
+      "Seizure",
+      "Hyperactivity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best drug for acute mania is:",
+    "options": [
+      "Fluoxetine",
+      "Lithium",
+      "Diazepam",
+      "Amitriptyline"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition shows loosening of association?",
+    "options": [
+      "Depression",
+      "Schizophrenia",
+      "Anxiety",
+      "OCD"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which therapy focuses on unconscious mind?",
+    "options": [
+      "CBT",
+      "Behavior therapy",
+      "Psychoanalysis",
+      "ECT"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which drug is safest in elderly anxiety?",
+    "options": [
+      "Diazepam",
+      "Alprazolam",
+      "Lorazepam",
+      "Chlordiazepoxide"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition shows waxy flexibility?",
+    "options": [
+      "Depression",
+      "Mania",
+      "Catatonic schizophrenia",
+      "Anxiety"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is a sign of lithium toxicity?",
+    "options": [
+      "Hypertension",
+      "Coarse tremor",
+      "Bradycardia",
+      "Hyperactivity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disorder shows depersonalization?",
+    "options": [
+      "Anxiety",
+      "Dissociative disorder",
+      "Depression",
+      "Mania"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The nurse should respond to hallucination by:",
+    "options": [
+      "Agreeing",
+      "Arguing",
+      "Presenting reality",
+      "Ignoring"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is NOT a feature of OCD?",
+    "options": [
+      "Repetitive thoughts",
+      "Rituals",
+      "Loss of reality",
+      "Anxiety"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which disorder is linked to serotonin deficiency?",
+    "options": [
+      "Schizophrenia",
+      "Depression",
+      "Mania",
+      "Dementia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which symptom is seen in conversion disorder?",
+    "options": [
+      "Delusion",
+      "Physical symptom without cause",
+      "Hallucination",
+      "Mania"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a tricyclic antidepressant?",
+    "options": [
+      "Fluoxetine",
+      "Imipramine",
+      "Sertraline",
+      "Escitalopram"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the main symptom of delirium tremens?",
+    "options": [
+      "Calmness",
+      "Severe confusion + tremors",
+      "Sleep",
+      "Depression"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a cognitive therapy?",
+    "options": [
+      "Psychoanalysis",
+      "CBT",
+      "ECT",
+      "Drug therapy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition shows ambivalence?",
+    "options": [
+      "Depression",
+      "Schizophrenia",
+      "Anxiety",
+      "OCD"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which drug causes serotonin syndrome?",
+    "options": [
+      "Lithium",
+      "SSRI",
+      "Haloperidol",
+      "Diazepam"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a feature of panic attack?",
+    "options": [
+      "Slow pulse",
+      "Breathlessness",
+      "Sleep",
+      "Calmness"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a defense mechanism?",
+    "options": [
+      "Hallucination",
+      "Projection",
+      "Delusion",
+      "Illusion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disorder shows echopraxia?",
+    "options": [
+      "Mania",
+      "Schizophrenia",
+      "Depression",
+      "Anxiety"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a sign of severe anxiety?",
+    "options": [
+      "Calmness",
+      "Panic",
+      "Sleep",
+      "Relaxation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which therapy is used in children autism?",
+    "options": [
+      "ECT",
+      "Behavior therapy",
+      "Surgery",
+      "Drug only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a mood disorder?",
+    "options": [
+      "OCD",
+      "Bipolar disorder",
+      "Phobia",
+      "Dementia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a symptom of depression?",
+    "options": [
+      "Sadness",
+      "Anhedonia",
+      "Euphoria",
+      "Fatigue"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which drug is used in insomnia?",
+    "options": [
+      "Diazepam",
+      "Lithium",
+      "Haloperidol",
+      "Fluoxetine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a typical antipsychotic?",
+    "options": [
+      "Clozapine",
+      "Olanzapine",
+      "Risperidone",
+      "Chlorpromazine"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which symptom is seen in paranoia?",
+    "options": [
+      "Fear of being harmed",
+      "Happiness",
+      "Sleep",
+      "Calmness"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a sign of PTSD?",
+    "options": [
+      "Flashbacks",
+      "Euphoria",
+      "Calmness",
+      "Sleep"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which disorder has compulsive checking?",
+    "options": [
+      "OCD",
+      "Depression",
+      "Mania",
+      "Schizophrenia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a risk factor for suicide?",
+    "options": [
+      "Good support",
+      "Previous attempt",
+      "Employment",
+      "Happiness"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which therapy uses reward system?",
+    "options": [
+      "Behavior therapy",
+      "Psychoanalysis",
+      "ECT",
+      "Drug therapy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a feature of antisocial personality?",
+    "options": [
+      "Empathy",
+      "Lack of guilt",
+      "Shyness",
+      "Fear"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a symptom of mania?",
+    "options": [
+      "Grandiosity",
+      "Hyperactivity",
+      "Depression",
+      "Talkativeness"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is a withdrawal symptom of alcohol?",
+    "options": [
+      "Tremor",
+      "Sleep",
+      "Calmness",
+      "Relaxation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a dissociative symptom?",
+    "options": [
+      "Hallucination",
+      "Amnesia",
+      "Delusion",
+      "Mania"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which drug is used in schizophrenia?",
+    "options": [
+      "Haloperidol",
+      "Diazepam",
+      "Lithium",
+      "Fluoxetine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which symptom is seen in severe depression?",
+    "options": [
+      "Euphoria",
+      "Suicidal ideation",
+      "Hyperactivity",
+      "Talkativeness"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a defense mechanism?",
+    "options": [
+      "Denial",
+      "Projection",
+      "Illusion",
+      "Regression"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition shows disorganized speech?",
+    "options": [
+      "Anxiety",
+      "Schizophrenia",
+      "Depression",
+      "OCD"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a feature of GAD?",
+    "options": [
+      "Persistent worry",
+      "Hallucination",
+      "Delusion",
+      "Mania"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which drug is used in panic attack?",
+    "options": [
+      "Diazepam",
+      "Lithium",
+      "Haloperidol",
+      "Imipramine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which therapy is best for OCD?",
+    "options": [
+      "CBT",
+      "Surgery",
+      "ECT",
+      "Psychoanalysis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which symptom is seen in catatonia?",
+    "options": [
+      "Mutism",
+      "Talkativeness",
+      "Hyperactivity",
+      "Anxiety"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a personality disorder?",
+    "options": [
+      "Anxiety",
+      "Depression",
+      "Borderline",
+      "OCD"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most important nursing intervention in psychiatry is:",
+    "options": [
+      "Medication",
+      "Safety",
+      "Counseling",
+      "Diagnosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most common type of hallucination?",
+    "options": [
+      "Visual",
+      "Auditory",
+      "Olfactory",
+      "Tactile"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disorder shows “thought blocking”?",
+    "options": [
+      "Depression",
+      "Schizophrenia",
+      "Mania",
+      "Anxiety"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which drug is used in alcohol withdrawal?",
+    "options": [
+      "Lithium",
+      "Diazepam",
+      "Fluoxetine",
+      "Haloperidol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition shows “clang association”?",
+    "options": [
+      "Anxiety",
+      "Mania",
+      "Depression",
+      "OCD"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a feature of borderline personality disorder?",
+    "options": [
+      "Stable mood",
+      "Emotional instability",
+      "Lack of emotion",
+      "Social withdrawal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a symptom of schizophrenia?",
+    "options": [
+      "Delusion",
+      "Hallucination",
+      "Insight",
+      "Disorganized speech"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which drug is used for bipolar depression?",
+    "options": [
+      "Lithium",
+      "Fluoxetine",
+      "Haloperidol",
+      "Diazepam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a sign of anxiety disorder?",
+    "options": [
+      "Bradycardia",
+      "Sweating",
+      "Sleep",
+      "Calmness"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which defense mechanism is “refusing reality”?",
+    "options": [
+      "Projection",
+      "Denial",
+      "Sublimation",
+      "Regression"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a symptom of severe psychosis?",
+    "options": [
+      "Insight",
+      "Reality distortion",
+      "Calmness",
+      "Normal thinking"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which drug is used in schizophrenia?",
+    "options": [
+      "Risperidone",
+      "Diazepam",
+      "Lithium",
+      "Fluoxetine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a cognitive symptom of depression?",
+    "options": [
+      "Hallucination",
+      "Poor concentration",
+      "Aggression",
+      "Hyperactivity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a feature of mania?",
+    "options": [
+      "Low energy",
+      "Grandiosity",
+      "Social withdrawal",
+      "Sadness"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a type of anxiety disorder?",
+    "options": [
+      "Phobia",
+      "OCD",
+      "Dementia",
+      "Panic disorder"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is a side effect of antipsychotics?",
+    "options": [
+      "Hypoglycemia",
+      "EPS",
+      "Hypertension",
+      "Hyperactivity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disorder shows “perseveration”?",
+    "options": [
+      "Schizophrenia",
+      "Dementia",
+      "Mania",
+      "Anxiety"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the main symptom of GAD?",
+    "options": [
+      "Hallucination",
+      "Persistent worry",
+      "Delusion",
+      "Mania"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a sign of catatonia?",
+    "options": [
+      "Agitation",
+      "Mutism",
+      "Talkativeness",
+      "Euphoria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which therapy is best for panic disorder?",
+    "options": [
+      "CBT",
+      "Surgery",
+      "ECT",
+      "Drug only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a dissociative disorder?",
+    "options": [
+      "Amnesia",
+      "Schizophrenia",
+      "Depression",
+      "OCD"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a risk factor for suicide?",
+    "options": [
+      "Happiness",
+      "Previous attempt",
+      "Social support",
+      "Employment"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which drug causes sedation?",
+    "options": [
+      "Diazepam",
+      "Fluoxetine",
+      "Lithium",
+      "Haloperidol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which symptom is seen in OCD?",
+    "options": [
+      "Hallucination",
+      "Repetitive thoughts",
+      "Delusion",
+      "Mania"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disorder shows “flight of ideas”?",
+    "options": [
+      "Depression",
+      "Mania",
+      "Anxiety",
+      "OCD"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a feature of depression?",
+    "options": [
+      "Euphoria",
+      "Anhedonia",
+      "Hyperactivity",
+      "Talkativeness"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a side effect of lithium?",
+    "options": [
+      "Tremor",
+      "Hypertension",
+      "Hyperactivity",
+      "Sleep"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which therapy is used in severe depression?",
+    "options": [
+      "CBT",
+      "ECT",
+      "Behavior therapy",
+      "Counseling only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a symptom of schizophrenia?",
+    "options": [
+      "Delusion",
+      "Calmness",
+      "Sleep",
+      "Normal thinking"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a feature of anxiety?",
+    "options": [
+      "Tachycardia",
+      "Bradycardia",
+      "Calmness",
+      "Sleep"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which drug is used in OCD?",
+    "options": [
+      "Fluoxetine",
+      "Lithium",
+      "Diazepam",
+      "Haloperidol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a personality disorder?",
+    "options": [
+      "Depression",
+      "Anxiety",
+      "Antisocial",
+      "OCD"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which symptom is seen in PTSD?",
+    "options": [
+      "Flashbacks",
+      "Euphoria",
+      "Calmness",
+      "Sleep"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which disorder shows “word salad”?",
+    "options": [
+      "Mania",
+      "Schizophrenia",
+      "Depression",
+      "Anxiety"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a symptom of severe anxiety?",
+    "options": [
+      "Panic",
+      "Calmness",
+      "Sleep",
+      "Relaxation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which therapy uses reinforcement?",
+    "options": [
+      "Behavior therapy",
+      "Psychoanalysis",
+      "ECT",
+      "Drug therapy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a feature of mania?",
+    "options": [
+      "Grandiosity",
+      "Sadness",
+      "Sleep",
+      "Calmness"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a sign of depression?",
+    "options": [
+      "Suicidal thoughts",
+      "Euphoria",
+      "Hyperactivity",
+      "Talkativeness"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which drug is used in panic attack?",
+    "options": [
+      "Diazepam",
+      "Lithium",
+      "Fluoxetine",
+      "Haloperidol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a feature of schizophrenia?",
+    "options": [
+      "Reality distortion",
+      "Calmness",
+      "Sleep",
+      "Happiness"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is NOT a symptom of mania?",
+    "options": [
+      "Grandiosity",
+      "Talkativeness",
+      "Depression",
+      "Hyperactivity"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is a dissociative symptom?",
+    "options": [
+      "Amnesia",
+      "Delusion",
+      "Hallucination",
+      "Mania"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a feature of OCD?",
+    "options": [
+      "Rituals",
+      "Delusion",
+      "Hallucination",
+      "Mania"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a side effect of antipsychotics?",
+    "options": [
+      "EPS",
+      "Hypoglycemia",
+      "Sleep",
+      "Calmness"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which therapy is best for depression?",
+    "options": [
+      "CBT",
+      "Surgery",
+      "ECT only",
+      "Isolation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which disorder shows lack of empathy?",
+    "options": [
+      "Borderline",
+      "Antisocial",
+      "Avoidant",
+      "Histrionic"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a feature of anxiety?",
+    "options": [
+      "Sweating",
+      "Calmness",
+      "Sleep",
+      "Relaxation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a symptom of schizophrenia?",
+    "options": [
+      "Hallucination",
+      "Calmness",
+      "Sleep",
+      "Normal thinking"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a feature of depression?",
+    "options": [
+      "Anhedonia",
+      "Euphoria",
+      "Hyperactivity",
+      "Talkativeness"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which drug is used in schizophrenia?",
+    "options": [
+      "Haloperidol",
+      "Diazepam",
+      "Lithium",
+      "Fluoxetine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most important principle in psychiatric nursing is:",
+    "options": [
+      "Medication",
+      "Safety",
+      "Diagnosis",
+      "Investigation"
+    ],
+    "correctIndex": 1
+  }
+]

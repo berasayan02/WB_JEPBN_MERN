@@ -1,0 +1,1022 @@
+[
+  {
+    "text": "The study of structure of the human body is called:",
+    "options": [
+      "Physiology",
+      "Anatomy",
+      "Pathology",
+      "Cytology"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The smallest structural unit of the body is:",
+    "options": [
+      "Tissue",
+      "Organ",
+      "Cell",
+      "System"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The functional unit of the kidney is:",
+    "options": [
+      "Neuron",
+      "Nephron",
+      "Alveoli",
+      "Lobule"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The largest organ in the human body is:",
+    "options": [
+      "Liver",
+      "Brain",
+      "Skin",
+      "Heart"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Normal anatomical position means:",
+    "options": [
+      "Lying flat",
+      "Standing erect with palms forward",
+      "Sitting position",
+      "Bent posture"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The study of tissues is called:",
+    "options": [
+      "Cytology",
+      "Histology",
+      "Osteology",
+      "Neurology"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The plane dividing body into left and right is:",
+    "options": [
+      "Coronal",
+      "Transverse",
+      "Sagittal",
+      "Oblique"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The plane dividing body into upper and lower parts:",
+    "options": [
+      "Sagittal",
+      "Coronal",
+      "Transverse",
+      "Frontal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The term anterior means:",
+    "options": [
+      "Back",
+      "Front",
+      "Side",
+      "Bottom"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The term distal means:",
+    "options": [
+      "Near origin",
+      "Away from origin",
+      "Above",
+      "Below"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Total number of bones in adult human body:",
+    "options": [
+      "200",
+      "206",
+      "210",
+      "208"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The longest bone is:",
+    "options": [
+      "Tibia",
+      "Humerus",
+      "Femur",
+      "Radius"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The smallest bone is:",
+    "options": [
+      "Stapes",
+      "Malleus",
+      "Incus",
+      "Radius"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Skull consists of how many bones?",
+    "options": [
+      "22",
+      "20",
+      "24",
+      "26"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Vertebral column has how many vertebrae?",
+    "options": [
+      "31",
+      "33",
+      "35",
+      "30"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The knee joint is:",
+    "options": [
+      "Ball and socket",
+      "Hinge joint",
+      "Pivot joint",
+      "Saddle joint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The shoulder joint is:",
+    "options": [
+      "Hinge",
+      "Pivot",
+      "Ball and socket",
+      "Gliding"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The wrist joint is:",
+    "options": [
+      "Saddle",
+      "Hinge",
+      "Pivot",
+      "Condyloid"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The patella is:",
+    "options": [
+      "Wrist bone",
+      "Knee cap",
+      "Arm bone",
+      "Skull bone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The clavicle is also called:",
+    "options": [
+      "Collar bone",
+      "Thigh bone",
+      "Shin bone",
+      "Jaw bone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Total number of muscles in human body:",
+    "options": [
+      "500",
+      "600",
+      "700",
+      "800"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Voluntary muscles are:",
+    "options": [
+      "Smooth",
+      "Cardiac",
+      "Skeletal",
+      "Involuntary"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Cardiac muscles are found in:",
+    "options": [
+      "Brain",
+      "Heart",
+      "Liver",
+      "Kidney"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Smooth muscles are:",
+    "options": [
+      "Voluntary",
+      "Involuntary",
+      "Striated",
+      "Skeletal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Muscle that helps in breathing:",
+    "options": [
+      "Biceps",
+      "Triceps",
+      "Diaphragm",
+      "Deltoid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Opposite action muscles are called:",
+    "options": [
+      "Synergists",
+      "Antagonists",
+      "Flexors",
+      "Extensors"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Biceps muscle helps in:",
+    "options": [
+      "Extension",
+      "Flexion",
+      "Rotation",
+      "Abduction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The strongest muscle:",
+    "options": [
+      "Masseter",
+      "Biceps",
+      "Triceps",
+      "Deltoid"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The largest muscle:",
+    "options": [
+      "Gluteus maximus",
+      "Biceps",
+      "Triceps",
+      "Sartorius"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Muscle fatigue is due to:",
+    "options": [
+      "Oxygen",
+      "Lactic acid",
+      "Glucose",
+      "Calcium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Structural unit of nervous system:",
+    "options": [
+      "Nephron",
+      "Neuron",
+      "Cell",
+      "Axon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Brain and spinal cord form:",
+    "options": [
+      "Peripheral",
+      "Central",
+      "Autonomic",
+      "Somatic"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Largest part of brain:",
+    "options": [
+      "Cerebellum",
+      "Cerebrum",
+      "Medulla",
+      "Pons"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Balance is controlled by:",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Spinal cord"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Respiratory center is in:",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Pons"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Reflex action is controlled by:",
+    "options": [
+      "Brain",
+      "Spinal cord",
+      "Heart",
+      "Liver"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Number of cranial nerves:",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Number of spinal nerves:",
+    "options": [
+      "31 pairs",
+      "33 pairs",
+      "30 pairs",
+      "28 pairs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Autonomic system controls:",
+    "options": [
+      "Voluntary",
+      "Involuntary",
+      "Movement",
+      "Thinking"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Heart has how many chambers?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Largest artery:",
+    "options": [
+      "Pulmonary",
+      "Aorta",
+      "Carotid",
+      "Femoral"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Oxygenated blood is carried by:",
+    "options": [
+      "Veins",
+      "Arteries",
+      "Capillaries",
+      "Lymph"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Normal heart rate:",
+    "options": [
+      "60–100",
+      "40–60",
+      "100–120",
+      "20–40"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Blood filtered in:",
+    "options": [
+      "Liver",
+      "Heart",
+      "Kidney",
+      "Lungs"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Gas exchange occurs in:",
+    "options": [
+      "Bronchi",
+      "Trachea",
+      "Alveoli",
+      "Larynx"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Number of lungs:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Windpipe is called:",
+    "options": [
+      "Bronchus",
+      "Trachea",
+      "Larynx",
+      "Alveoli"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Hemoglobin carries:",
+    "options": [
+      "CO2",
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Right side of heart contains:",
+    "options": [
+      "Oxygenated",
+      "Deoxygenated",
+      "Mixed",
+      "Plasma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Longest part of alimentary canal:",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Large intestine",
+      "Esophagus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "First part of small intestine:",
+    "options": [
+      "Jejunum",
+      "Ileum",
+      "Duodenum",
+      "Colon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Largest gland:",
+    "options": [
+      "Pancreas",
+      "Liver",
+      "Thyroid",
+      "Salivary"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Bile is produced by:",
+    "options": [
+      "Pancreas",
+      "Liver",
+      "Gall bladder",
+      "Stomach"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Bile is stored in:",
+    "options": [
+      "Pancreas",
+      "Liver",
+      "Gall bladder",
+      "Duodenum"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Absorption of nutrients:",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Large intestine",
+      "Liver"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Appendix attached to:",
+    "options": [
+      "Ileum",
+      "Colon",
+      "Cecum",
+      "Rectum"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Pepsin works in:",
+    "options": [
+      "Mouth",
+      "Stomach",
+      "Intestine",
+      "Liver"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Stomach pH:",
+    "options": [
+      "Neutral",
+      "Acidic",
+      "Basic",
+      "Alkaline"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Large intestine absorbs:",
+    "options": [
+      "Proteins",
+      "Fats",
+      "Water",
+      "Vitamins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Voice box:",
+    "options": [
+      "Trachea",
+      "Larynx",
+      "Pharynx",
+      "Bronchus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Epiglottis prevents entry into:",
+    "options": [
+      "Esophagus",
+      "Trachea",
+      "Stomach",
+      "Bronchi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Right lung lobes:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Left lung lobes:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Lung covering:",
+    "options": [
+      "Peritoneum",
+      "Pleura",
+      "Pericardium",
+      "Meninges"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Respiration rate:",
+    "options": [
+      "5–10",
+      "12–20",
+      "25–30",
+      "30–40"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Pharynx passage:",
+    "options": [
+      "Air",
+      "Food",
+      "Both",
+      "Blood"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Bronchus divides into:",
+    "options": [
+      "Trachea",
+      "Bronchioles",
+      "Alveoli",
+      "Larynx"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "CO2 transport:",
+    "options": [
+      "Gas",
+      "Bicarbonate",
+      "Hemoglobin",
+      "Plasma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Kidney functional unit:",
+    "options": [
+      "Neuron",
+      "Nephron",
+      "Alveoli",
+      "Lobule"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Kidneys located in:",
+    "options": [
+      "Thoracic",
+      "Abdominal",
+      "Pelvic",
+      "Cranial"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Urine stored in:",
+    "options": [
+      "Kidney",
+      "Ureter",
+      "Bladder",
+      "Urethra"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Ureter carries:",
+    "options": [
+      "Kidney to bladder",
+      "Bladder out",
+      "Blood",
+      "Tubule"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Outer kidney layer:",
+    "options": [
+      "Medulla",
+      "Cortex",
+      "Pelvis",
+      "Capsule"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Filtration occurs in:",
+    "options": [
+      "Loop",
+      "Glomerulus",
+      "Tubule",
+      "Pelvis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Normal urine:",
+    "options": [
+      "Acidic",
+      "Basic",
+      "Neutral",
+      "Alkaline"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Bladder lining:",
+    "options": [
+      "Squamous",
+      "Transitional",
+      "Columnar",
+      "Cuboidal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Urine formation:",
+    "options": [
+      "Filtration",
+      "Excretion",
+      "Secretion",
+      "Osmosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Urethra carries:",
+    "options": [
+      "Kidney-bladder",
+      "Bladder-out",
+      "Blood",
+      "Kidney"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Hemoglobin contains:",
+    "options": [
+      "Copper",
+      "Iron",
+      "Calcium",
+      "Sodium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Largest vein:",
+    "options": [
+      "Pulmonary",
+      "Vena cava",
+      "Aorta",
+      "Carotid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Capillaries allow:",
+    "options": [
+      "Pumping",
+      "Exchange",
+      "Storage",
+      "Filtration"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Aorta arises from:",
+    "options": [
+      "RA",
+      "LV",
+      "RV",
+      "LA"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Pancreas is:",
+    "options": [
+      "Exocrine",
+      "Endocrine",
+      "Both",
+      "None"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Spleen helps in:",
+    "options": [
+      "Digestion",
+      "Immunity",
+      "Respiration",
+      "Excretion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Largest lymph organ:",
+    "options": [
+      "Liver",
+      "Spleen",
+      "Kidney",
+      "Brain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Tonsils part of:",
+    "options": [
+      "Digestive",
+      "Lymphatic",
+      "Nervous",
+      "Endocrine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Adrenal medulla secretes:",
+    "options": [
+      "Insulin",
+      "Adrenaline",
+      "Thyroxine",
+      "Estrogen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Pineal gland secretes:",
+    "options": [
+      "Melatonin",
+      "Insulin",
+      "Cortisol",
+      "Thyroxine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Pituitary lies in:",
+    "options": [
+      "Chest",
+      "Brain",
+      "Abdomen",
+      "Neck"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Olfactory organ:",
+    "options": [
+      "Eye",
+      "Nose",
+      "Ear",
+      "Skin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Retina contains:",
+    "options": [
+      "Rods & cones",
+      "Hair cells",
+      "Taste buds",
+      "Nerve cells"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Cochlea is for:",
+    "options": [
+      "Balance",
+      "Hearing",
+      "Smell",
+      "Taste"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Semicircular canals:",
+    "options": [
+      "Hearing",
+      "Balance",
+      "Smell",
+      "Vision"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Tongue contains:",
+    "options": [
+      "Rods",
+      "Cones",
+      "Taste buds",
+      "Hair cells"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Skin pigment:",
+    "options": [
+      "Hemoglobin",
+      "Melanin",
+      "Keratin",
+      "Collagen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Dermis contains:",
+    "options": [
+      "Hair",
+      "Blood vessels",
+      "Nerves",
+      "All"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Epidermis is:",
+    "options": [
+      "Vascular",
+      "Avascular",
+      "Muscular",
+      "Nervous"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Sweat glands:",
+    "options": [
+      "Digestion",
+      "Temperature",
+      "Respiration",
+      "Circulation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Sebaceous glands:",
+    "options": [
+      "Sweat",
+      "Oil",
+      "Blood",
+      "Hormones"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Nails made of:",
+    "options": [
+      "Collagen",
+      "Keratin",
+      "Calcium",
+      "Protein"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Hair made of:",
+    "options": [
+      "Keratin",
+      "Fat",
+      "Calcium",
+      "Iron"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Study of skin:",
+    "options": [
+      "Dermatology",
+      "Neurology",
+      "Cardiology",
+      "Osteology"
+    ],
+    "correctIndex": 0
+  }
+]

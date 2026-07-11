@@ -1,0 +1,1002 @@
+[
+  {
+    "text": "The normal heart rate in adults is:",
+    "options": [
+      "40–60 bpm",
+      "60–100 bpm",
+      "100–120 bpm",
+      "120–140 bpm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The pacemaker of the heart is:",
+    "options": [
+      "AV node",
+      "SA node",
+      "Bundle of His",
+      "Purkinje fibers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The largest artery in the human body is:",
+    "options": [
+      "Pulmonary artery",
+      "Aorta",
+      "Carotid artery",
+      "Femoral artery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which chamber pumps oxygenated blood to the body?",
+    "options": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Blood enters the right atrium from:",
+    "options": [
+      "Pulmonary veins",
+      "Aorta",
+      "Vena cava",
+      "Pulmonary artery"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The valve between left atrium and left ventricle is:",
+    "options": [
+      "Tricuspid valve",
+      "Mitral valve",
+      "Aortic valve",
+      "Pulmonary valve"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which blood vessels carry oxygenated blood?",
+    "options": [
+      "Veins only",
+      "Arteries only",
+      "Both arteries and veins",
+      "Capillaries only"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal blood pressure is:",
+    "options": [
+      "100/60 mmHg",
+      "120/80 mmHg",
+      "140/90 mmHg",
+      "160/100 mmHg"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The pulmonary artery carries:",
+    "options": [
+      "Oxygenated blood",
+      "Deoxygenated blood",
+      "Mixed blood",
+      "No blood"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The functional unit of blood vessels is:",
+    "options": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Venules"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The heart is located in:",
+    "options": [
+      "Abdomen",
+      "Thoracic cavity",
+      "Pelvic cavity",
+      "Cranial cavity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which layer of heart is muscular?",
+    "options": [
+      "Endocardium",
+      "Pericardium",
+      "Myocardium",
+      "Epicardium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The double circulation system includes:",
+    "options": [
+      "Systemic only",
+      "Pulmonary only",
+      "Systemic and pulmonary",
+      "Coronary only"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vein carries oxygenated blood?",
+    "options": [
+      "Superior vena cava",
+      "Inferior vena cava",
+      "Pulmonary vein",
+      "Hepatic vein"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The lub-dub sound is due to:",
+    "options": [
+      "Muscle contraction",
+      "Valve closure",
+      "Blood flow",
+      "Nerve impulses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The right ventricle pumps blood to:",
+    "options": [
+      "Aorta",
+      "Body",
+      "Lungs",
+      "Brain"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The oxygen-carrying pigment in blood is:",
+    "options": [
+      "Myoglobin",
+      "Hemoglobin",
+      "Plasma",
+      "Platelets"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which blood cells help in clotting?",
+    "options": [
+      "RBC",
+      "WBC",
+      "Platelets",
+      "Plasma"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Coronary arteries supply blood to:",
+    "options": [
+      "Brain",
+      "Lungs",
+      "Heart muscle",
+      "Kidneys"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The septum divides the heart into:",
+    "options": [
+      "Upper and lower parts",
+      "Left and right halves",
+      "Front and back",
+      "Inner and outer layers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The number of chambers in the human heart is:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The left atrium receives blood from:",
+    "options": [
+      "Vena cava",
+      "Pulmonary veins",
+      "Aorta",
+      "Pulmonary artery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which valve prevents backflow into the right atrium?",
+    "options": [
+      "Mitral valve",
+      "Aortic valve",
+      "Tricuspid valve",
+      "Pulmonary valve"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The thickness of left ventricle is more because:",
+    "options": [
+      "It stores blood",
+      "It pumps blood to lungs",
+      "It pumps blood to entire body",
+      "It has less pressure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The pulmonary circulation is between:",
+    "options": [
+      "Heart and body",
+      "Heart and lungs",
+      "Lungs and body",
+      "Brain and heart"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The artery that supplies the brain is:",
+    "options": [
+      "Coronary artery",
+      "Pulmonary artery",
+      "Carotid artery",
+      "Femoral artery"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The inferior vena cava brings blood from:",
+    "options": [
+      "Upper body",
+      "Lower body",
+      "Brain",
+      "Lungs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Blood group is discovered by:",
+    "options": [
+      "Louis Pasteur",
+      "Karl Landsteiner",
+      "William Harvey",
+      "Edward Jenner"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which component of blood fights infection?",
+    "options": [
+      "RBC",
+      "Platelets",
+      "WBC",
+      "Plasma"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The lifespan of RBC is about:",
+    "options": [
+      "10 days",
+      "60 days",
+      "120 days",
+      "1 year"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The fluid part of blood is:",
+    "options": [
+      "Serum",
+      "Plasma",
+      "Platelets",
+      "Hemoglobin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which blood group is universal donor?",
+    "options": [
+      "A",
+      "B",
+      "AB",
+      "O"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which blood group is universal recipient?",
+    "options": [
+      "A",
+      "B",
+      "AB",
+      "O"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The study of heart is called:",
+    "options": [
+      "Neurology",
+      "Cardiology",
+      "Hematology",
+      "Physiology"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The pulse is commonly checked at:",
+    "options": [
+      "Jugular vein",
+      "Radial artery",
+      "Femoral vein",
+      "Pulmonary artery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin is essential for blood clotting?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The smallest blood vessels are:",
+    "options": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Venules"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which organ produces RBC?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Bone marrow",
+      "Heart"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The process of formation of blood cells is:",
+    "options": [
+      "Hemolysis",
+      "Hemopoiesis",
+      "Phagocytosis",
+      "Coagulation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which instrument measures blood pressure?",
+    "options": [
+      "Stethoscope",
+      "Thermometer",
+      "Sphygmomanometer",
+      "ECG"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which part of heart receives deoxygenated blood first?",
+    "options": [
+      "Left atrium",
+      "Right atrium",
+      "Left ventricle",
+      "Right ventricle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The bicuspid valve is also known as:",
+    "options": [
+      "Tricuspid valve",
+      "Mitral valve",
+      "Pulmonary valve",
+      "Aortic valve"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vessel carries blood away from the heart?",
+    "options": [
+      "Vein",
+      "Capillary",
+      "Artery",
+      "Venule"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The pulmonary vein opens into:",
+    "options": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The heart is covered by:",
+    "options": [
+      "Pleura",
+      "Pericardium",
+      "Peritoneum",
+      "Meninges"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which of the following is NOT a function of blood?",
+    "options": [
+      "Transport",
+      "Protection",
+      "Digestion",
+      "Regulation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which artery is called the “widow maker”?",
+    "options": [
+      "Coronary artery",
+      "Left anterior descending artery",
+      "Pulmonary artery",
+      "Carotid artery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which chamber has the thinnest wall?",
+    "options": [
+      "Left ventricle",
+      "Right ventricle",
+      "Left atrium",
+      "Right atrium"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The lub sound is due to closure of:",
+    "options": [
+      "Semilunar valves",
+      "AV valves",
+      "Aortic valve",
+      "Pulmonary valve"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The dub sound is due to closure of:",
+    "options": [
+      "AV valves",
+      "Mitral valve",
+      "Semilunar valves",
+      "Tricuspid valve"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The SA node is located in:",
+    "options": [
+      "Left atrium",
+      "Right atrium",
+      "Left ventricle",
+      "Septum"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which of the following has no nucleus?",
+    "options": [
+      "WBC",
+      "Platelets",
+      "RBC",
+      "Plasma"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which blood vessel has valves?",
+    "options": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Arterioles"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which of the following transports oxygen?",
+    "options": [
+      "Plasma",
+      "Hemoglobin",
+      "Platelets",
+      "WBC"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The cardiac cycle consists of:",
+    "options": [
+      "Only systole",
+      "Only diastole",
+      "Systole and diastole",
+      "None"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal pulse rate is:",
+    "options": [
+      "40–50 bpm",
+      "60–100 bpm",
+      "100–140 bpm",
+      "140–180 bpm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which structure prevents mixing of oxygenated and deoxygenated blood?",
+    "options": [
+      "Valve",
+      "Septum",
+      "Atrium",
+      "Ventricle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which metal is essential for hemoglobin formation?",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Sodium",
+      "Potassium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The hepatic portal vein carries blood from:",
+    "options": [
+      "Heart to liver",
+      "Liver to heart",
+      "Intestine to liver",
+      "Kidney to liver"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition is caused by lack of hemoglobin?",
+    "options": [
+      "Leukemia",
+      "Anemia",
+      "Hemophilia",
+      "Thrombosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which chamber pumps blood into the pulmonary artery?",
+    "options": [
+      "Left atrium",
+      "Right atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The aortic valve is located between:",
+    "options": [
+      "Left atrium & left ventricle",
+      "Right atrium & right ventricle",
+      "Left ventricle & aorta",
+      "Right ventricle & pulmonary artery"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which blood vessel has the highest pressure?",
+    "options": [
+      "Vein",
+      "Capillary",
+      "Aorta",
+      "Venule"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The exchange of gases occurs in:",
+    "options": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Aorta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The heart beat is initiated by:",
+    "options": [
+      "AV node",
+      "SA node",
+      "Purkinje fibers",
+      "Bundle of His"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The blood vessel that carries blood from heart to lungs is:",
+    "options": [
+      "Aorta",
+      "Pulmonary vein",
+      "Pulmonary artery",
+      "Coronary artery"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which of the following prevents backflow of blood?",
+    "options": [
+      "Septum",
+      "Valves",
+      "Arteries",
+      "Veins"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The right side of heart contains:",
+    "options": [
+      "Oxygenated blood",
+      "Deoxygenated blood",
+      "Mixed blood",
+      "No blood"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which blood component helps in immunity?",
+    "options": [
+      "RBC",
+      "WBC",
+      "Platelets",
+      "Plasma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The average weight of human heart is about:",
+    "options": [
+      "100 g",
+      "200 g",
+      "300 g",
+      "500 g"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which artery carries deoxygenated blood?",
+    "options": [
+      "Aorta",
+      "Pulmonary artery",
+      "Coronary artery",
+      "Carotid artery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vein carries oxygenated blood?",
+    "options": [
+      "Pulmonary vein",
+      "Vena cava",
+      "Hepatic vein",
+      "Renal vein"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which valve is present between right atrium and right ventricle?",
+    "options": [
+      "Mitral",
+      "Tricuspid",
+      "Aortic",
+      "Pulmonary"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The septum is made of:",
+    "options": [
+      "Cartilage",
+      "Bone",
+      "Muscle",
+      "Nerve"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The function of platelets is:",
+    "options": [
+      "Oxygen transport",
+      "Immunity",
+      "Clotting",
+      "Hormone transport"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal pH of blood is:",
+    "options": [
+      "6.5",
+      "7.4",
+      "8.5",
+      "9.0"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of blood transports nutrients?",
+    "options": [
+      "RBC",
+      "WBC",
+      "Platelets",
+      "Plasma"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which organ regulates blood pressure mainly?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Brain",
+      "Heart"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The contraction phase of heart is called:",
+    "options": [
+      "Diastole",
+      "Systole",
+      "Pulse",
+      "Circulation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The relaxation phase is called:",
+    "options": [
+      "Systole",
+      "Diastole",
+      "Pulse",
+      "Perfusion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which structure conducts impulse from atria to ventricles?",
+    "options": [
+      "SA node",
+      "AV node",
+      "Purkinje fibers",
+      "Septum"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vessel supplies oxygen to heart muscle?",
+    "options": [
+      "Pulmonary artery",
+      "Aorta",
+      "Coronary artery",
+      "Vena cava"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which component lacks hemoglobin?",
+    "options": [
+      "RBC",
+      "WBC",
+      "Plasma",
+      "Both B & C"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The largest vein in the body is:",
+    "options": [
+      "Pulmonary vein",
+      "Superior vena cava",
+      "Inferior vena cava",
+      "Hepatic vein"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is NOT a blood group system?",
+    "options": [
+      "ABO",
+      "Rh",
+      "MN",
+      "DNA"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which chamber has thickest wall?",
+    "options": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The heart is made of:",
+    "options": [
+      "Smooth muscle",
+      "Skeletal muscle",
+      "Cardiac muscle",
+      "Nervous tissue"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The blood volume in adult human is about:",
+    "options": [
+      "2 L",
+      "3 L",
+      "5 L",
+      "8 L"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which structure separates two ventricles?",
+    "options": [
+      "Interatrial septum",
+      "Interventricular septum",
+      "Valve",
+      "Pericardium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease is due to clotting deficiency?",
+    "options": [
+      "Anemia",
+      "Hemophilia",
+      "Leukemia",
+      "Hypertension"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The first heart sound is due to:",
+    "options": [
+      "Semilunar valve closure",
+      "AV valve closure",
+      "Blood flow",
+      "Muscle contraction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The second heart sound is due to:",
+    "options": [
+      "AV valve closure",
+      "Muscle contraction",
+      "Semilunar valve closure",
+      "Blood flow"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which blood group has no antigen?",
+    "options": [
+      "A",
+      "B",
+      "AB",
+      "O"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which blood group has both antigens?",
+    "options": [
+      "A",
+      "B",
+      "AB",
+      "O"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The oxygenated blood is bright:",
+    "options": [
+      "Blue",
+      "Dark red",
+      "Bright red",
+      "Yellow"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The deoxygenated blood is:",
+    "options": [
+      "Bright red",
+      "Blue",
+      "Dark red",
+      "Yellow"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which ion is important for heart contraction?",
+    "options": [
+      "Sodium",
+      "Potassium",
+      "Calcium",
+      "Chloride"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "ECG stands for:",
+    "options": [
+      "Electrocardiogram",
+      "Echocardiogram",
+      "Electromyogram",
+      "Electroencephalogram"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The function of hemoglobin is to transport:",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon",
+      "Hydrogen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The circulation discovered by William Harvey is:",
+    "options": [
+      "Pulmonary circulation",
+      "Systemic circulation",
+      "Blood circulation",
+      "Lymph circulation"
+    ],
+    "correctIndex": 2
+  }
+]

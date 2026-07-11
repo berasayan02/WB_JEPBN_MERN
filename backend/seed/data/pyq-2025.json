@@ -1,0 +1,1002 @@
+[
+  {
+    "text": "Which part of the eye regulates the amount of light entering?",
+    "options": [
+      "Retina",
+      "Lens",
+      "Cornea",
+      "Iris"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The organ of Corti is present in the",
+    "options": [
+      "Semicircular canals",
+      "Cochlea",
+      "Vestibule",
+      "Eustachian tube"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The longest cranial nerve is",
+    "options": [
+      "Trigeminal nerve",
+      "Facial nerve",
+      "Vagus nerve",
+      "Hypoglossal nerve"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The endocrine part of the pancreas is called",
+    "options": [
+      "Acini",
+      "Islets of Langerhans",
+      "Sinusoids",
+      "Hepatocytes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which structure connects the pharynx to the middle ear?",
+    "options": [
+      "Cochlea",
+      "Vestibule",
+      "Semicircular canal",
+      "Eustachian tube"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The main respiratory center is located in the",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla oblongata",
+      "Pons"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which type of muscle is involuntary and non-striated?",
+    "options": [
+      "Skeletal muscle",
+      "Cardiac muscle",
+      "Smooth muscle",
+      "Voluntary muscle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The Frank–Starling law is related to",
+    "options": [
+      "Pulmonary ventilation",
+      "Heart contraction",
+      "Blood clotting",
+      "Kidney filtration"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The largest volume of air that can be expired after a minimal inspiration is called",
+    "options": [
+      "Tidal volume",
+      "Residual volume",
+      "Vital capacity",
+      "Functional residual capacity"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone is primarily involved in water re-absorption in the kidney?",
+    "options": [
+      "ADH (vasopressin)",
+      "Aldosterone",
+      "Cortisol",
+      "Insulin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The process of boiling water at 100°C for 30 minutes is an example of",
+    "options": [
+      "Sterilization",
+      "Disinfection",
+      "Pasteurization",
+      "Antisepsis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The term aseptic technique refers to",
+    "options": [
+      "the use of antibiotics to kill bacteria.",
+      "the prevention of microbial contamination during medical procedures.",
+      "the process of killing all microorganisms in a given area.",
+      "the collection of specimens from a patient for analysis."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most common type of biological vector for zoonotic disease in human beings?",
+    "options": [
+      "Virus",
+      "Arthropods",
+      "Mammals",
+      "Bacteria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Incubation period of Measles is",
+    "options": [
+      "3 days",
+      "21 days",
+      "10 days",
+      "30 days"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which of the following is a spore forming bacteria?",
+    "options": [
+      "Escherichia Coli",
+      "Treponema Pallidum",
+      "Clostridium Tetani",
+      "Vibrio Cholerae"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin is necessary for the utilization and retention of calcium and phosphorous?",
+    "options": [
+      "Vitamin-D",
+      "Vitamin-C",
+      "Vitamin-K",
+      "Vitamin-A"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which of the following is an example of Gluten free diet?",
+    "options": [
+      "Wheat",
+      "Barley",
+      "Milk",
+      "Bread"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which of the following is an iron-transporting protein?",
+    "options": [
+      "Transferrin",
+      "Ferritin",
+      "Porphyrin",
+      "Pyridoxine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which dangerous bacteria may be present in raw eggs?",
+    "options": [
+      "Bacillus",
+      "Salmonella",
+      "Streptococcus",
+      "Lactobacillus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Horney or toad skin is due to deficiency of",
+    "options": [
+      "Proteins",
+      "Essential fatty acids",
+      "Carbohydrates",
+      "Essential minerals"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Antitussive drug is used to inhibit",
+    "options": [
+      "Cough",
+      "Sweating",
+      "Itching",
+      "Sneezing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which of the drugs is used as a 1st line of drug for treating anaphylactic shock?",
+    "options": [
+      "Corticosteroids",
+      "Epinephrine",
+      "Antihistamines",
+      "Bronchodilator"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Antidote of Warfarin is",
+    "options": [
+      "Vitamin-K",
+      "Naloxone",
+      "Amiodarone",
+      "Protamine sulphate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The drug used to counteract organophosphate poisoning—",
+    "options": [
+      "Physostigmine",
+      "Atropine",
+      "Diazepam",
+      "EDTA"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which drug is used as a 1st line of treatment of supra ventricular tachycardia (SVT)?",
+    "options": [
+      "Atropine",
+      "Deriphyllin",
+      "Morphin",
+      "Adenosine"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Insufficiency of this substance in blood may cause oedema—",
+    "options": [
+      "Albumin",
+      "Hormone",
+      "Electrolytes",
+      "Gases"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Select the following which is not required for clot formation.",
+    "options": [
+      "Plasmin",
+      "Vitamin-K",
+      "Calcium",
+      "Fibrinogen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Most reliable and standardized test to diagnose rheumatic fever is",
+    "options": [
+      "ESR",
+      "ECG",
+      "C-Reactive Protein",
+      "Anti-streptolysin O titer"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Inherited sex-linked bleeding disorder is",
+    "options": [
+      "Hemophilia",
+      "Thalassemia",
+      "Sickle cell disease",
+      "Purpura"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Huntington’s disease is an inherited neurological disorder that affects",
+    "options": [
+      "muscle and movement control.",
+      "immune system and autoimmune response.",
+      "endocrine system and hormone production.",
+      "digestive system and nutrient absorption."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Marriage within the caste is known as",
+    "options": [
+      "Endogamy",
+      "Exogamy",
+      "Sororate",
+      "Incest taboo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which of the following is an example of a secondary group?",
+    "options": [
+      "Family",
+      "Close friends",
+      "Work colleagues in a large corporation",
+      "Neighborhood playgroup of toddlers"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The process by which culture is passed from one generation to another is called",
+    "options": [
+      "Innovation",
+      "Cultural diffusion",
+      "Socialization",
+      "Globalization"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "A caste system is an example of",
+    "options": [
+      "open stratification where social mobility is high.",
+      "closed stratification where social position is hereditary and fixed.",
+      "a merit-based system.",
+      "an economic class system where wealth is the only determinant."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which of the following is an example of formal social control?",
+    "options": [
+      "Family norms",
+      "Peer pressure",
+      "Laws enforced by the police",
+      "Personal conscience"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The stage of Erikson’s psychosocial development that focuses on identity vs. role confusion occurs during",
+    "options": [
+      "Childhood (6–12 years)",
+      "Adolescence (12–18 years)",
+      "Young adulthood (18–40 years)",
+      "Middle adulthood (40–65 years)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The founder of client-centered therapy is",
+    "options": [
+      "Carl Rogers",
+      "B.F. Skinner",
+      "Sigmund Freud",
+      "Alfred Adler"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The process of focusing awareness on a limited aspects of the environment is called",
+    "options": [
+      "Sensation",
+      "Perception",
+      "Attention",
+      "Cognition"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which method of psychology emphasizes studying the whole experience rather than parts?",
+    "options": [
+      "Behaviorism",
+      "Humanistic psychology",
+      "Gestalt psychology",
+      "Psychoanalysis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The ability to solve new problems and adapt to new situations is called",
+    "options": [
+      "Crystallized Intelligence",
+      "Fluid Intelligence",
+      "Practical Intelligence",
+      "Emotional Intelligence"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "One idea runs into another without connection, there by the speech is disjointed or disconnected. This progression level of thought is called",
+    "options": [
+      "Flight of idea",
+      "Perseveration",
+      "Incoherence",
+      "Tangentiality"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "A student failed in her Psychology exam and spent the entire evening criticizing the teacher and the institution. This behaviour is an example of",
+    "options": [
+      "Rationalization",
+      "Compensation",
+      "Projection",
+      "Displacement"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Mini Mental Status Examination (MMSE) with 30 point questionnaire test is done to screen for",
+    "options": [
+      "Cognitive Impairment",
+      "Sensory Impairment",
+      "Perceptual Impairment",
+      "Speech Impairment"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Freud classified all mental contents and operations into the categories of",
+    "options": [
+      "Conscious and Preconscious mind",
+      "Conscious and Unconscious mind",
+      "Conscious and Preconscious and Unconscious mind",
+      "Preconscious and Unconscious mind"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The patient has an exaggerated concern over his bodily health is called",
+    "options": [
+      "Hypochondria",
+      "Delusion",
+      "Depression",
+      "Anxiety"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The management of nausea as a side effect of lithium carbonate (Eskalith) includes instructing the patient to take the medication",
+    "options": [
+      "after meals.",
+      "between meals.",
+      "with a carbonated beverage.",
+      "with a large glass of water."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which of the following is an appropriate statement for the principle that ‘patient is accepted exactly as he is’?",
+    "options": [
+      "Objective observation of patient behaviour",
+      "Explaining all the procedures according to his level of understanding",
+      "Maintaining realistic nurse–patient relationship",
+      "Being non-judgmental and non-punitive"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "In a therapeutic community, patient participates in the decision making and problem solving processes. This refers to",
+    "options": [
+      "an autocratic form of staff government.",
+      "a structured form of staff involvement.",
+      "a democratic form of self-governance.",
+      "a structured form of patient involvement."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "One of the side effect of an antipsychotic drug is abnormal involuntary movements of the mouth muscles. It is termed as",
+    "options": [
+      "Akathisia",
+      "Tardive dyskinesia",
+      "Acute dystonia",
+      "Parkinsonism"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "‘La belle indifference’ is seen in",
+    "options": [
+      "Dissociative disorders",
+      "Phobic disorders",
+      "Schizophrenic disorder",
+      "Bipolar Affective disorders"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "In stage II cervical cancer",
+    "options": [
+      "carcinoma strictly confined to the cervix.",
+      "the carcinoma extends beyond the cervix but not to the pelvic wall.",
+      "the carcinoma has extended to the true pelvis.",
+      "the carcinoma has extended beyond the true pelvis."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Causative organism of chancroid is",
+    "options": [
+      "Chlamydia trachomatis",
+      "Treponema pallidum",
+      "Pox virus",
+      "Haemophilus ducreyi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "A healthy, previously normotensive, 26-year-old G1P0 presents to your clinic at 34 weeks’ gestation with a BP of 142/94 mmHg. What test should you check next ?",
+    "options": [
+      "Liver function test",
+      "Complete blood count",
+      "Urine for protein",
+      "Blood uric acid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Glucose is transferred to the fetus by",
+    "options": [
+      "Facilitated diffusion",
+      "Simple diffusion",
+      "Active transfer",
+      "Endocytosis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which of the following findings would confirm a diagnosis of ‘severe’ pre-eclampsia?",
+    "options": [
+      "Serum creatinine of 0.8 mg/dL",
+      "Serum AST (aspartate transaminase) 140 mg/dL",
+      "1+ proteinuria on dipstick",
+      "BP 158/96 mmHg"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The outer most membrane of the placenta is",
+    "options": [
+      "Amnion",
+      "Chorion",
+      "Cotyledon",
+      "Yolk sac"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which suture forms junction between occipital bone and frontal bone?",
+    "options": [
+      "Sagittal",
+      "Coronal",
+      "Frontal",
+      "Lambdoid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Cu-T 375 should be changed after ________ years.",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "8"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Janani Suraksha Yojana was launched in the year of",
+    "options": [
+      "2001",
+      "2003",
+      "2005",
+      "2009"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The typical duration of 1st stage of labour for first time mother is",
+    "options": [
+      "2–4 hours",
+      "4–6 hours",
+      "10–12 hours",
+      "14–18 hours"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The nurse is assessing her client who has just returned from surgery. The best way to determine the pain medication is to",
+    "options": [
+      "watch for changes in client vital signs.",
+      "ask the client to rate his pain on pain scale (0–10).",
+      "observe the clients facial expression.",
+      "wait for the doctor for requesting advice for pain medications."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "A state of being free from microorganism is called",
+    "options": [
+      "Asepsis",
+      "Sterilization",
+      "Aseptic technique",
+      "Antiseptic"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The nurse is assessing the heart sound of a patient with mitral stenosis. To hear the mitral murmur the nurse place the stethoscope at",
+    "options": [
+      "the third intercostal space right of the sternum.",
+      "the third intercostal space left of the sternum.",
+      "the fourth intercostal space beneath the sternum.",
+      "the fifth intercostal space mid clavicular line."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The stage of dying proposed by Elisabeth–Kubler–Ross in which people often think ‘oh no this can’t be happening to me’ is",
+    "options": [
+      "Denial",
+      "Anger",
+      "Bargaining",
+      "Acceptance"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Principle of good body mechanics include",
+    "options": [
+      "holding object away from the body for better leverage.",
+      "maintain the wide base of support.",
+      "keeping knees locked position.",
+      "bending at the waist to maintain centre of gravity."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which of the following Intravenous fluid administration is contraindicated in patients with lactic acidosis and impaired liver function?",
+    "options": [
+      "Normal Saline",
+      "Ringer lactate",
+      "Mannitol",
+      "Dextran"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Disinfection of patient’s unit after the death/discharge of patient is termed as",
+    "options": [
+      "Concurrent disinfection",
+      "Quarantine",
+      "Terminal disinfection",
+      "Sterilization"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Sudden return to normal temperature from a very high temperature within a few hours—",
+    "options": [
+      "Crisis",
+      "Lysis",
+      "Continuous Fever",
+      "Remittent Fever"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Normal planter (Babinski) reflex response in adult is",
+    "options": [
+      "flexion of arm at elbow.",
+      "extension of arm elbow.",
+      "extension of leg at knee.",
+      "bending of toe downwards."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Tracheostomy is usually performed between the tracheal rings of cartilage of",
+    "options": [
+      "fourth and fifth",
+      "third and fourth",
+      "second and third",
+      "first and second"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Staining technique used in RNTCP is",
+    "options": [
+      "Ziehl Neelsen stain",
+      "Gram Stain",
+      "Giemsa Stain",
+      "PAS"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which of the anti tuberculosis drug is not given in Pregnancy?",
+    "options": [
+      "Streptomycin",
+      "INH",
+      "Ethambutol",
+      "Rifampicin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Clinical diagnosis is possible as early as possible in which stage of infection?",
+    "options": [
+      "Primordial",
+      "Incubation period",
+      "Fastigium",
+      "Defection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Oldest Communicable disease control measure—",
+    "options": [
+      "Quarantine",
+      "Isolation",
+      "Health Education",
+      "Vaccination"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Humoral immunity is associated with",
+    "options": [
+      "T-Cells",
+      "B-Cells",
+      "Alpha Cell",
+      "Natural Killer Cells"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The Vaccine administered as ‘Nasal drops’—",
+    "options": [
+      "Rubella",
+      "Poliomyelitis",
+      "Influenza",
+      "Measles"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Primordial prevention in coronary heart disease is",
+    "options": [
+      "Exercise in high risk area",
+      "BP monitoring",
+      "Statins",
+      "Salt restriction"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Fast breathing in a 6 month old infant (IMNCI guideline) is taken as",
+    "options": [
+      "> 60 breaths /min",
+      "> 50 breaths /min",
+      "> 40 breaths /min",
+      "> 30 breaths /min"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Health & Wellness Centre is under the program of",
+    "options": [
+      "Ayushman Bharat",
+      "IMNCI",
+      "UIP",
+      "National Health Mission"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Biodegradable waste products, disposing in which of the colour code of the bags?",
+    "options": [
+      "Blue",
+      "Black",
+      "Green",
+      "Yellow"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The first heart sound (S1) is produced by closure of",
+    "options": [
+      "Aortic and Pulmonary valves.",
+      "Mitral and Tricuspid valves.",
+      "Mitral and Aortic valves.",
+      "Pulmonary and Tricuspid valves."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal range of serum creatinine in adults is",
+    "options": [
+      "0.2–0.6 mg/dL",
+      "0.7–1.3 mg/dL",
+      "1.5–2.0 mg/dL",
+      "2.5–3.0 mg/dL"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Cullen’s sign (periumbilical bluish discoloration) indicates",
+    "options": [
+      "Appendicitis",
+      "Acute pancreatitis",
+      "Cholecystitis",
+      "Peptic ulcer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Broca’s aphasia is characterized by",
+    "options": [
+      "inability to comprehend speech.",
+      "inability to produce speech.",
+      "inability to read.",
+      "inability to write."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Normal glomerular filtration rate (GFR) is",
+    "options": [
+      "25 mL/min",
+      "60 mL/min",
+      "125 mL/min",
+      "200 mL/min"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Hypothyroidism in a adult is known as",
+    "options": [
+      "Grave’s Disease",
+      "Myxedema",
+      "Cretinism",
+      "Addison’s Disease"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Hemophilia B is caused by the deficiency of",
+    "options": [
+      "Factor VII",
+      "Factor X",
+      "Factor IX",
+      "Factor XI"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "A major advantage of peritoneal dialysis is the following:",
+    "options": [
+      "Less restriction on diet and can be preformed at home",
+      "Biocompatible dialysate cause no long–term consequences",
+      "Promotes weight loss",
+      "No medication is required as toxic are removed by the efficiency of the peritoneal membrane."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "A nurse suspects presence of Deep Vein Thrombosis in a bed ridden patient by positive",
+    "options": [
+      "Homan’s sign",
+      "Brudginski’s sign",
+      "Kernig’s sign",
+      "Rovsing’s sign"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "An appropriate method of calculating the body surface area of Burns for the children is",
+    "options": [
+      "Palmer method",
+      "Rule of Nine",
+      "Rule of Five",
+      "Both (A) and (C)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "A newborn should pass urine within",
+    "options": [
+      "12 hours of birth",
+      "24 hours of birth",
+      "48 hours of birth",
+      "84 hours of birth"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Site for giving IM injection to child less than 1 year is",
+    "options": [
+      "Rectus Femoris site",
+      "Ventrogluteal muscle site",
+      "Vastas Lateralis site",
+      "Dorsogluteal site"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Supplementation of which during pregnancy can decrease the risk of Neural Tube defects in the offspring ?",
+    "options": [
+      "Iron",
+      "Folic Acid",
+      "Calcium",
+      "Antacids"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "In Hypospadias urethral opening is situated at",
+    "options": [
+      "Tip of the penis.",
+      "Dorsal aspect of the penis.",
+      "Lateral aspect of the penis.",
+      "Ventral aspect of the penis."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "In pyloric stenosis, vomitus is characterized by",
+    "options": [
+      "Watery and clear.",
+      "Yellowish, bile stained.",
+      "Coffee coloured.",
+      "Projectile, non-bilious."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "“Boot-shaped heart” is seen in",
+    "options": [
+      "Tetralogy of Fallot",
+      "Aortic stenosis",
+      "Coarctation of aorta",
+      "Patent ducts arteriosclerosis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Cracked pot sound on percussion over hydrocephalus baby is called as",
+    "options": [
+      "Chadwick’s sign",
+      "Kerning’s sign",
+      "Macewen’s sign",
+      "Homan’s sign"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Megaloblastic anaemia results from deficiency of",
+    "options": [
+      "Iron and Folic acid.",
+      "Vitamin B12 and Folic acid.",
+      "Iron and Vitamin C.",
+      "Vitamin B12 and Vitamin C."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "A child is able to build 3 blocks in developmental age of",
+    "options": [
+      "12 months",
+      "15 months",
+      "18 months",
+      "24 months"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Hind milk is richer in",
+    "options": [
+      "Water",
+      "Fat",
+      "Protein",
+      "Minerals"
+    ],
+    "correctIndex": 1
+  }
+]

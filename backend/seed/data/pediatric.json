@@ -1,0 +1,2002 @@
+[
+  {
+    "text": "The normal birth weight of a newborn is:",
+    "options": [
+      "1–2 kg",
+      "2.5–3.5 kg",
+      "3.5–4.5 kg",
+      "Above 4.5 kg"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of neonatal mortality is:",
+    "options": [
+      "Infection",
+      "Prematurity",
+      "Congenital anomaly",
+      "Trauma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "APGAR score is assessed at:",
+    "options": [
+      "1 and 5 minutes",
+      "5 and 10 minutes",
+      "Immediately after birth only",
+      "After 30 minutes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Normal heart rate of a newborn is:",
+    "options": [
+      "60–80 bpm",
+      "80–100 bpm",
+      "120–160 bpm",
+      "160–200 bpm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The anterior fontanelle closes at:",
+    "options": [
+      "3 months",
+      "6 months",
+      "12–18 months",
+      "2 years"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Exclusive breastfeeding is recommended up to:",
+    "options": [
+      "3 months",
+      "6 months",
+      "9 months",
+      "1 year"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The first vaccine given after birth is:",
+    "options": [
+      "OPV",
+      "BCG",
+      "Hepatitis B",
+      "Measles"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal respiratory rate of an infant is:",
+    "options": [
+      "10–20/min",
+      "20–30/min",
+      "30–60/min",
+      "60–80/min"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which reflex disappears first in infants?",
+    "options": [
+      "Moro reflex",
+      "Rooting reflex",
+      "Grasp reflex",
+      "Babinski reflex"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Vitamin K is given to newborns to prevent:",
+    "options": [
+      "Infection",
+      "Bleeding disorders",
+      "Jaundice",
+      "Anemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common congenital heart disease is:",
+    "options": [
+      "ASD",
+      "VSD",
+      "PDA",
+      "Tetralogy of Fallot"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The sign of dehydration in children includes:",
+    "options": [
+      "Increased urine",
+      "Sunken eyes",
+      "Weight gain",
+      "Bradycardia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "ORS is mainly used to treat:",
+    "options": [
+      "Fever",
+      "Diarrhea",
+      "Vomiting",
+      "Constipation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best site for IM injection in infants is:",
+    "options": [
+      "Deltoid",
+      "Gluteal",
+      "Vastus lateralis",
+      "Forearm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of pediatric diarrhea is:",
+    "options": [
+      "Bacteria",
+      "Virus",
+      "Fungi",
+      "Parasite"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which milestone is achieved at 6 months?",
+    "options": [
+      "Walking",
+      "Sitting without support",
+      "Crawling",
+      "Talking"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal hemoglobin level in children is approximately:",
+    "options": [
+      "5–7 g/dL",
+      "8–10 g/dL",
+      "11–13 g/dL",
+      "14–16 g/dL"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The common symptom of pneumonia in children is:",
+    "options": [
+      "Slow breathing",
+      "Chest indrawing",
+      "Constipation",
+      "Weight gain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The term failure to thrive refers to:",
+    "options": [
+      "Excessive growth",
+      "Poor weight gain",
+      "Obesity",
+      "Tall height"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common site of infection in children is:",
+    "options": [
+      "Skin",
+      "Respiratory tract",
+      "Kidney",
+      "Brain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal weight gain in infants (0–6 months) is approximately:",
+    "options": [
+      "10 g/day",
+      "20–30 g/day",
+      "50 g/day",
+      "70 g/day"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of neonatal jaundice is:",
+    "options": [
+      "Infection",
+      "Physiological jaundice",
+      "Liver failure",
+      "Hemolysis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Kangaroo Mother Care is mainly used for:",
+    "options": [
+      "Full-term babies",
+      "Low birth weight babies",
+      "Obese babies",
+      "Normal babies"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal chest circumference at birth is:",
+    "options": [
+      "Greater than head circumference",
+      "Equal to head circumference",
+      "Less than head circumference",
+      "Double the head circumference"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of febrile seizures in children is:",
+    "options": [
+      "High fever",
+      "Low sugar",
+      "Infection of brain",
+      "Trauma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The first tooth in infants usually erupts at:",
+    "options": [
+      "3 months",
+      "6 months",
+      "9 months",
+      "12 months"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best indicator of growth in children is:",
+    "options": [
+      "Height",
+      "Weight",
+      "Head circumference",
+      "Chest circumference"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency causes rickets?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The most common site for measuring pulse in infants is:",
+    "options": [
+      "Radial artery",
+      "Carotid artery",
+      "Apical pulse",
+      "Femoral artery"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal temperature of a newborn is:",
+    "options": [
+      "35–36°C",
+      "36.5–37.5°C",
+      "38–39°C",
+      "39–40°C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition is characterized by blue baby?",
+    "options": [
+      "Anemia",
+      "Cyanotic heart disease",
+      "Asthma",
+      "Pneumonia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of anemia in children is:",
+    "options": [
+      "Vitamin B deficiency",
+      "Iron deficiency",
+      "Vitamin C deficiency",
+      "Calcium deficiency"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The immunization for measles is given at:",
+    "options": [
+      "Birth",
+      "6 weeks",
+      "9 months",
+      "2 years"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The characteristic sign of dehydration is:",
+    "options": [
+      "Bulging fontanelle",
+      "Sunken fontanelle",
+      "Increased appetite",
+      "Weight gain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best position for a child with respiratory distress is:",
+    "options": [
+      "Supine",
+      "Prone",
+      "Fowler’s position",
+      "Trendelenburg"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which disease is prevented by BCG vaccine?",
+    "options": [
+      "Polio",
+      "Tuberculosis",
+      "Measles",
+      "Hepatitis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal urine output in children is:",
+    "options": [
+      "0.5 ml/kg/hr",
+      "1–2 ml/kg/hr",
+      "3–4 ml/kg/hr",
+      "5 ml/kg/hr"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most common cause of protein-energy malnutrition?",
+    "options": [
+      "Overfeeding",
+      "Poor diet",
+      "Excess vitamins",
+      "Exercise"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common pediatric emergency is:",
+    "options": [
+      "Trauma",
+      "Diarrhea with dehydration",
+      "Cancer",
+      "Fracture"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The developmental stage of a 2-year-old child is:",
+    "options": [
+      "Infancy",
+      "Toddler",
+      "Preschool",
+      "School age"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The doubling of birth weight occurs at:",
+    "options": [
+      "3 months",
+      "5 months",
+      "6 months",
+      "9 months"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The tripling of birth weight occurs at:",
+    "options": [
+      "6 months",
+      "9 months",
+      "1 year",
+      "2 years"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the earliest sign of dehydration in children?",
+    "options": [
+      "Sunken eyes",
+      "Dry mouth",
+      "Tachycardia",
+      "Hypotension"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which reflex persists throughout life?",
+    "options": [
+      "Moro reflex",
+      "Rooting reflex",
+      "Babinski reflex",
+      "Blinking reflex"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The most accurate method to assess fluid loss in children is:",
+    "options": [
+      "Pulse rate",
+      "Blood pressure",
+      "Daily weight",
+      "Skin turgor"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common complication of measles is:",
+    "options": [
+      "Pneumonia",
+      "Diarrhea",
+      "Otitis media",
+      "Encephalitis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The correct order of eruption of primary teeth begins with:",
+    "options": [
+      "Molars",
+      "Canines",
+      "Central incisors",
+      "Premolars"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the safest sleeping position for infants?",
+    "options": [
+      "Prone",
+      "Supine",
+      "Side lying",
+      "Sitting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of acute glomerulonephritis in children is:",
+    "options": [
+      "Viral infection",
+      "Bacterial infection (Streptococcus)",
+      "Fungal infection",
+      "Allergy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The major sign of severe dehydration is:",
+    "options": [
+      "Thirst",
+      "Sunken eyes",
+      "Lethargy/unconsciousness",
+      "Dry lips"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vaccine is given intradermally?",
+    "options": [
+      "OPV",
+      "BCG",
+      "DPT",
+      "Measles"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common symptom of meningitis in children is:",
+    "options": [
+      "Constipation",
+      "Fever with neck stiffness",
+      "Weight gain",
+      "Increased appetite"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The first sign of puberty in girls is:",
+    "options": [
+      "Menstruation",
+      "Breast development",
+      "Pubic hair",
+      "Growth spurt"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main cause of rickets is deficiency of:",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Vitamin D",
+      "Protein"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common site for lumbar puncture in children is:",
+    "options": [
+      "L1–L2",
+      "L2–L3",
+      "L3–L4",
+      "L5–S1"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal head circumference increases rapidly during:",
+    "options": [
+      "Adolescence",
+      "Infancy",
+      "School age",
+      "Toddler stage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of pediatric respiratory distress is:",
+    "options": [
+      "Asthma",
+      "Pneumonia",
+      "Foreign body",
+      "Bronchiolitis"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which condition shows pot belly appearance?",
+    "options": [
+      "Marasmus",
+      "Kwashiorkor",
+      "Anemia",
+      "Rickets"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of death in children under 5 years is:",
+    "options": [
+      "Cancer",
+      "Diarrhea and pneumonia",
+      "Diabetes",
+      "Hypertension"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best way to prevent infection in children is:",
+    "options": [
+      "Antibiotics",
+      "Isolation",
+      "Immunization",
+      "Surgery"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal length of a newborn is:",
+    "options": [
+      "40–45 cm",
+      "45–50 cm",
+      "50–55 cm",
+      "55–60 cm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The head circumference at birth is approximately:",
+    "options": [
+      "30 cm",
+      "33–35 cm",
+      "36–38 cm",
+      "40 cm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most sensitive sign of hypoxia in infants is:",
+    "options": [
+      "Cyanosis",
+      "Tachycardia",
+      "Bradycardia",
+      "Restlessness"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The normal pulse rate of a toddler is:",
+    "options": [
+      "60–80 bpm",
+      "80–100 bpm",
+      "100–120 bpm",
+      "120–140 bpm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition is caused by iodine deficiency?",
+    "options": [
+      "Rickets",
+      "Scurvy",
+      "Goiter",
+      "Anemia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of neonatal infection is:",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Fungus",
+      "Parasite"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal BP in children is:",
+    "options": [
+      "Higher than adults",
+      "Lower than adults",
+      "Same as adults",
+      "Variable only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main source of Vitamin D for infants is:",
+    "options": [
+      "Fruits",
+      "Vegetables",
+      "Sunlight",
+      "Milk"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the earliest milestone in infants?",
+    "options": [
+      "Walking",
+      "Sitting",
+      "Head control",
+      "Speaking"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of congenital anomalies is:",
+    "options": [
+      "Infection",
+      "Genetic factors",
+      "Trauma",
+      "Drugs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common site for IV access in infants is:",
+    "options": [
+      "Hand veins",
+      "Foot veins",
+      "Scalp veins",
+      "Neck veins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The danger sign in pneumonia is:",
+    "options": [
+      "Mild cough",
+      "Chest indrawing",
+      "Sneezing",
+      "Runny nose"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of acute diarrhea in children is:",
+    "options": [
+      "Bacteria",
+      "Virus (Rotavirus)",
+      "Parasite",
+      "Fungi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which reflex is present at birth?",
+    "options": [
+      "Babinski",
+      "Walking reflex",
+      "Both A and B",
+      "None"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of seizures in children is:",
+    "options": [
+      "Epilepsy",
+      "Fever",
+      "Trauma",
+      "Infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most appropriate diet for infants is:",
+    "options": [
+      "Cow milk",
+      "Formula milk",
+      "Breast milk",
+      "Solid food"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common sign of anemia in children is:",
+    "options": [
+      "Cyanosis",
+      "Pallor",
+      "Edema",
+      "Fever"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vaccine is given orally?",
+    "options": [
+      "BCG",
+      "DPT",
+      "OPV",
+      "Hepatitis B"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of malnutrition is:",
+    "options": [
+      "Overeating",
+      "Poor feeding practices",
+      "Exercise",
+      "Genetics"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal oxygen saturation in children is:",
+    "options": [
+      "80–85%",
+      "85–90%",
+      "95–100%",
+      "100–110%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of pediatric asthma is:",
+    "options": [
+      "Infection",
+      "Allergy",
+      "Trauma",
+      "Nutrition"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best indicator of nutritional status is:",
+    "options": [
+      "Height",
+      "Weight for age",
+      "Head size",
+      "Chest size"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common complication of diarrhea is:",
+    "options": [
+      "Fever",
+      "Dehydration",
+      "Vomiting",
+      "Pain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which stage is characterized by rapid brain growth?",
+    "options": [
+      "Adolescence",
+      "Infancy",
+      "Toddler",
+      "Preschool"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of neonatal hypothermia is:",
+    "options": [
+      "Infection",
+      "Cold environment",
+      "Feeding",
+      "Drugs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency causes scurvy?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most important step in management of diarrhea is:",
+    "options": [
+      "Antibiotics",
+      "ORS",
+      "Surgery",
+      "Bed rest"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of cough in children is:",
+    "options": [
+      "Asthma",
+      "Upper respiratory infection",
+      "TB",
+      "Cancer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The safest method to feed a neonate is:",
+    "options": [
+      "Spoon feeding",
+      "Bottle feeding",
+      "Breastfeeding",
+      "Tube feeding"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of edema in children is:",
+    "options": [
+      "Anemia",
+      "Protein deficiency",
+      "Vitamin deficiency",
+      "Infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The first sign of shock in children is:",
+    "options": [
+      "Hypotension",
+      "Tachycardia",
+      "Bradycardia",
+      "Cyanosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of fever in children is:",
+    "options": [
+      "Infection",
+      "Injury",
+      "Allergy",
+      "Drugs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The normal capillary refill time in children is:",
+    "options": [
+      "< 2 seconds",
+      "3–4 seconds",
+      "5 seconds",
+      "> 6 seconds"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is the best method to assess pain in infants?",
+    "options": [
+      "Verbal response",
+      "Crying and facial expression",
+      "BP measurement",
+      "Temperature"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common site for rickets deformity is:",
+    "options": [
+      "Skull",
+      "Chest",
+      "Long bones",
+      "Spine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common infection in neonates is:",
+    "options": [
+      "Skin infection",
+      "Respiratory infection",
+      "GI infection",
+      "Urinary infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of vomiting in infants is:",
+    "options": [
+      "Infection",
+      "Overfeeding",
+      "Allergy",
+      "Drugs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best preventive measure for malnutrition is:",
+    "options": [
+      "Medicines",
+      "Immunization",
+      "Balanced diet",
+      "Surgery"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common sign of respiratory distress is:",
+    "options": [
+      "Slow breathing",
+      "Chest retractions",
+      "Low BP",
+      "Vomiting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most important aspect of pediatric nursing care is:",
+    "options": [
+      "Disease treatment",
+      "Family-centered care",
+      "Medication",
+      "Surgery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The average weight of a child at 2 years is:",
+    "options": [
+      "8 kg",
+      "10 kg",
+      "12 kg",
+      "15 kg"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The posterior fontanelle closes at:",
+    "options": [
+      "1–2 months",
+      "3–4 months",
+      "6 months",
+      "9 months"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The earliest sign of raised intracranial pressure in infants is:",
+    "options": [
+      "Vomiting",
+      "Bulging fontanelle",
+      "Bradycardia",
+      "Convulsions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most common cause of neonatal seizures?",
+    "options": [
+      "Infection",
+      "Birth asphyxia",
+      "Trauma",
+      "Tumor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of stridor in children is:",
+    "options": [
+      "Asthma",
+      "Croup",
+      "Pneumonia",
+      "Bronchiolitis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best indicator of chronic malnutrition is:",
+    "options": [
+      "Weight",
+      "Height",
+      "BMI",
+      "MUAC"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition is associated with moon face?",
+    "options": [
+      "Rickets",
+      "Kwashiorkor",
+      "Cushing syndrome",
+      "Marasmus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of heart failure in infants is:",
+    "options": [
+      "Pneumonia",
+      "Congenital heart disease",
+      "Anemia",
+      "Infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The first permanent tooth erupts at:",
+    "options": [
+      "4 years",
+      "5 years",
+      "6 years",
+      "7 years"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of intussusception is:",
+    "options": [
+      "Infection",
+      "Idiopathic",
+      "Trauma",
+      "Tumor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which electrolyte imbalance is common in diarrhea?",
+    "options": [
+      "Hyperkalemia",
+      "Hypokalemia",
+      "Hypercalcemia",
+      "Hypernatremia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal CSF is:",
+    "options": [
+      "Turbid",
+      "Yellow",
+      "Clear",
+      "Bloody"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of nephrotic syndrome in children is:",
+    "options": [
+      "Infection",
+      "Minimal change disease",
+      "Tumor",
+      "Trauma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The first sign of hypoglycemia in infants is:",
+    "options": [
+      "Seizures",
+      "Lethargy",
+      "Sweating",
+      "Coma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of failure to thrive is:",
+    "options": [
+      "Genetic disorder",
+      "Malnutrition",
+      "Infection",
+      "Hormonal disorder"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease shows strawberry tongue?",
+    "options": [
+      "Measles",
+      "Scarlet fever",
+      "TB",
+      "Diphtheria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of acute kidney injury in children is:",
+    "options": [
+      "Dehydration",
+      "Infection",
+      "Trauma",
+      "Drugs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The best position after tonsillectomy is:",
+    "options": [
+      "Supine",
+      "Prone",
+      "Side-lying",
+      "Sitting"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of clubbing in children is:",
+    "options": [
+      "Anemia",
+      "Congenital heart disease",
+      "Asthma",
+      "Pneumonia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The earliest sign of shock is:",
+    "options": [
+      "Hypotension",
+      "Tachycardia",
+      "Cyanosis",
+      "Oliguria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common pediatric malignancy is:",
+    "options": [
+      "Brain tumor",
+      "Leukemia",
+      "Lymphoma",
+      "Sarcoma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of bronchiolitis is:",
+    "options": [
+      "Adenovirus",
+      "RSV",
+      "Influenza",
+      "Bacteria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition is characterized by steeple sign?",
+    "options": [
+      "Pneumonia",
+      "Croup",
+      "Asthma",
+      "TB"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of congenital hypothyroidism is:",
+    "options": [
+      "Infection",
+      "Thyroid agenesis",
+      "Trauma",
+      "Tumor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of hydrocephalus is:",
+    "options": [
+      "Infection",
+      "Congenital malformation",
+      "Trauma",
+      "Tumor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best method to prevent aspiration in infants is:",
+    "options": [
+      "Supine feeding",
+      "Upright position",
+      "Fast feeding",
+      "Tube feeding"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of anemia in newborn is:",
+    "options": [
+      "Blood loss",
+      "Hemolysis",
+      "Iron deficiency",
+      "Infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal platelet count is:",
+    "options": [
+      "50,000–1 lakh",
+      "1–1.5 lakh",
+      "1.5–4 lakh",
+      "5 lakh"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of hematuria in children is:",
+    "options": [
+      "Trauma",
+      "Infection",
+      "Tumor",
+      "Stones"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition shows cherry red spot?",
+    "options": [
+      "Glaucoma",
+      "Tay-Sachs disease",
+      "Cataract",
+      "Retinopathy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of epistaxis in children is:",
+    "options": [
+      "Trauma",
+      "Infection",
+      "Hypertension",
+      "Tumor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common cause of constipation in children is:",
+    "options": [
+      "Infection",
+      "Low fiber diet",
+      "Drugs",
+      "Tumor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of cyanosis in newborn is:",
+    "options": [
+      "Lung disease",
+      "Heart disease",
+      "Infection",
+      "Anemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best way to manage febrile seizures is:",
+    "options": [
+      "Antibiotics",
+      "Control fever",
+      "Surgery",
+      "Isolation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of abdominal pain in children is:",
+    "options": [
+      "Appendicitis",
+      "Worm infestation",
+      "Gastritis",
+      "Tumor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of vomiting in neonates is:",
+    "options": [
+      "Pyloric stenosis",
+      "Overfeeding",
+      "Infection",
+      "Tumor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best indicator of hydration status is:",
+    "options": [
+      "BP",
+      "Weight",
+      "Skin turgor",
+      "Pulse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of deafness in children is:",
+    "options": [
+      "Trauma",
+      "Infection",
+      "Genetic",
+      "Drugs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of pediatric hypertension is:",
+    "options": [
+      "Renal disease",
+      "Heart disease",
+      "Obesity",
+      "Infection"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common cause of seizures in neonates is:",
+    "options": [
+      "Hypoglycemia",
+      "Infection",
+      "Birth asphyxia",
+      "Trauma"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of edema in nephrotic syndrome is:",
+    "options": [
+      "Infection",
+      "Protein loss",
+      "Sodium loss",
+      "Fluid loss"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best test for TB in children is:",
+    "options": [
+      "X-ray",
+      "Mantoux test",
+      "Blood test",
+      "CT scan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of sudden infant death syndrome (SIDS) is:",
+    "options": [
+      "Infection",
+      "Unknown",
+      "Trauma",
+      "Allergy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of urinary tract infection in children is:",
+    "options": [
+      "Virus",
+      "E. coli",
+      "Fungi",
+      "Parasite"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of delayed milestones is:",
+    "options": [
+      "Malnutrition",
+      "Infection",
+      "Trauma",
+      "Drugs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common cause of goiter in children is:",
+    "options": [
+      "Infection",
+      "Iodine deficiency",
+      "Tumor",
+      "Trauma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of pediatric burns is:",
+    "options": [
+      "Chemicals",
+      "Electrical",
+      "Scalds",
+      "Fire"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of rickets is:",
+    "options": [
+      "Infection",
+      "Vitamin D deficiency",
+      "Calcium excess",
+      "Trauma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of pneumonia in children is:",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Fungi",
+      "Parasite"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most important principle in pediatric care is:",
+    "options": [
+      "Medication",
+      "Nutrition",
+      "Growth and development",
+      "Surgery"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The expected weight of a child at 5 years is:",
+    "options": [
+      "12 kg",
+      "14 kg",
+      "18 kg",
+      "20 kg"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal head circumference increases by how much in first year?",
+    "options": [
+      "5 cm",
+      "10 cm",
+      "12 cm",
+      "15 cm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of neonatal hypoglycemia is:",
+    "options": [
+      "Infection",
+      "Prematurity",
+      "Overfeeding",
+      "Trauma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best indicator of acute malnutrition is:",
+    "options": [
+      "Height",
+      "Weight for height",
+      "Head circumference",
+      "Chest circumference"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of strabismus in children is:",
+    "options": [
+      "Infection",
+      "Refractive error",
+      "Trauma",
+      "Tumor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal respiratory rate of a toddler is:",
+    "options": [
+      "20–30/min",
+      "25–35/min",
+      "30–40/min",
+      "40–50/min"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of delayed dentition is:",
+    "options": [
+      "Infection",
+      "Malnutrition",
+      "Trauma",
+      "Drugs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of congenital cataract is:",
+    "options": [
+      "Trauma",
+      "Infection (Rubella)",
+      "Tumor",
+      "Drugs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of cerebral palsy is:",
+    "options": [
+      "Infection",
+      "Birth asphyxia",
+      "Trauma",
+      "Tumor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of wheezing in infants is:",
+    "options": [
+      "Asthma",
+      "Bronchiolitis",
+      "Pneumonia",
+      "TB"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal systolic BP in children is approximately:",
+    "options": [
+      "60–70 mmHg",
+      "70–90 mmHg",
+      "90–110 mmHg",
+      "110–130 mmHg"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of pediatric cardiac arrest is:",
+    "options": [
+      "Heart disease",
+      "Respiratory failure",
+      "Trauma",
+      "Infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of iron deficiency anemia is:",
+    "options": [
+      "Blood loss",
+      "Poor diet",
+      "Infection",
+      "Drugs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common sign of vitamin A deficiency is:",
+    "options": [
+      "Night blindness",
+      "Bleeding",
+      "Bone pain",
+      "Edema"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common cause of nephritis in children is:",
+    "options": [
+      "Viral infection",
+      "Streptococcal infection",
+      "Fungal infection",
+      "Trauma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best test for diagnosing anemia is:",
+    "options": [
+      "RBC count",
+      "Hemoglobin",
+      "WBC count",
+      "Platelet count"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of pediatric fractures is:",
+    "options": [
+      "Trauma",
+      "Infection",
+      "Tumor",
+      "Genetic"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common cause of otitis media is:",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Fungi",
+      "Parasite"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of childhood obesity is:",
+    "options": [
+      "Genetic",
+      "Overeating",
+      "Infection",
+      "Hormonal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of hypothermia in neonates is:",
+    "options": [
+      "Infection",
+      "Cold stress",
+      "Drugs",
+      "Trauma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of meningitis in neonates is:",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Fungi",
+      "Parasite"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of pediatric diarrhea-related death is:",
+    "options": [
+      "Infection",
+      "Dehydration",
+      "Malnutrition",
+      "Sepsis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of pediatric liver enlargement is:",
+    "options": [
+      "Infection",
+      "Malnutrition",
+      "Tumor",
+      "Trauma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common cause of pediatric blindness is:",
+    "options": [
+      "Infection",
+      "Vitamin A deficiency",
+      "Trauma",
+      "Tumor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of scoliosis in children is:",
+    "options": [
+      "Infection",
+      "Idiopathic",
+      "Trauma",
+      "Tumor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of jaundice in children is:",
+    "options": [
+      "Infection",
+      "Hemolysis",
+      "Liver disease",
+      "Tumor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common cause of respiratory failure in children is:",
+    "options": [
+      "Pneumonia",
+      "Asthma",
+      "Bronchiolitis",
+      "TB"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common cause of pediatric coma is:",
+    "options": [
+      "Infection",
+      "Trauma",
+      "Metabolic causes",
+      "Drugs"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of pediatric seizures is:",
+    "options": [
+      "Infection",
+      "Fever",
+      "Trauma",
+      "Tumor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of delayed puberty is:",
+    "options": [
+      "Malnutrition",
+      "Genetic",
+      "Hormonal",
+      "Infection"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common cause of pediatric hypertension is:",
+    "options": [
+      "Renal disease",
+      "Heart disease",
+      "Infection",
+      "Tumor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common cause of neonatal mortality is:",
+    "options": [
+      "Infection",
+      "Prematurity",
+      "Trauma",
+      "Tumor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of pediatric cardiac disease is:",
+    "options": [
+      "Rheumatic fever",
+      "Congenital defects",
+      "Infection",
+      "Trauma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of anemia in infants is:",
+    "options": [
+      "Infection",
+      "Iron deficiency",
+      "Blood loss",
+      "Genetic"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of pediatric vomiting is:",
+    "options": [
+      "Infection",
+      "Overfeeding",
+      "Trauma",
+      "Tumor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of pediatric cough is:",
+    "options": [
+      "Infection",
+      "Allergy",
+      "Trauma",
+      "Tumor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common cause of pediatric pneumonia is:",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Fungi",
+      "Parasite"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common cause of pediatric skin infection is:",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Fungi",
+      "Parasite"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of pediatric ear infection is:",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Fungi",
+      "Parasite"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of pediatric UTI is:",
+    "options": [
+      "Virus",
+      "E. coli",
+      "Fungi",
+      "Parasite"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of pediatric headache is:",
+    "options": [
+      "Tumor",
+      "Migraine",
+      "Infection",
+      "Trauma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of pediatric abdominal distension is:",
+    "options": [
+      "Infection",
+      "Worm infestation",
+      "Tumor",
+      "Trauma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of pediatric diarrhea is:",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Fungi",
+      "Parasite"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common cause of pediatric dehydration is:",
+    "options": [
+      "Fever",
+      "Diarrhea",
+      "Vomiting",
+      "Infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of pediatric respiratory infection is:",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Fungi",
+      "Parasite"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common cause of pediatric malnutrition is:",
+    "options": [
+      "Infection",
+      "Poor diet",
+      "Trauma",
+      "Tumor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of pediatric anemia is:",
+    "options": [
+      "Infection",
+      "Iron deficiency",
+      "Trauma",
+      "Tumor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of pediatric fever is:",
+    "options": [
+      "Infection",
+      "Trauma",
+      "Tumor",
+      "Drugs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common cause of pediatric respiratory distress is:",
+    "options": [
+      "Pneumonia",
+      "Bronchiolitis",
+      "Asthma",
+      "TB"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most important goal of pediatric nursing is:",
+    "options": [
+      "Cure disease",
+      "Promote growth & development",
+      "Surgery",
+      "Medication"
+    ],
+    "correctIndex": 1
+  }
+]

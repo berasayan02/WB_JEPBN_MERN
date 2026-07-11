@@ -1,0 +1,2002 @@
+[
+  {
+    "text": "Nursing is defined as:",
+    "options": [
+      "Treatment of disease",
+      "Care of the sick only",
+      "Assisting individuals to maintain health",
+      "Giving medicines"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Founder of modern nursing:",
+    "options": [
+      "Clara Barton",
+      "Florence Nightingale",
+      "Dorothea Dix",
+      "Mary Seacole"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "First step of nursing process:",
+    "options": [
+      "Planning",
+      "Implementation",
+      "Assessment",
+      "Evaluation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Normal body temperature (oral):",
+    "options": [
+      "35°C",
+      "36.5–37.5°C",
+      "38–39°C",
+      "34°C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Pulse is commonly checked at:",
+    "options": [
+      "Femoral artery",
+      "Radial artery",
+      "Carotid artery",
+      "Brachial artery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Normal pulse rate in adults:",
+    "options": [
+      "40–60 bpm",
+      "60–100 bpm",
+      "100–120 bpm",
+      "120–140 bpm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Normal respiratory rate in adults:",
+    "options": [
+      "8–10/min",
+      "12–20/min",
+      "25–30/min",
+      "30–40/min"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Blood pressure normal value:",
+    "options": [
+      "90/60 mmHg",
+      "120/80 mmHg",
+      "140/100 mmHg",
+      "160/110 mmHg"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Bed sore is also called:",
+    "options": [
+      "Ulcer",
+      "Pressure sore",
+      "Lesion",
+      "Abscess"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Position used for rectal examination:",
+    "options": [
+      "Fowler’s",
+      "Supine",
+      "Sims’",
+      "Lithotomy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Hand washing is important to prevent:",
+    "options": [
+      "Fever",
+      "Infection",
+      "Pain",
+      "Dehydration"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Sterilization means:",
+    "options": [
+      "Cleaning",
+      "Killing some microorganisms",
+      "Killing all microorganisms",
+      "Removing dirt"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Injection given into muscle:",
+    "options": [
+      "Intradermal",
+      "Subcutaneous",
+      "Intramuscular",
+      "Intravenous"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Best site for intramuscular injection in adults:",
+    "options": [
+      "Deltoid",
+      "Gluteal",
+      "Abdomen",
+      "Thigh"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Oral route of drug administration means:",
+    "options": [
+      "Injection",
+      "Through skin",
+      "Through mouth",
+      "Through vein"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Medical asepsis is also called:",
+    "options": [
+      "Sterile technique",
+      "Clean technique",
+      "Surgical technique",
+      "Isolation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Pulse oximeter measures:",
+    "options": [
+      "Blood pressure",
+      "Oxygen saturation",
+      "Temperature",
+      "Pulse only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Normal urine output per day:",
+    "options": [
+      "200 ml",
+      "500 ml",
+      "1000–1500 ml",
+      "3000 ml"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The nurse-patient relationship should be:",
+    "options": [
+      "Personal",
+      "Professional",
+      "Friendly",
+      "Emotional"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "CPR stands for:",
+    "options": [
+      "Cardiac Pulmonary Response",
+      "Cardiopulmonary Resuscitation",
+      "Cardio Pressure Recovery",
+      "Cardiac Pulse Reaction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most accurate method to measure body temperature is:",
+    "options": [
+      "Oral",
+      "Axillary",
+      "Rectal",
+      "Tympanic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Normal pH of blood is:",
+    "options": [
+      "6.8–7.0",
+      "7.35–7.45",
+      "7.5–8.0",
+      "6.0–6.5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "A patient with dyspnea is placed in:",
+    "options": [
+      "Supine",
+      "Fowler’s",
+      "Trendelenburg",
+      "Lithotomy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Instrument used to measure blood pressure:",
+    "options": [
+      "Thermometer",
+      "Stethoscope",
+      "Sphygmomanometer",
+      "Oximeter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "PRN in medication order means:",
+    "options": [
+      "Twice daily",
+      "As needed",
+      "Before meals",
+      "After meals"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal adult urine specific gravity is:",
+    "options": [
+      "1.000–1.005",
+      "1.010–1.025",
+      "1.030–1.050",
+      "0.900–1.000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Hypothermia means:",
+    "options": [
+      "High temperature",
+      "Low temperature",
+      "Normal temperature",
+      "Fluctuating temperature"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Tachycardia refers to:",
+    "options": [
+      "Slow heart rate",
+      "Fast heart rate",
+      "Irregular heart rate",
+      "Weak pulse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Bradycardia means:",
+    "options": [
+      "Fast pulse",
+      "Weak pulse",
+      "Slow pulse",
+      "Irregular pulse"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The correct order of nursing process:",
+    "options": [
+      "Planning → Assessment → Implementation → Evaluation",
+      "Assessment → Planning → Implementation → Evaluation",
+      "Implementation → Assessment → Planning → Evaluation",
+      "Assessment → Implementation → Planning → Evaluation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The unit of measurement of pulse rate is:",
+    "options": [
+      "mmHg",
+      "bpm",
+      "°C",
+      "ml"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Infection that originates in hospital is called:",
+    "options": [
+      "Community infection",
+      "Nosocomial infection",
+      "Viral infection",
+      "Acute infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main purpose of isolation is to:",
+    "options": [
+      "Treat patient",
+      "Prevent spread of infection",
+      "Increase immunity",
+      "Reduce pain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The site for intradermal injection:",
+    "options": [
+      "Forearm",
+      "Abdomen",
+      "Gluteal",
+      "Thigh"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common route of drug administration:",
+    "options": [
+      "IV",
+      "IM",
+      "Oral",
+      "Subcutaneous"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Dehydration leads to:",
+    "options": [
+      "Increased urine",
+      "Decreased urine",
+      "Normal urine",
+      "No effect"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Edema means:",
+    "options": [
+      "Dehydration",
+      "Swelling",
+      "Pain",
+      "Fever"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best way to prevent bed sore is:",
+    "options": [
+      "Give medicine",
+      "Frequent position change",
+      "Restrict movement",
+      "Increase food"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Aseptic technique is used to:",
+    "options": [
+      "Reduce pain",
+      "Prevent infection",
+      "Improve nutrition",
+      "Increase comfort"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal oxygen saturation (SpO₂) is:",
+    "options": [
+      "70–80%",
+      "80–90%",
+      "95–100%",
+      "60–70%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The universal precautions are used to prevent:",
+    "options": [
+      "Only bacterial infection",
+      "Only viral infection",
+      "All infections",
+      "Blood-borne infections"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The normal range of adult blood pressure is:",
+    "options": [
+      "100/60–140/90 mmHg",
+      "80/40–100/60 mmHg",
+      "140/90–160/110 mmHg",
+      "60/40–80/50 mmHg"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common site for subcutaneous injection is:",
+    "options": [
+      "Deltoid",
+      "Abdomen",
+      "Gluteal",
+      "Forearm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal capillary refill time is:",
+    "options": [
+      "< 2 seconds",
+      "< 5 seconds",
+      "5–10 seconds",
+      "> 10 seconds"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "A patient is unconscious. Best position is:",
+    "options": [
+      "Supine",
+      "Fowler’s",
+      "Lateral (side-lying)",
+      "Trendelenburg"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The first sign of hypoxia is:",
+    "options": [
+      "Cyanosis",
+      "Restlessness",
+      "Bradycardia",
+      "Unconsciousness"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal pulse pressure is:",
+    "options": [
+      "20 mmHg",
+      "30–40 mmHg",
+      "50–60 mmHg",
+      "10 mmHg"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The correct angle for intramuscular injection is:",
+    "options": [
+      "15°",
+      "30°",
+      "45°",
+      "90°"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The correct angle for subcutaneous injection is:",
+    "options": [
+      "90°",
+      "60°",
+      "45°",
+      "15°"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The correct angle for intradermal injection is:",
+    "options": [
+      "90°",
+      "45°",
+      "30°",
+      "10–15°"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The most reliable indicator of pain is:",
+    "options": [
+      "Facial expression",
+      "Vital signs",
+      "Patient’s verbal report",
+      "Body movement"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The abbreviation “NPO” means:",
+    "options": [
+      "Nothing by mouth",
+      "Normal patient order",
+      "No physical output",
+      "Non-parenteral option"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The purpose of triage is:",
+    "options": [
+      "Treat all patients",
+      "Prioritize patients based on severity",
+      "Discharge patients",
+      "Diagnose disease"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal hemoglobin level (adult male):",
+    "options": [
+      "8–10 g/dL",
+      "10–12 g/dL",
+      "13–18 g/dL",
+      "20–25 g/dL"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The nurse should wash hands:",
+    "options": [
+      "Before patient contact",
+      "After patient contact",
+      "Before procedures",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The most important step in infection control:",
+    "options": [
+      "Wearing gloves",
+      "Hand washing",
+      "Isolation",
+      "Medication"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "A high fever is called:",
+    "options": [
+      "Hypothermia",
+      "Pyrexia",
+      "Afebrile",
+      "Normothermia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The purpose of bed making is:",
+    "options": [
+      "Decoration",
+      "Comfort and hygiene",
+      "Time pass",
+      "Hospital routine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The safest way to identify a patient is:",
+    "options": [
+      "Bed number",
+      "Room number",
+      "Patient name & ID band",
+      "Doctor’s instruction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The main purpose of documentation in nursing is:",
+    "options": [
+      "Legal record",
+      "Communication",
+      "Continuity of care",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "A patient with fever should be given:",
+    "options": [
+      "Cold bath",
+      "Tepid sponging",
+      "Hot compress",
+      "No care"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The term “asepsis” means:",
+    "options": [
+      "Infection",
+      "Absence of microorganisms",
+      "Presence of bacteria",
+      "Disease condition"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The first step before any procedure is:",
+    "options": [
+      "Start procedure",
+      "Wash hands",
+      "Give medicine",
+      "Call doctor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The pulse is absent in which artery during shock:",
+    "options": [
+      "Carotid",
+      "Femoral",
+      "Radial",
+      "Aorta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal adult heart rate is:",
+    "options": [
+      "50–60 bpm",
+      "60–100 bpm",
+      "100–120 bpm",
+      "120–140 bpm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Cyanosis indicates:",
+    "options": [
+      "High oxygen",
+      "Low oxygen",
+      "High BP",
+      "Normal condition"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common hospital-acquired infection:",
+    "options": [
+      "UTI",
+      "Pneumonia",
+      "Skin infection",
+      "TB"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The correct sequence of vital signs measurement:",
+    "options": [
+      "Pulse → Respiration → Temperature → BP",
+      "Temperature → Pulse → Respiration → BP",
+      "BP → Pulse → Temperature → Respiration",
+      "Respiration → Pulse → BP → Temperature"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal range of respiration in children is:",
+    "options": [
+      "10–15/min",
+      "20–30/min",
+      "30–40/min",
+      "5–10/min"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "A sterile field is contaminated if:",
+    "options": [
+      "Wet",
+      "Touched by sterile object",
+      "Covered properly",
+      "Used immediately"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The best position for shock patient is:",
+    "options": [
+      "Fowler’s",
+      "Supine with legs elevated",
+      "Sitting",
+      "Prone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main aim of nursing is:",
+    "options": [
+      "Cure disease",
+      "Promote health",
+      "Assist doctor",
+      "Give medicine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Nosocomial infection spreads through:",
+    "options": [
+      "Air only",
+      "Contact only",
+      "Multiple routes",
+      "Water only"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The best site for pulse in infants:",
+    "options": [
+      "Radial",
+      "Brachial",
+      "Femoral",
+      "Carotid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "A patient is vomiting. Best position:",
+    "options": [
+      "Supine",
+      "Lateral",
+      "Fowler’s",
+      "Prone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal urine color is:",
+    "options": [
+      "Red",
+      "Dark brown",
+      "Pale yellow",
+      "Black"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Sterile technique is also called:",
+    "options": [
+      "Medical asepsis",
+      "Clean technique",
+      "Surgical asepsis",
+      "Isolation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The main purpose of oxygen therapy is to:",
+    "options": [
+      "Increase BP",
+      "Improve oxygen supply",
+      "Reduce pulse",
+      "Stop breathing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most important nursing responsibility:",
+    "options": [
+      "Documentation",
+      "Patient safety",
+      "Giving medicine",
+      "Assisting doctor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Hypotension means:",
+    "options": [
+      "High BP",
+      "Low BP",
+      "Normal BP",
+      "Fluctuating BP"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal adult blood volume is approximately:",
+    "options": [
+      "2–3 L",
+      "3–4 L",
+      "5–6 L",
+      "7–8 L"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common route for fluid administration:",
+    "options": [
+      "Oral",
+      "IV",
+      "IM",
+      "SC"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The term “dyspnea” means:",
+    "options": [
+      "Easy breathing",
+      "Difficulty breathing",
+      "No breathing",
+      "Slow breathing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The purpose of bed rest is:",
+    "options": [
+      "Increase stress",
+      "Promote healing",
+      "Reduce appetite",
+      "Cause weakness"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most accurate way to confirm patient identity:",
+    "options": [
+      "Bed number",
+      "Patient statement",
+      "ID band",
+      "Doctor note"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "A high pulse rate is called:",
+    "options": [
+      "Bradycardia",
+      "Tachycardia",
+      "Arrhythmia",
+      "Hypotension"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best way to reduce infection spread is:",
+    "options": [
+      "Isolation",
+      "Antibiotics",
+      "Hand hygiene",
+      "Vaccination"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The nurse should record vital signs:",
+    "options": [
+      "Once daily",
+      "Only when needed",
+      "Regularly and accurately",
+      "Never"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal capillary refill indicates:",
+    "options": [
+      "Good circulation",
+      "Poor circulation",
+      "Infection",
+      "Dehydration"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The term “anuria” means:",
+    "options": [
+      "Normal urine",
+      "Excess urine",
+      "No urine",
+      "Painful urination"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The main purpose of communication in nursing:",
+    "options": [
+      "Entertainment",
+      "Build relationship",
+      "Waste time",
+      "Avoid work"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The first aid for bleeding is:",
+    "options": [
+      "Apply heat",
+      "Apply pressure",
+      "Give water",
+      "Ignore"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best position for enema administration:",
+    "options": [
+      "Supine",
+      "Fowler’s",
+      "Sims’",
+      "Prone"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common complication of immobility:",
+    "options": [
+      "Fever",
+      "Bed sore",
+      "Headache",
+      "Cough"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The term “apnea” means:",
+    "options": [
+      "Fast breathing",
+      "No breathing",
+      "Slow breathing",
+      "Normal breathing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "A patient with breathing difficulty should be placed in:",
+    "options": [
+      "Supine",
+      "Fowler’s",
+      "Trendelenburg",
+      "Lateral"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main purpose of IV therapy:",
+    "options": [
+      "Nutrition only",
+      "Drug administration",
+      "Fluid and electrolyte balance",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The most reliable sign of dehydration:",
+    "options": [
+      "Fever",
+      "Dry skin",
+      "Reduced urine output",
+      "Headache"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The ethical principle of “doing good” is:",
+    "options": [
+      "Justice",
+      "Autonomy",
+      "Beneficence",
+      "Non-maleficence"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The ethical principle of “do no harm” is:",
+    "options": [
+      "Autonomy",
+      "Justice",
+      "Beneficence",
+      "Non-maleficence"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The most sensitive indicator of fluid balance is:",
+    "options": [
+      "Blood pressure",
+      "Pulse",
+      "Body weight",
+      "Respiration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The safest needle disposal method is:",
+    "options": [
+      "Break needle",
+      "Recap needle",
+      "Dispose in sharps container",
+      "Throw in dustbin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The main purpose of informed consent is:",
+    "options": [
+      "Legal protection",
+      "Patient awareness",
+      "Ethical practice",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "A patient refuses treatment. This reflects:",
+    "options": [
+      "Justice",
+      "Autonomy",
+      "Beneficence",
+      "Fidelity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The Glasgow Coma Scale assesses:",
+    "options": [
+      "Pain",
+      "Consciousness",
+      "Respiration",
+      "Circulation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "A drop in BP on standing is called:",
+    "options": [
+      "Hypertension",
+      "Orthostatic hypotension",
+      "Shock",
+      "Bradycardia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most accurate method to measure intake/output is:",
+    "options": [
+      "Estimation",
+      "Patient statement",
+      "Measurement chart",
+      "Guessing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal CVP (central venous pressure) is:",
+    "options": [
+      "0–2 cm H₂O",
+      "2–6 cm H₂O",
+      "8–12 cm H₂O",
+      "12–20 cm H₂O"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The purpose of pulse oximetry is to measure:",
+    "options": [
+      "CO₂",
+      "Oxygen saturation",
+      "BP",
+      "Heart rate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "A sudden fall in oxygen level leads to:",
+    "options": [
+      "Hypertension",
+      "Hypoxia",
+      "Hyperglycemia",
+      "Dehydration"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most important step before blood transfusion:",
+    "options": [
+      "Check BP",
+      "Verify patient identity",
+      "Give fluids",
+      "Take consent only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal platelet count is:",
+    "options": [
+      "50,000–100,000",
+      "150,000–400,000",
+      "500,000–1,000,000",
+      "10,000–50,000"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "A bluish discoloration of skin is:",
+    "options": [
+      "Pallor",
+      "Cyanosis",
+      "Jaundice",
+      "Erythema"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most effective communication is:",
+    "options": [
+      "Verbal",
+      "Non-verbal",
+      "Written",
+      "Electronic"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The term “iatrogenic” refers to:",
+    "options": [
+      "Natural disease",
+      "Hospital-acquired condition",
+      "Genetic disorder",
+      "Viral infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "A patient is NPO. Nurse should:",
+    "options": [
+      "Give food",
+      "Give oral meds",
+      "Withhold oral intake",
+      "Give fluids orally"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most reliable sign of pain in infants:",
+    "options": [
+      "Crying",
+      "Pulse",
+      "BP",
+      "Temperature"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The first step in CPR is:",
+    "options": [
+      "Breathing",
+      "Circulation",
+      "Airway",
+      "Compression"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "A patient has BP 90/60 mmHg. This indicates:",
+    "options": [
+      "Hypertension",
+      "Hypotension",
+      "Normal BP",
+      "Shock only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common electrolyte imbalance:",
+    "options": [
+      "Hyperkalemia",
+      "Hyponatremia",
+      "Hypercalcemia",
+      "Hypomagnesemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The primary purpose of bed bath is:",
+    "options": [
+      "Cleanliness",
+      "Comfort",
+      "Circulation",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The best way to prevent cross infection:",
+    "options": [
+      "Antibiotics",
+      "Vaccination",
+      "Hand hygiene",
+      "Isolation only"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The term “tachypnea” means:",
+    "options": [
+      "Slow breathing",
+      "Fast breathing",
+      "No breathing",
+      "Irregular breathing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best indicator of renal function is:",
+    "options": [
+      "Urine color",
+      "Urine output",
+      "BP",
+      "Pulse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "A patient is bleeding heavily. First action:",
+    "options": [
+      "Give fluids",
+      "Apply pressure",
+      "Call doctor",
+      "Give oxygen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The ethical principle of fairness is:",
+    "options": [
+      "Autonomy",
+      "Justice",
+      "Beneficence",
+      "Fidelity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of hospital errors:",
+    "options": [
+      "Lack of skill",
+      "Poor communication",
+      "Lack of medicine",
+      "Patient condition"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The ideal position for post-operative patient:",
+    "options": [
+      "Supine",
+      "Lateral",
+      "Semi-Fowler’s",
+      "Prone"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "A sterile object becomes unsterile when:",
+    "options": [
+      "Opened",
+      "Touched by sterile hand",
+      "Touched by non-sterile surface",
+      "Used quickly"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal fasting blood sugar level:",
+    "options": [
+      "50–70 mg/dL",
+      "70–110 mg/dL",
+      "120–160 mg/dL",
+      "200–250 mg/dL"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The nurse’s primary responsibility is:",
+    "options": [
+      "Doctor assistance",
+      "Patient care",
+      "Record keeping",
+      "Drug administration"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best site for IV infusion:",
+    "options": [
+      "Foot",
+      "Hand vein",
+      "Neck",
+      "Abdomen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The purpose of documentation is:",
+    "options": [
+      "Legal evidence",
+      "Communication",
+      "Care continuity",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The term “oliguria” means:",
+    "options": [
+      "No urine",
+      "Excess urine",
+      "Low urine output",
+      "Painful urination"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common route for emergency drug administration:",
+    "options": [
+      "Oral",
+      "IV",
+      "IM",
+      "SC"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most effective way to assess breathing is:",
+    "options": [
+      "Ask patient",
+      "Observe chest movement",
+      "Check pulse",
+      "Measure BP"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal serum sodium level:",
+    "options": [
+      "120–130 mEq/L",
+      "135–145 mEq/L",
+      "150–160 mEq/L",
+      "100–110 mEq/L"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most important factor in wound healing:",
+    "options": [
+      "Age",
+      "Nutrition",
+      "Gender",
+      "Weight"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main function of hemoglobin:",
+    "options": [
+      "Immunity",
+      "Oxygen transport",
+      "Clotting",
+      "Digestion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "A patient with high fever should be monitored for:",
+    "options": [
+      "Hypotension",
+      "Dehydration",
+      "Hypertension",
+      "Bradycardia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common complication of IV therapy:",
+    "options": [
+      "Fever",
+      "Phlebitis",
+      "Pain",
+      "Cough"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main purpose of triage is:",
+    "options": [
+      "Diagnosis",
+      "Treatment",
+      "Priority setting",
+      "Admission"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most reliable indicator of oxygenation:",
+    "options": [
+      "Pulse",
+      "BP",
+      "SpO₂",
+      "Temperature"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "A patient is unconscious and not breathing. First action:",
+    "options": [
+      "Give oxygen",
+      "Start CPR",
+      "Call doctor",
+      "Check BP"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The correct site for temperature measurement in infants:",
+    "options": [
+      "Oral",
+      "Rectal",
+      "Axillary",
+      "Tympanic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most important aspect of patient safety:",
+    "options": [
+      "Communication",
+      "Monitoring",
+      "Identification",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The best way to prevent pressure ulcers:",
+    "options": [
+      "Medication",
+      "Nutrition",
+      "Repositioning",
+      "Exercise"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The main cause of tachycardia:",
+    "options": [
+      "Hypoxia",
+      "Fever",
+      "Anxiety",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The most important principle in nursing ethics:",
+    "options": [
+      "Honesty",
+      "Confidentiality",
+      "Respect for patient",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The ultimate goal of nursing care is:",
+    "options": [
+      "Cure disease",
+      "Promote health and well-being",
+      "Assist doctor",
+      "Maintain records"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most accurate method to assess fever pattern is:",
+    "options": [
+      "Single reading",
+      "Continuous monitoring chart",
+      "Patient feeling",
+      "Guessing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The term “eupnea” means:",
+    "options": [
+      "Difficult breathing",
+      "Normal breathing",
+      "Fast breathing",
+      "No breathing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most important nursing intervention in shock:",
+    "options": [
+      "Give food",
+      "Maintain airway",
+      "Check temperature",
+      "Give oral fluids"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal adult respiratory depth is described as:",
+    "options": [
+      "Shallow",
+      "Deep",
+      "Normal (unlabored)",
+      "Irregular"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most reliable indicator of tissue perfusion:",
+    "options": [
+      "Pulse",
+      "BP",
+      "Capillary refill",
+      "Temperature"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The primary goal of infection control is:",
+    "options": [
+      "Kill bacteria",
+      "Break chain of infection",
+      "Give antibiotics",
+      "Isolation only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "A nurse must wear gloves when:",
+    "options": [
+      "Talking to patient",
+      "Risk of contact with body fluids",
+      "Writing notes",
+      "Walking"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The correct position for lumbar puncture:",
+    "options": [
+      "Supine",
+      "Lateral with knees flexed",
+      "Fowler’s",
+      "Prone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal oxygen flow rate via nasal cannula:",
+    "options": [
+      "1–6 L/min",
+      "6–10 L/min",
+      "10–15 L/min",
+      "15–20 L/min"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The best indicator of adequate hydration:",
+    "options": [
+      "Skin color",
+      "Urine output",
+      "Pulse",
+      "Temperature"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The term “hyperthermia” means:",
+    "options": [
+      "Low temperature",
+      "High temperature",
+      "Normal temperature",
+      "No temperature"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of hospital-acquired pneumonia:",
+    "options": [
+      "Air",
+      "Ventilator use",
+      "Water",
+      "Food"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The safest way to lift a patient is:",
+    "options": [
+      "Bend at waist",
+      "Use back muscles",
+      "Use leg muscles",
+      "Pull quickly"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The term “aseptic technique” aims to:",
+    "options": [
+      "Clean area",
+      "Prevent infection",
+      "Improve comfort",
+      "Reduce pain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The nurse should document:",
+    "options": [
+      "Opinions",
+      "Assumptions",
+      "Facts only",
+      "Guess"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common site of pressure ulcer:",
+    "options": [
+      "Abdomen",
+      "Sacrum",
+      "Arm",
+      "Neck"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal hematocrit level (adult male):",
+    "options": [
+      "20–30%",
+      "40–54%",
+      "60–70%",
+      "10–20%"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most effective way to prevent falls:",
+    "options": [
+      "Medication",
+      "Supervision",
+      "Bed rest",
+      "Isolation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The term “bradypnea” means:",
+    "options": [
+      "Fast breathing",
+      "Slow breathing",
+      "No breathing",
+      "Difficult breathing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "A patient with diarrhea is at risk of:",
+    "options": [
+      "Hypertension",
+      "Dehydration",
+      "Hyperglycemia",
+      "Hypoxia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main component of nursing care plan:",
+    "options": [
+      "Diagnosis",
+      "Assessment",
+      "Intervention",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The term “homeostasis” means:",
+    "options": [
+      "Disease",
+      "Stability of internal environment",
+      "Infection",
+      "Immunity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common complication of immobility:",
+    "options": [
+      "Fever",
+      "Pressure ulcers",
+      "Infection",
+      "Pain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best way to maintain sterile field:",
+    "options": [
+      "Keep dry",
+      "Touch carefully",
+      "Keep visible",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The purpose of IV infusion pump:",
+    "options": [
+      "Increase flow",
+      "Control flow rate",
+      "Stop infusion",
+      "Reduce pressure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal potassium level:",
+    "options": [
+      "2–3 mEq/L",
+      "3.5–5 mEq/L",
+      "6–7 mEq/L",
+      "1–2 mEq/L"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most important factor in communication:",
+    "options": [
+      "Language",
+      "Listening",
+      "Writing",
+      "Talking"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best position for unconscious patient:",
+    "options": [
+      "Supine",
+      "Lateral",
+      "Fowler’s",
+      "Sitting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The term “oliguria” indicates:",
+    "options": [
+      "Excess urine",
+      "No urine",
+      "Low urine output",
+      "Normal urine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most reliable sign of hypoxia:",
+    "options": [
+      "Cyanosis",
+      "Restlessness",
+      "Tachycardia",
+      "Dyspnea"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best way to prevent infection in wounds:",
+    "options": [
+      "Antibiotics",
+      "Sterile dressing",
+      "Cleaning only",
+      "Exposure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common route of infection transmission:",
+    "options": [
+      "Airborne",
+      "Contact",
+      "Water",
+      "Food"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main purpose of bed rails:",
+    "options": [
+      "Decoration",
+      "Safety",
+      "Comfort",
+      "Support"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal adult temperature range:",
+    "options": [
+      "34–35°C",
+      "36.5–37.5°C",
+      "38–39°C",
+      "40–41°C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most important element in patient care:",
+    "options": [
+      "Medicine",
+      "Technology",
+      "Compassion",
+      "Equipment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The term “dyspnea” indicates:",
+    "options": [
+      "Easy breathing",
+      "Difficult breathing",
+      "No breathing",
+      "Fast breathing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common sign of infection:",
+    "options": [
+      "Pain",
+      "Fever",
+      "Swelling",
+      "Redness"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The correct site for subcutaneous injection:",
+    "options": [
+      "Abdomen",
+      "Deltoid",
+      "Gluteal",
+      "Forearm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The best way to assess consciousness:",
+    "options": [
+      "Pulse",
+      "BP",
+      "Glasgow Coma Scale",
+      "Temperature"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The main purpose of oxygen therapy:",
+    "options": [
+      "Reduce BP",
+      "Improve oxygenation",
+      "Reduce pulse",
+      "Increase temperature"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most important documentation principle:",
+    "options": [
+      "Lengthy notes",
+      "Accuracy",
+      "Speed",
+      "Decoration"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most reliable sign of dehydration:",
+    "options": [
+      "Dry lips",
+      "Reduced urine output",
+      "Fever",
+      "Headache"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The term “anemia” means:",
+    "options": [
+      "High RBC",
+      "Low hemoglobin",
+      "High WBC",
+      "Infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best way to prevent bed sores:",
+    "options": [
+      "Medication",
+      "Nutrition",
+      "Frequent repositioning",
+      "Exercise"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The main function of RBC:",
+    "options": [
+      "Immunity",
+      "Oxygen transport",
+      "Clotting",
+      "Digestion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The term “tachycardia” indicates:",
+    "options": [
+      "Slow pulse",
+      "Fast pulse",
+      "Weak pulse",
+      "Irregular pulse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most important principle of ethics:",
+    "options": [
+      "Justice",
+      "Autonomy",
+      "Beneficence",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The purpose of patient education:",
+    "options": [
+      "Improve knowledge",
+      "Promote health",
+      "Prevent disease",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The most important nursing skill:",
+    "options": [
+      "Injection",
+      "Communication",
+      "Documentation",
+      "Observation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The ultimate aim of nursing practice:",
+    "options": [
+      "Treatment",
+      "Care",
+      "Cure",
+      "Holistic well-being"
+    ],
+    "correctIndex": 3
+  }
+]

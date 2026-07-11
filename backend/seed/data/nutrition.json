@@ -1,0 +1,2002 @@
+[
+  {
+    "text": "Which nutrient provides the highest energy per gram?",
+    "options": [
+      "Carbohydrates",
+      "Proteins",
+      "Fats",
+      "Vitamins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The recommended daily calorie intake for an average adult male is approximately:",
+    "options": [
+      "1500 kcal",
+      "2000 kcal",
+      "2500 kcal",
+      "3000 kcal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin is fat-soluble?",
+    "options": [
+      "Vitamin C",
+      "Vitamin B1",
+      "Vitamin A",
+      "Vitamin B12"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Deficiency of Vitamin D causes:",
+    "options": [
+      "Scurvy",
+      "Rickets",
+      "Beriberi",
+      "Pellagra"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which mineral is essential for hemoglobin formation?",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Sodium",
+      "Potassium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main source of energy in diet is:",
+    "options": [
+      "Proteins",
+      "Vitamins",
+      "Carbohydrates",
+      "Minerals"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Protein deficiency in children leads to:",
+    "options": [
+      "Marasmus",
+      "Kwashiorkor",
+      "Both A and B",
+      "Obesity"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin deficiency causes night blindness?",
+    "options": [
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which nutrient helps in body building and repair?",
+    "options": [
+      "Carbohydrates",
+      "Fats",
+      "Proteins",
+      "Vitamins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Scurvy is caused by deficiency of:",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which mineral is important for bone and teeth formation?",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Sodium",
+      "Iodine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Goiter is caused by deficiency of:",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Iodine",
+      "Potassium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which food is rich in protein?",
+    "options": [
+      "Rice",
+      "Bread",
+      "Egg",
+      "Sugar"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The unit of energy in food is:",
+    "options": [
+      "Joule",
+      "Calorie",
+      "Watt",
+      "Volt"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Balanced diet includes:",
+    "options": [
+      "Only carbohydrates",
+      "Only proteins",
+      "All nutrients in proper proportion",
+      "Only fats"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin is also known as Ascorbic acid?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which nutrient acts as a body regulator?",
+    "options": [
+      "Carbohydrates",
+      "Proteins",
+      "Vitamins",
+      "Fats"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which disease is caused by protein-energy malnutrition?",
+    "options": [
+      "Diabetes",
+      "Hypertension",
+      "Marasmus",
+      "Goiter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin is important for blood clotting?",
+    "options": [
+      "Vitamin A",
+      "Vitamin K",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which macronutrient is stored in the body as glycogen?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which nutrient yields 4 kcal per gram?",
+    "options": [
+      "Fat",
+      "Alcohol",
+      "Protein",
+      "Vitamin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin is synthesized in the skin on exposure to sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Pellagra is caused by deficiency of:",
+    "options": [
+      "Vitamin B1",
+      "Vitamin B3",
+      "Vitamin B6",
+      "Vitamin B12"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The richest source of Vitamin C is:",
+    "options": [
+      "Apple",
+      "Banana",
+      "Orange",
+      "Rice"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which mineral is essential for thyroid hormone production?",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Iodine",
+      "Sodium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin deficiency leads to bleeding gums?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal BMI range for adults is:",
+    "options": [
+      "15–18.5",
+      "18.5–24.9",
+      "25–29.9",
+      "30–35"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which nutrient is mainly responsible for insulation of the body?",
+    "options": [
+      "Protein",
+      "Carbohydrate",
+      "Fat",
+      "Vitamin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin is required for RBC formation?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Night blindness is associated with deficiency of:",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which food is richest in carbohydrates?",
+    "options": [
+      "Meat",
+      "Rice",
+      "Egg",
+      "Fish"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Marasmus is caused by deficiency of:",
+    "options": [
+      "Only protein",
+      "Only fat",
+      "Protein and calories",
+      "Vitamins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin helps in calcium absorption?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which nutrient is NOT a macronutrient?",
+    "options": [
+      "Carbohydrate",
+      "Protein",
+      "Fat",
+      "Vitamin"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The main storage form of fat in the body is:",
+    "options": [
+      "Glycogen",
+      "Triglycerides",
+      "Amino acids",
+      "Glucose"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease is caused by deficiency of Vitamin B1?",
+    "options": [
+      "Pellagra",
+      "Beriberi",
+      "Scurvy",
+      "Rickets"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin is important for vision?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which mineral deficiency leads to anemia?",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Sodium",
+      "Potassium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which nutrient is the primary source of glucose in the body?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin is produced by intestinal bacteria?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which of the following provides 9 kcal/g energy?",
+    "options": [
+      "Protein",
+      "Carbohydrate",
+      "Fat",
+      "Fiber"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin deficiency causes glossitis (inflamed tongue)?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B-complex",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which nutrient has the highest thermic effect (SDA)?",
+    "options": [
+      "Carbohydrate",
+      "Protein",
+      "Fat",
+      "Vitamin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition is characterized by edema due to protein deficiency?",
+    "options": [
+      "Marasmus",
+      "Kwashiorkor",
+      "Obesity",
+      "Anemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency leads to xerophthalmia?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which mineral is important for nerve impulse transmission?",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Sodium",
+      "Iodine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Biological value (BV) of protein is highest in:",
+    "options": [
+      "Pulses",
+      "Cereals",
+      "Egg",
+      "Vegetables"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin acts as an antioxidant?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Both A and C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease is caused by deficiency of niacin?",
+    "options": [
+      "Beriberi",
+      "Pellagra",
+      "Rickets",
+      "Scurvy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which nutrient is essential for enzyme formation?",
+    "options": [
+      "Carbohydrates",
+      "Proteins",
+      "Fats",
+      "Minerals"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which of the following is a fat-soluble vitamin?",
+    "options": [
+      "Vitamin B1",
+      "Vitamin B6",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which disease is due to excess calorie intake?",
+    "options": [
+      "Marasmus",
+      "Kwashiorkor",
+      "Obesity",
+      "Anemia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which mineral is required for muscle contraction?",
+    "options": [
+      "Sodium",
+      "Calcium",
+      "Iron",
+      "Iodine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency leads to delayed blood clotting?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which nutrient is mainly responsible for osmotic balance?",
+    "options": [
+      "Proteins",
+      "Minerals",
+      "Carbohydrates",
+      "Vitamins"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which of the following is NOT a function of proteins?",
+    "options": [
+      "Growth",
+      "Repair",
+      "Energy storage (primary)",
+      "Enzyme formation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin deficiency causes megaloblastic anemia?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which nutrient is required in the largest amount?",
+    "options": [
+      "Vitamins",
+      "Minerals",
+      "Macronutrients",
+      "Water"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which condition is caused by excess Vitamin A?",
+    "options": [
+      "Night blindness",
+      "Hypervitaminosis A",
+      "Rickets",
+      "Scurvy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which nutrient is the main component of cell membrane?",
+    "options": [
+      "Protein",
+      "Lipid",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which of the following is an essential amino acid?",
+    "options": [
+      "Glycine",
+      "Alanine",
+      "Lysine",
+      "Serine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin deficiency causes cheilosis (cracks at mouth corners)?",
+    "options": [
+      "Vitamin B2",
+      "Vitamin B6",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which nutrient spares protein in the diet?",
+    "options": [
+      "Fat",
+      "Carbohydrate",
+      "Vitamin",
+      "Mineral"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which mineral is part of hemoglobin?",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Sodium",
+      "Magnesium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency leads to osteoporosis?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which of the following is a complete protein?",
+    "options": [
+      "Rice",
+      "Wheat",
+      "Milk",
+      "Pulses"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which nutrient is required for collagen synthesis?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin deficiency causes peripheral neuropathy?",
+    "options": [
+      "Vitamin B1",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which of the following is a micronutrient?",
+    "options": [
+      "Carbohydrate",
+      "Protein",
+      "Fat",
+      "Zinc"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which mineral is essential for oxygen transport?",
+    "options": [
+      "Sodium",
+      "Iron",
+      "Calcium",
+      "Potassium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency leads to impaired wound healing?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin is heat-labile (destroyed by cooking)?",
+    "options": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which of the following is NOT an essential fatty acid?",
+    "options": [
+      "Linoleic acid",
+      "Linolenic acid",
+      "Arachidonic acid",
+      "Palmitic acid"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which disease is caused by deficiency of Vitamin B6?",
+    "options": [
+      "Pellagra",
+      "Anemia",
+      "Beriberi",
+      "Scurvy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin helps in epithelial tissue maintenance?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which nutrient deficiency causes fatty liver?",
+    "options": [
+      "Protein",
+      "Carbohydrate",
+      "Fat",
+      "Vitamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin is necessary for DNA synthesis?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which mineral is required for enzyme activation?",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Magnesium",
+      "Iodine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin deficiency causes dermatitis, diarrhea, dementia?",
+    "options": [
+      "Vitamin B1",
+      "Vitamin B2",
+      "Vitamin B3",
+      "Vitamin B12"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which nutrient helps maintain acid-base balance?",
+    "options": [
+      "Carbohydrate",
+      "Protein",
+      "Minerals",
+      "Vitamins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin is stored in the liver?",
+    "options": [
+      "Vitamin C",
+      "Vitamin B",
+      "Vitamin A",
+      "Vitamin B1"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which disease is caused by deficiency of folic acid?",
+    "options": [
+      "Microcytic anemia",
+      "Megaloblastic anemia",
+      "Hemolytic anemia",
+      "Aplastic anemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which macronutrient is least required in diet?",
+    "options": [
+      "Carbohydrate",
+      "Protein",
+      "Fat",
+      "Vitamins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which mineral deficiency causes muscle cramps?",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Iodine",
+      "Sodium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin is essential for immune function?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which nutrient is the main component of enzymes?",
+    "options": [
+      "Protein",
+      "Carbohydrate",
+      "Fat",
+      "Mineral"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin deficiency causes bone deformities?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which nutrient provides structural support to the body?",
+    "options": [
+      "Carbohydrate",
+      "Protein",
+      "Fat",
+      "Vitamin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin is involved in blood formation?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease is caused by excess fat intake?",
+    "options": [
+      "Scurvy",
+      "Obesity",
+      "Beriberi",
+      "Rickets"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency causes bleeding disorders?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which nutrient is required for hormone production?",
+    "options": [
+      "Carbohydrate",
+      "Protein",
+      "Fat",
+      "Vitamin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which mineral is essential for nerve and muscle function?",
+    "options": [
+      "Iron",
+      "Sodium",
+      "Calcium",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which vitamin deficiency leads to impaired vision?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which nutrient helps in maintaining body temperature?",
+    "options": [
+      "Protein",
+      "Carbohydrate",
+      "Fat",
+      "Vitamin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin is required for normal clotting mechanism?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which nutrient is most important during growth phase?",
+    "options": [
+      "Carbohydrate",
+      "Protein",
+      "Fat",
+      "Vitamin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which mineral is important for electrolyte balance?",
+    "options": [
+      "Iron",
+      "Sodium",
+      "Calcium",
+      "Magnesium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency causes weak immunity?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which of the following is NOT a function of vitamins?",
+    "options": [
+      "Energy production",
+      "Regulation of metabolism",
+      "Growth support",
+      "Protection from disease"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which protein has the highest biological value?",
+    "options": [
+      "Soy protein",
+      "Egg protein",
+      "Wheat protein",
+      "Rice protein"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Limiting amino acid in cereals is:",
+    "options": [
+      "Lysine",
+      "Methionine",
+      "Tryptophan",
+      "Leucine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Limiting amino acid in pulses is:",
+    "options": [
+      "Lysine",
+      "Methionine",
+      "Valine",
+      "Glycine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin is also called Retinol?",
+    "options": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin E",
+      "Vitamin K"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which nutrient deficiency leads to angular stomatitis?",
+    "options": [
+      "Vitamin B2",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin A"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which of the following is a conditionally essential amino acid?",
+    "options": [
+      "Leucine",
+      "Arginine",
+      "Lysine",
+      "Tryptophan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin is known as Calciferol?",
+    "options": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin E",
+      "Vitamin K"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency causes osteomalacia in adults?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which mineral is part of ATP molecule?",
+    "options": [
+      "Calcium",
+      "Phosphorus",
+      "Iron",
+      "Sodium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which of the following is NOT a fat-soluble vitamin?",
+    "options": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin E",
+      "Vitamin B12"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which vitamin deficiency leads to keratomalacia?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which mineral is important for clotting along with Vitamin K?",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Sodium",
+      "Potassium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency causes hyperkeratosis?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which nutrient is essential for neurotransmitter synthesis?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which disease is caused by deficiency of pyridoxine?",
+    "options": [
+      "Pellagra",
+      "Scurvy",
+      "Anemia",
+      "Rickets"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin acts as an anticoagulant when deficient?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin K",
+      "Vitamin D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which mineral deficiency leads to tetany?",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Sodium",
+      "Iodine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which nutrient deficiency leads to poor wound healing?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin is most sensitive to oxidation?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency leads to decreased prothrombin?",
+    "options": [
+      "Vitamin A",
+      "Vitamin K",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which mineral is part of thyroid hormones T3 and T4?",
+    "options": [
+      "Iron",
+      "Iodine",
+      "Calcium",
+      "Sodium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which nutrient deficiency leads to edema?",
+    "options": [
+      "Fat",
+      "Protein",
+      "Vitamin",
+      "Mineral"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency causes defective bone mineralization?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin is essential for rhodopsin formation?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which nutrient deficiency leads to decreased immunity?",
+    "options": [
+      "Protein",
+      "Carbohydrate",
+      "Fat",
+      "Fiber"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which mineral deficiency causes delayed growth in children?",
+    "options": [
+      "Iron",
+      "Zinc",
+      "Calcium",
+      "Sodium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency causes perifollicular hemorrhage?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which nutrient is essential for maintaining osmotic pressure?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin is necessary for fatty acid metabolism?",
+    "options": [
+      "Vitamin B2",
+      "Vitamin B12",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which nutrient deficiency causes fatty infiltration of liver?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which mineral deficiency causes pica?",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Sodium",
+      "Potassium"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin deficiency causes spongy gums?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which nutrient is essential for antibody production?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin is essential for nerve conduction?",
+    "options": [
+      "Vitamin B1",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which mineral deficiency causes arrhythmia?",
+    "options": [
+      "Iron",
+      "Potassium",
+      "Calcium",
+      "Iodine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency leads to dermatitis?",
+    "options": [
+      "Vitamin B complex",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which nutrient is required for lipoprotein synthesis?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which mineral is required for insulin action?",
+    "options": [
+      "Iron",
+      "Zinc",
+      "Calcium",
+      "Sodium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency causes neurological symptoms?",
+    "options": [
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which nutrient deficiency leads to muscle wasting?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin deficiency causes impaired dark adaptation?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which mineral is essential for DNA synthesis?",
+    "options": [
+      "Iron",
+      "Zinc",
+      "Calcium",
+      "Sodium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency causes anemia with neurological signs?",
+    "options": [
+      "Vitamin B1",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which nutrient deficiency causes reduced plasma proteins?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin deficiency leads to hyperpigmentation?",
+    "options": [
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which mineral is essential for bone matrix formation?",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Phosphorus",
+      "Both B and C"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which vitamin deficiency causes delayed wound healing?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which nutrient is essential for maintaining colloidal osmotic pressure?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin deficiency causes decreased vision in dim light?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which nutrient is most important for tissue repair after injury?",
+    "options": [
+      "Carbohydrate",
+      "Protein",
+      "Fat",
+      "Vitamin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin is required for synthesis of prothrombin?",
+    "options": [
+      "Vitamin A",
+      "Vitamin K",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which nutrient is primarily responsible for maintaining oncotic pressure?",
+    "options": [
+      "Fat",
+      "Protein",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency leads to impaired collagen synthesis?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which mineral is a component of cytochrome oxidase?",
+    "options": [
+      "Iron",
+      "Copper",
+      "Zinc",
+      "Calcium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin is required for conversion of tryptophan to niacin?",
+    "options": [
+      "Vitamin B1",
+      "Vitamin B2",
+      "Vitamin B6",
+      "Vitamin B12"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which nutrient deficiency leads to decreased albumin levels?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin is essential for synthesis of clotting factors II, VII, IX, X?",
+    "options": [
+      "Vitamin A",
+      "Vitamin K",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which mineral is part of superoxide dismutase enzyme?",
+    "options": [
+      "Iron",
+      "Zinc",
+      "Calcium",
+      "Sodium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency leads to follicular hyperkeratosis?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which nutrient is required for synthesis of immunoglobulins?",
+    "options": [
+      "Fat",
+      "Protein",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which mineral deficiency leads to hypochromic anemia?",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Sodium",
+      "Potassium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency leads to decreased dark adaptation?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which nutrient is most important for enzyme structure?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Mineral"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin deficiency leads to impaired epithelial integrity?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which mineral is required for hemoglobin synthesis along with iron?",
+    "options": [
+      "Copper",
+      "Calcium",
+      "Sodium",
+      "Magnesium"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which nutrient deficiency leads to growth retardation?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin is required for transamination reactions?",
+    "options": [
+      "Vitamin B1",
+      "Vitamin B6",
+      "Vitamin B12",
+      "Vitamin C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which mineral is essential for DNA polymerase activity?",
+    "options": [
+      "Zinc",
+      "Iron",
+      "Calcium",
+      "Sodium"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin deficiency leads to decreased resistance to infection?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which nutrient deficiency leads to muscle atrophy?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin is required for hydroxylation of proline?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which mineral deficiency causes impaired glucose tolerance?",
+    "options": [
+      "Iron",
+      "Chromium",
+      "Calcium",
+      "Sodium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which nutrient deficiency leads to reduced enzyme activity?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin is required for synthesis of nucleic acids?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which mineral is required for oxygen storage in muscles?",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Sodium",
+      "Potassium"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin deficiency leads to poor bone calcification?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which nutrient deficiency leads to impaired antibody formation?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin is required for conversion of homocysteine to methionine?",
+    "options": [
+      "Vitamin B1",
+      "Vitamin B6",
+      "Vitamin B12",
+      "Vitamin C"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which mineral deficiency leads to osteoporosis?",
+    "options": [
+      "Iron",
+      "Calcium",
+      "Sodium",
+      "Potassium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which nutrient deficiency leads to impaired growth in children?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin deficiency leads to capillary fragility?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which mineral is required for ATP-dependent reactions?",
+    "options": [
+      "Magnesium",
+      "Iron",
+      "Calcium",
+      "Sodium"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin deficiency leads to neurological degeneration?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which nutrient deficiency leads to decreased plasma oncotic pressure?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin is required for visual pigment formation?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which mineral is required for nerve impulse transmission?",
+    "options": [
+      "Sodium",
+      "Iron",
+      "Calcium",
+      "Both A and C"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which nutrient deficiency leads to impaired tissue repair?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin deficiency leads to defective keratinization?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which mineral deficiency leads to impaired enzyme function?",
+    "options": [
+      "Zinc",
+      "Iron",
+      "Calcium",
+      "Sodium"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which nutrient deficiency leads to decreased hemoglobin synthesis?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin is required for RBC maturation?",
+    "options": [
+      "Vitamin B12",
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which mineral is required for muscle contraction and relaxation?",
+    "options": [
+      "Calcium",
+      "Sodium",
+      "Potassium",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which nutrient deficiency leads to impaired immunity and infections?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin deficiency leads to decreased antioxidant defense?",
+    "options": [
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin E",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which mineral is required for thyroid function?",
+    "options": [
+      "Iron",
+      "Iodine",
+      "Calcium",
+      "Magnesium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which nutrient deficiency leads to decreased muscle mass?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin is required for collagen stabilization?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which mineral deficiency leads to impaired immune response?",
+    "options": [
+      "Zinc",
+      "Iron",
+      "Calcium",
+      "Sodium"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which nutrient deficiency leads to edema due to hypoalbuminemia?",
+    "options": [
+      "Protein",
+      "Fat",
+      "Carbohydrate",
+      "Vitamin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin deficiency leads to impaired vision and epithelial damage?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 0
+  }
+]

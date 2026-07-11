@@ -1,0 +1,2002 @@
+[
+  {
+    "text": "The primary goal of community health nursing is:",
+    "options": [
+      "Treat disease",
+      "Promote health",
+      "Provide surgery",
+      "Conduct research"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which level of prevention aims to prevent disease occurrence?",
+    "options": [
+      "Primary",
+      "Secondary",
+      "Tertiary",
+      "Rehabilitation"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Example of primary prevention is:",
+    "options": [
+      "Early diagnosis",
+      "Vaccination",
+      "Rehabilitation",
+      "Surgery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The full form of PHC is:",
+    "options": [
+      "Primary Health Care",
+      "Public Health Center",
+      "Private Health Clinic",
+      "Public Hygiene Center"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Alma-Ata declaration is related to:",
+    "options": [
+      "Hospital care",
+      "Primary health care",
+      "Surgery",
+      "Immunization only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a component of primary health care?",
+    "options": [
+      "Health education",
+      "Safe water",
+      "Advanced surgery",
+      "Nutrition"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The concept of Health for All was introduced by:",
+    "options": [
+      "WHO",
+      "UNICEF",
+      "Red Cross",
+      "World Bank"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "ASHA stands for:",
+    "options": [
+      "Accredited Social Health Activist",
+      "Accredited Social Health Assistant",
+      "Auxiliary Social Health Activist",
+      "Accredited Service Health Agent"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The head of a sub-center is:",
+    "options": [
+      "Doctor",
+      "ANM",
+      "Staff nurse",
+      "Surgeon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "IMNCI stands for:",
+    "options": [
+      "Integrated Management of Neonatal & Childhood Illness",
+      "Indian Medical Nursing Council Initiative",
+      "International Medical Network Care Institute",
+      "Integrated Medical Nursing Child Intervention"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which indicator reflects health status of a community?",
+    "options": [
+      "Literacy rate",
+      "Birth rate",
+      "Mortality rate",
+      "Income"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most sensitive indicator of community health is:",
+    "options": [
+      "Infant mortality rate",
+      "Birth rate",
+      "Marriage rate",
+      "Literacy rate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a water-borne disease?",
+    "options": [
+      "Tuberculosis",
+      "Cholera",
+      "Influenza",
+      "Measles"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "ORS is used in:",
+    "options": [
+      "Fever",
+      "Dehydration",
+      "Diabetes",
+      "Hypertension"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency causes night blindness?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The cold chain is maintained for:",
+    "options": [
+      "Medicines",
+      "Vaccines",
+      "Tablets",
+      "Syringes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which program focuses on maternal and child health?",
+    "options": [
+      "RCH",
+      "TB Control",
+      "Leprosy Control",
+      "Malaria Control"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The normal chlorination level of drinking water is:",
+    "options": [
+      "0.5 mg/L",
+      "5 mg/L",
+      "10 mg/L",
+      "15 mg/L"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a vector-borne disease?",
+    "options": [
+      "Cholera",
+      "Malaria",
+      "Typhoid",
+      "Hepatitis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The role of community health nurse includes:",
+    "options": [
+      "Only treatment",
+      "Only diagnosis",
+      "Prevention, promotion & rehabilitation",
+      "Surgery"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which level of prevention includes early diagnosis and treatment?",
+    "options": [
+      "Primary",
+      "Secondary",
+      "Tertiary",
+      "Primordial"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Tertiary prevention focuses on:",
+    "options": [
+      "Health promotion",
+      "Early detection",
+      "Disability limitation",
+      "Immunization"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The Expanded Programme on Immunization (EPI) was launched in India in:",
+    "options": [
+      "1978",
+      "1985",
+      "1992",
+      "2000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Universal Immunization Programme (UIP) was started in:",
+    "options": [
+      "1978",
+      "1985",
+      "1990",
+      "2005"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vaccine is given at birth?",
+    "options": [
+      "BCG",
+      "DPT",
+      "Measles",
+      "OPV booster"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The minimum age for measles vaccination in India is:",
+    "options": [
+      "6 months",
+      "9 months",
+      "12 months",
+      "15 months"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The first point of contact between community and health system is:",
+    "options": [
+      "District hospital",
+      "PHC",
+      "Sub-center",
+      "Medical college"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which committee recommended the PHC concept in India?",
+    "options": [
+      "Bhore Committee",
+      "Mudaliar Committee",
+      "Kartar Singh Committee",
+      "Srivastava Committee"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The ratio of ANM to population in plain areas is approximately:",
+    "options": [
+      "1:1000",
+      "1:3000",
+      "1:5000",
+      "1:10000"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which disease is targeted under National Tuberculosis Elimination Programme (NTEP)?",
+    "options": [
+      "HIV",
+      "TB",
+      "Malaria",
+      "Dengue"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "DOTS strategy is used for:",
+    "options": [
+      "Malaria",
+      "TB",
+      "HIV",
+      "Leprosy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The causative agent of malaria is:",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Protozoa",
+      "Fungus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which mosquito transmits dengue?",
+    "options": [
+      "Anopheles",
+      "Culex",
+      "Aedes",
+      "Mansonia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is NOT a method of health education?",
+    "options": [
+      "Lecture",
+      "Demonstration",
+      "Surgery",
+      "Group discussion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The best method of individual health teaching is:",
+    "options": [
+      "Lecture",
+      "Counseling",
+      "Mass media",
+      "Exhibition"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which indicator shows fertility level?",
+    "options": [
+      "IMR",
+      "TFR",
+      "MMR",
+      "CDR"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "MMR stands for:",
+    "options": [
+      "Maternal Mortality Rate",
+      "Maternal Morbidity Ratio",
+      "Medical Mortality Rate",
+      "Monthly Mortality Ratio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is an example of a non-communicable disease?",
+    "options": [
+      "TB",
+      "Malaria",
+      "Diabetes",
+      "Cholera"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The major source of air pollution in cities is:",
+    "options": [
+      "Agriculture",
+      "Vehicles",
+      "Forest",
+      "Rivers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the safest method of waste disposal in hospitals?",
+    "options": [
+      "Burning",
+      "Open dumping",
+      "Incineration",
+      "Burying"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Primordial prevention is aimed at:",
+    "options": [
+      "Treating disease",
+      "Preventing risk factors",
+      "Early diagnosis",
+      "Rehabilitation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a principle of primary health care?",
+    "options": [
+      "Equity",
+      "Community participation",
+      "High technology",
+      "Intersectoral coordination"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most important cause of infant mortality in India is:",
+    "options": [
+      "Infection",
+      "Malnutrition",
+      "Prematurity",
+      "Accidents"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin deficiency causes scurvy?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which of the following is a live vaccine?",
+    "options": [
+      "BCG",
+      "Hepatitis B",
+      "Tetanus toxoid",
+      "IPV"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The open vial policy applies to:",
+    "options": [
+      "BCG",
+      "Measles",
+      "DPT",
+      "OPV"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Vaccine most sensitive to heat is:",
+    "options": [
+      "OPV",
+      "BCG",
+      "DPT",
+      "Hepatitis B"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Vaccine most sensitive to freezing is:",
+    "options": [
+      "OPV",
+      "Measles",
+      "DPT",
+      "BCG"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The color of biomedical waste bag for infectious waste is:",
+    "options": [
+      "Red",
+      "Yellow",
+      "Blue",
+      "Black"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease is eradicated globally?",
+    "options": [
+      "Polio",
+      "Smallpox",
+      "Measles",
+      "TB"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a component of RCH program?",
+    "options": [
+      "Family planning",
+      "Immunization",
+      "Nutrition",
+      "Cardiac surgery"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The incubation period of measles is approximately:",
+    "options": [
+      "2–3 days",
+      "5–7 days",
+      "10–14 days",
+      "1 month"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which indicator is used to measure maternal health?",
+    "options": [
+      "IMR",
+      "MMR",
+      "CBR",
+      "TFR"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which of the following is NOT a vector-borne disease?",
+    "options": [
+      "Malaria",
+      "Dengue",
+      "Cholera",
+      "Filariasis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The main source of iodine in diet is:",
+    "options": [
+      "Milk",
+      "Salt",
+      "Rice",
+      "Vegetables"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Night blindness is caused by deficiency of:",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Iron"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is the best indicator of nutritional status in children?",
+    "options": [
+      "Weight",
+      "Height",
+      "Weight for age",
+      "BMI"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is NOT a function of WHO?",
+    "options": [
+      "Disease control",
+      "Setting health standards",
+      "Conducting elections",
+      "Research support"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which level of health care includes specialized services?",
+    "options": [
+      "Primary",
+      "Secondary",
+      "Tertiary",
+      "Community"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common route of transmission of hepatitis A is:",
+    "options": [
+      "Blood",
+      "Air",
+      "Fecal-oral",
+      "Vector"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which indicator is most sensitive for socioeconomic development?",
+    "options": [
+      "IMR",
+      "Literacy rate",
+      "GDP",
+      "Birth rate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is the correct sequence of levels of prevention?",
+    "options": [
+      "Secondary → Primary → Tertiary",
+      "Primary → Secondary → Tertiary",
+      "Tertiary → Primary → Secondary",
+      "Primary → Tertiary → Secondary"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vaccine is given intradermally?",
+    "options": [
+      "OPV",
+      "BCG",
+      "DPT",
+      "Measles"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease is targeted by Pulse Polio Programme?",
+    "options": [
+      "Measles",
+      "Polio",
+      "TB",
+      "Hepatitis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The vector for filariasis is:",
+    "options": [
+      "Aedes mosquito",
+      "Culex mosquito",
+      "Anopheles mosquito",
+      "Housefly"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a component of environmental sanitation?",
+    "options": [
+      "Safe water",
+      "Waste disposal",
+      "Air pollution control",
+      "Surgery"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The full form of MCH is:",
+    "options": [
+      "Medical Community Health",
+      "Maternal and Child Health",
+      "Modern Clinical Hospital",
+      "Medical Child Help"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the first vaccine given to a child?",
+    "options": [
+      "Measles",
+      "DPT",
+      "BCG",
+      "Hepatitis B booster"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which method is used for purification of water at household level?",
+    "options": [
+      "Chlorination",
+      "Filtration",
+      "Boiling",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which disease is transmitted by contaminated food and water?",
+    "options": [
+      "HIV",
+      "Hepatitis B",
+      "Typhoid",
+      "Rabies"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The safest period for immunization is:",
+    "options": [
+      "At birth",
+      "During illness",
+      "Before pregnancy",
+      "As per schedule"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is a droplet infection?",
+    "options": [
+      "Malaria",
+      "TB",
+      "Cholera",
+      "Hepatitis A"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organization provides international health support?",
+    "options": [
+      "WHO",
+      "NGO",
+      "PHC",
+      "Panchayat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is NOT a function of ASHA worker?",
+    "options": [
+      "Health education",
+      "Immunization support",
+      "Surgery",
+      "Referral services"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which nutrient deficiency causes goiter?",
+    "options": [
+      "Iron",
+      "Iodine",
+      "Calcium",
+      "Vitamin D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The incubation period of cholera is:",
+    "options": [
+      "Few hours to 5 days",
+      "10–15 days",
+      "1 month",
+      "2 months"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which disease is spread by housefly?",
+    "options": [
+      "Malaria",
+      "Dengue",
+      "Typhoid",
+      "Rabies"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the best method for disposal of liquid waste?",
+    "options": [
+      "Burning",
+      "Incineration",
+      "Drainage system",
+      "Open dumping"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The main aim of family planning is:",
+    "options": [
+      "Increase population",
+      "Improve quality of life",
+      "Promote disease",
+      "Increase mortality"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a permanent method of contraception?",
+    "options": [
+      "Condom",
+      "Copper-T",
+      "Vasectomy",
+      "Pills"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is NOT a communicable disease?",
+    "options": [
+      "Diabetes",
+      "TB",
+      "Malaria",
+      "Cholera"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin is essential for blood clotting?",
+    "options": [
+      "Vitamin A",
+      "Vitamin K",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most effective way to prevent malaria is:",
+    "options": [
+      "Antibiotics",
+      "Mosquito control",
+      "Surgery",
+      "Isolation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a method of sterilization?",
+    "options": [
+      "Autoclaving",
+      "Boiling",
+      "Filtration",
+      "Incineration"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which disease is caused by virus?",
+    "options": [
+      "TB",
+      "Cholera",
+      "Measles",
+      "Typhoid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal pH of drinking water is:",
+    "options": [
+      "4–5",
+      "6.5–8.5",
+      "9–10",
+      "2–3"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most common method of health education?",
+    "options": [
+      "Lecture",
+      "Counseling",
+      "Demonstration",
+      "Role play"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is the main function of PHC?",
+    "options": [
+      "Surgery",
+      "Prevention & promotion",
+      "Research",
+      "Teaching only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease is prevented by DPT vaccine?",
+    "options": [
+      "TB",
+      "Diphtheria",
+      "Hepatitis",
+      "Measles"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best indicator of population growth is:",
+    "options": [
+      "Birth rate",
+      "Death rate",
+      "Growth rate",
+      "IMR"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is NOT a source of safe drinking water?",
+    "options": [
+      "Protected well",
+      "Tube well",
+      "Polluted river",
+      "Bore well"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is a zoonotic disease?",
+    "options": [
+      "Rabies",
+      "Malaria",
+      "Cholera",
+      "Typhoid"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which level of care is provided at district hospital?",
+    "options": [
+      "Primary",
+      "Secondary",
+      "Tertiary",
+      "Community"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best way to control diarrheal disease is:",
+    "options": [
+      "Antibiotics",
+      "ORS",
+      "Surgery",
+      "Isolation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT included in biomedical waste?",
+    "options": [
+      "Human tissues",
+      "Sharps",
+      "Paper",
+      "Blood samples"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is a fatal disease if untreated?",
+    "options": [
+      "Rabies",
+      "Measles",
+      "Typhoid",
+      "Cholera"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is the main cause of anemia in India?",
+    "options": [
+      "Vitamin deficiency",
+      "Iron deficiency",
+      "Infection",
+      "Water loss"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease is prevented by BCG vaccine?",
+    "options": [
+      "Measles",
+      "TB",
+      "Polio",
+      "Hepatitis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the best way to prevent HIV transmission?",
+    "options": [
+      "Vaccination",
+      "Safe sex",
+      "Isolation",
+      "Antibiotics"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most important role of a community health nurse is:",
+    "options": [
+      "Surgery",
+      "Treatment only",
+      "Health education",
+      "Laboratory work"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The concept of Health according to World Health Organization includes:",
+    "options": [
+      "Absence of disease only",
+      "Physical fitness only",
+      "Complete physical, mental & social well-being",
+      "Only mental well-being"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most appropriate denominator for IMR is:",
+    "options": [
+      "Total population",
+      "Total births",
+      "Live births",
+      "Total deaths"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most sensitive indicator of antenatal care is:",
+    "options": [
+      "IMR",
+      "MMR",
+      "Birth rate",
+      "Stillbirth rate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which level of prevention includes rehabilitation?",
+    "options": [
+      "Primary",
+      "Secondary",
+      "Tertiary",
+      "Primordial"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The main aim of surveillance is:",
+    "options": [
+      "Treatment",
+      "Early detection & control",
+      "Surgery",
+      "Rehabilitation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a characteristic of screening?",
+    "options": [
+      "Early detection",
+      "Applicable to healthy people",
+      "Diagnostic test",
+      "Cost-effective"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The gold standard test for TB diagnosis is:",
+    "options": [
+      "Mantoux test",
+      "Sputum culture",
+      "X-ray",
+      "ESR"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease has NO vaccine available?",
+    "options": [
+      "Measles",
+      "TB",
+      "Malaria",
+      "Hepatitis B"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which mosquito bites during daytime?",
+    "options": [
+      "Anopheles",
+      "Culex",
+      "Aedes",
+      "Mansonia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is NOT a cold chain equipment?",
+    "options": [
+      "Ice-lined refrigerator",
+      "Deep freezer",
+      "Vaccine carrier",
+      "Incubator"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The iceberg phenomenon is related to:",
+    "options": [
+      "Visible cases only",
+      "Hidden disease burden",
+      "Climate change",
+      "Nutrition"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a mode of transmission?",
+    "options": [
+      "Direct",
+      "Indirect",
+      "Vector",
+      "Genetic mutation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is a biological vector?",
+    "options": [
+      "Housefly",
+      "Mosquito",
+      "Air",
+      "Water"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The correct sequence of epidemiological triad is:",
+    "options": [
+      "Agent–Host–Environment",
+      "Host–Agent–Environment",
+      "Environment–Host–Agent",
+      "Agent–Environment–Host"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is NOT a component of demographic cycle?",
+    "options": [
+      "High stationary",
+      "Early expanding",
+      "Late expanding",
+      "Hyperstatic"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which indicator reflects economic status?",
+    "options": [
+      "IMR",
+      "Per capita income",
+      "Birth rate",
+      "Death rate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a method of contraception?",
+    "options": [
+      "Condom",
+      "IUCD",
+      "Vaccination",
+      "Oral pills"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is a barrier method?",
+    "options": [
+      "Pills",
+      "IUCD",
+      "Condom",
+      "Sterilization"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The main source of fluoride in water causes:",
+    "options": [
+      "Anemia",
+      "Fluorosis",
+      "Goiter",
+      "Scurvy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best indicator of overcrowding is:",
+    "options": [
+      "Floor area",
+      "Persons per room",
+      "Ventilation",
+      "Lighting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a national health program in India?",
+    "options": [
+      "NTEP",
+      "NVBDCP",
+      "NRHM",
+      "NASA"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The minimum residual chlorine in drinking water should be:",
+    "options": [
+      "0.2 mg/L",
+      "0.5 mg/L",
+      "1 mg/L",
+      "2 mg/L"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is NOT a vector control method?",
+    "options": [
+      "Larvicides",
+      "Insecticides",
+      "Surgery",
+      "Environmental control"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The term endemic refers to:",
+    "options": [
+      "Sudden outbreak",
+      "Constant presence",
+      "Global spread",
+      "Seasonal disease"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The term pandemic means:",
+    "options": [
+      "Local disease",
+      "Regional spread",
+      "Global spread",
+      "Seasonal disease"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The main cause of protein-energy malnutrition is:",
+    "options": [
+      "Vitamin deficiency",
+      "Inadequate diet",
+      "Infection",
+      "Genetic disorder"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a fat-soluble vitamin?",
+    "options": [
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin B12"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is NOT a function of community health nurse?",
+    "options": [
+      "Health education",
+      "Disease prevention",
+      "Surgery",
+      "Rehabilitation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The rule of halves is related to:",
+    "options": [
+      "Diabetes",
+      "Hypertension",
+      "TB",
+      "Malaria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a method of sterilization of water?",
+    "options": [
+      "Boiling",
+      "Chlorination",
+      "Filtration",
+      "Freezing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a source of infection?",
+    "options": [
+      "Human",
+      "Animal",
+      "Soil",
+      "Sunlight"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The period between exposure and disease onset is:",
+    "options": [
+      "Latent period",
+      "Incubation period",
+      "Infectious period",
+      "Recovery period"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a component of safe motherhood?",
+    "options": [
+      "Antenatal care",
+      "Skilled birth attendance",
+      "Postnatal care",
+      "Cosmetic surgery"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is the main objective of ICDS?",
+    "options": [
+      "Adult care",
+      "Child development",
+      "Surgery",
+      "Geriatric care"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a feature of primary health care?",
+    "options": [
+      "Accessibility",
+      "Affordability",
+      "Advanced technology",
+      "Community participation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is NOT a communicable disease control measure?",
+    "options": [
+      "Immunization",
+      "Isolation",
+      "Quarantine",
+      "Surgery"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which disease is transmitted by droplet infection?",
+    "options": [
+      "Cholera",
+      "Measles",
+      "Malaria",
+      "Typhoid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main aim of NRHM is:",
+    "options": [
+      "Urban health",
+      "Rural health improvement",
+      "Surgery",
+      "Research"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a vital statistic?",
+    "options": [
+      "Birth",
+      "Death",
+      "Marriage",
+      "Income"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a type of health indicator?",
+    "options": [
+      "Mortality",
+      "Morbidity",
+      "Disability",
+      "Currency"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The main reservoir of rabies is:",
+    "options": [
+      "Dog",
+      "Cat",
+      "Cow",
+      "Rat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is NOT a route of HIV transmission?",
+    "options": [
+      "Blood transfusion",
+      "Sexual contact",
+      "Mosquito bite",
+      "Mother to child"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The main function of Anganwadi worker is:",
+    "options": [
+      "Surgery",
+      "Child nutrition",
+      "Laboratory testing",
+      "ICU care"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a health hazard?",
+    "options": [
+      "Noise",
+      "Radiation",
+      "Clean water",
+      "Pollution"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is NOT a type of immunity?",
+    "options": [
+      "Active",
+      "Passive",
+      "Herd",
+      "Chemical"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The herd immunity refers to:",
+    "options": [
+      "Individual protection",
+      "Community protection",
+      "Animal immunity",
+      "Genetic immunity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a function of UNICEF?",
+    "options": [
+      "Child welfare",
+      "Nutrition programs",
+      "Military services",
+      "Immunization support"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the best indicator of health awareness?",
+    "options": [
+      "Literacy rate",
+      "IMR",
+      "Birth rate",
+      "Death rate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is NOT a communicable disease?",
+    "options": [
+      "Cancer",
+      "TB",
+      "Cholera",
+      "Malaria"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most important determinant of health is:",
+    "options": [
+      "Hospital",
+      "Lifestyle",
+      "Medicine",
+      "Surgery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the best indicator of health services utilization?",
+    "options": [
+      "IMR",
+      "Bed occupancy rate",
+      "Birth rate",
+      "Literacy rate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The secondary attack rate is used in:",
+    "options": [
+      "Chronic disease",
+      "Epidemic investigation",
+      "Nutrition survey",
+      "Mortality analysis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a source of vital statistics?",
+    "options": [
+      "Census",
+      "Sample registration system",
+      "Hospital records",
+      "Weather report"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The most common cause of maternal mortality in India is:",
+    "options": [
+      "Anemia",
+      "Hemorrhage",
+      "Infection",
+      "Hypertension"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a method of data collection?",
+    "options": [
+      "Observation",
+      "Interview",
+      "Experiment",
+      "Surgery"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The attack rate is expressed as:",
+    "options": [
+      "Percentage",
+      "Ratio",
+      "Rate",
+      "Proportion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is NOT a characteristic of epidemic?",
+    "options": [
+      "Sudden increase",
+      "Localized occurrence",
+      "Expected frequency",
+      "Above normal level"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The main purpose of census is:",
+    "options": [
+      "Disease control",
+      "Population data collection",
+      "Treatment",
+      "Surgery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a method of family planning?",
+    "options": [
+      "Natural method",
+      "Barrier method",
+      "Surgical method",
+      "Vaccination method"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The most reliable source of population data is:",
+    "options": [
+      "Survey",
+      "Census",
+      "Hospital record",
+      "Interview"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a component of school health services?",
+    "options": [
+      "Health appraisal",
+      "Immunization",
+      "Midday meal",
+      "Surgery"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a water purification method at community level?",
+    "options": [
+      "Sedimentation",
+      "Filtration",
+      "Chlorination",
+      "Freezing"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The case fatality rate measures:",
+    "options": [
+      "Incidence",
+      "Severity of disease",
+      "Prevalence",
+      "Mortality trend"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease is most suitable for screening?",
+    "options": [
+      "Rare disease",
+      "Untreatable disease",
+      "Common disease with latent stage",
+      "Acute disease"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is NOT a component of RNTCP/NTEP?",
+    "options": [
+      "DOTS",
+      "Sputum examination",
+      "Immunization",
+      "Drug therapy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is NOT a mode of indirect transmission?",
+    "options": [
+      "Vehicle-borne",
+      "Vector-borne",
+      "Airborne",
+      "Direct contact"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a type of quarantine?",
+    "options": [
+      "Absolute",
+      "Modified",
+      "Passive",
+      "Active"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The main objective of health education is:",
+    "options": [
+      "Increase knowledge only",
+      "Change behavior",
+      "Provide treatment",
+      "Surgery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a characteristic of primary health care?",
+    "options": [
+      "Accessibility",
+      "Affordability",
+      "Community participation",
+      "Specialization"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a nutritional deficiency disease?",
+    "options": [
+      "Scurvy",
+      "Rickets",
+      "Diabetes",
+      "Pellagra"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is NOT a component of environmental hygiene?",
+    "options": [
+      "Air",
+      "Water",
+      "Soil",
+      "Surgery"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The best method of refuse disposal in rural areas is:",
+    "options": [
+      "Open dumping",
+      "Composting",
+      "Burning",
+      "Throwing in river"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a type of surveillance?",
+    "options": [
+      "Active",
+      "Passive",
+      "Sentinel",
+      "Surgical"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The most effective method of communication is:",
+    "options": [
+      "Lecture",
+      "Demonstration",
+      "One-to-one communication",
+      "Mass media"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is NOT a function of PHC?",
+    "options": [
+      "Preventive",
+      "Promotive",
+      "Curative",
+      "Highly specialized surgery"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The dependency ratio refers to:",
+    "options": [
+      "Birth rate",
+      "Ratio of dependents to working population",
+      "Death rate",
+      "Literacy rate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a method of sterilization?",
+    "options": [
+      "Autoclaving",
+      "Dry heat",
+      "Filtration",
+      "Sunlight"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which disease has the shortest incubation period?",
+    "options": [
+      "Measles",
+      "Cholera",
+      "TB",
+      "Hepatitis B"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a vector-borne disease?",
+    "options": [
+      "Dengue",
+      "Malaria",
+      "Typhoid",
+      "Filariasis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is NOT a method of health planning?",
+    "options": [
+      "Assessment",
+      "Planning",
+      "Implementation",
+      "Surgery"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a component of cold chain?",
+    "options": [
+      "Refrigerator",
+      "Deep freezer",
+      "Vaccine carrier",
+      "Incubator"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a type of immunity?",
+    "options": [
+      "Natural",
+      "Artificial",
+      "Active",
+      "Mechanical"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a health indicator?",
+    "options": [
+      "Mortality",
+      "Morbidity",
+      "Disability",
+      "Salary"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a communicable disease?",
+    "options": [
+      "Cancer",
+      "TB",
+      "Cholera",
+      "Measles"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is NOT a function of nurse?",
+    "options": [
+      "Care",
+      "Education",
+      "Prevention",
+      "Surgery"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a source of water pollution?",
+    "options": [
+      "Industrial waste",
+      "Sewage",
+      "Agricultural runoff",
+      "Clean rainwater"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a method of vector control?",
+    "options": [
+      "Insecticides",
+      "Environmental sanitation",
+      "Biological control",
+      "Surgery"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a zoonotic disease?",
+    "options": [
+      "Rabies",
+      "Plague",
+      "Malaria",
+      "Anthrax"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is NOT a type of waste disposal?",
+    "options": [
+      "Incineration",
+      "Composting",
+      "Landfill",
+      "Injection"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a function of health worker?",
+    "options": [
+      "Prevention",
+      "Promotion",
+      "Rehabilitation",
+      "Surgery"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a method of disease prevention?",
+    "options": [
+      "Immunization",
+      "Health education",
+      "Nutrition",
+      "Surgery"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a type of disease transmission?",
+    "options": [
+      "Direct",
+      "Indirect",
+      "Vector",
+      "Surgical"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a demographic indicator?",
+    "options": [
+      "Birth rate",
+      "Death rate",
+      "Literacy rate",
+      "Temperature"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a component of health services?",
+    "options": [
+      "Preventive",
+      "Promotive",
+      "Curative",
+      "Destructive"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a nutritional disease?",
+    "options": [
+      "Rickets",
+      "Scurvy",
+      "Pellagra",
+      "Malaria"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a type of communication?",
+    "options": [
+      "Verbal",
+      "Non-verbal",
+      "Written",
+      "Surgical"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a component of PHC?",
+    "options": [
+      "Health education",
+      "Nutrition",
+      "Safe water",
+      "Robotic surgery"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a level of prevention?",
+    "options": [
+      "Primary",
+      "Secondary",
+      "Tertiary",
+      "Surgical"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a function of WHO?",
+    "options": [
+      "Health promotion",
+      "Disease control",
+      "Setting standards",
+      "Military operation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The ultimate goal of community health nursing is:",
+    "options": [
+      "Treatment",
+      "Prevention",
+      "Health for all",
+      "Surgery"
+    ],
+    "correctIndex": 2
+  }
+]

@@ -1,0 +1,2002 @@
+[
+  {
+    "text": "The functional unit of kidney is:",
+    "options": [
+      "Neuron",
+      "Nephron",
+      "Alveoli",
+      "Glomerulus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Normal resting heart rate in adults is:",
+    "options": [
+      "40–60 bpm",
+      "60–100 bpm",
+      "100–120 bpm",
+      "120–140 bpm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Oxygen is transported in blood mainly by:",
+    "options": [
+      "Plasma",
+      "RBC membrane",
+      "Hemoglobin",
+      "Platelets"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal pH of blood is:",
+    "options": [
+      "6.8",
+      "7.0",
+      "7.35–7.45",
+      "8.0"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone regulates blood sugar level?",
+    "options": [
+      "Thyroxine",
+      "Insulin",
+      "Adrenaline",
+      "Estrogen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The site of gas exchange in lungs is:",
+    "options": [
+      "Bronchi",
+      "Trachea",
+      "Alveoli",
+      "Larynx"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which ion is important for muscle contraction?",
+    "options": [
+      "Sodium",
+      "Potassium",
+      "Calcium",
+      "Chloride"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal hemoglobin level in adults is approximately:",
+    "options": [
+      "5–8 g/dL",
+      "10–12 g/dL",
+      "12–16 g/dL",
+      "18–20 g/dL"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which part of brain controls body temperature?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Hypothalamus",
+      "Medulla"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The pacemaker of heart is:",
+    "options": [
+      "AV node",
+      "SA node",
+      "Purkinje fibers",
+      "Bundle of His"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin is essential for blood clotting?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The process of urine formation occurs in:",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Lungs",
+      "Heart"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which gas is responsible for respiratory drive?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The largest gland in human body is:",
+    "options": [
+      "Pancreas",
+      "Thyroid",
+      "Liver",
+      "Pituitary"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which part of nephron filters blood?",
+    "options": [
+      "Loop of Henle",
+      "Collecting duct",
+      "Glomerulus",
+      "Distal tubule"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal body temperature is:",
+    "options": [
+      "35°C",
+      "36°C",
+      "37°C",
+      "38°C"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone is called fight or flight hormone?",
+    "options": [
+      "Insulin",
+      "Cortisol",
+      "Adrenaline",
+      "Thyroxine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which organ stores bile?",
+    "options": [
+      "Liver",
+      "Pancreas",
+      "Gallbladder",
+      "Intestine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which type of muscle is involuntary?",
+    "options": [
+      "Skeletal muscle",
+      "Cardiac muscle",
+      "Smooth muscle",
+      "Both B and C"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The basic unit of nervous system is:",
+    "options": [
+      "Nephron",
+      "Neuron",
+      "Axon",
+      "Synapse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which component of blood helps in clotting?",
+    "options": [
+      "RBC",
+      "WBC",
+      "Platelets",
+      "Plasma"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal respiratory rate in adults is:",
+    "options": [
+      "8–10/min",
+      "12–20/min",
+      "20–30/min",
+      "30–40/min"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of brain controls breathing?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla oblongata",
+      "Hypothalamus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The functional unit of lung is:",
+    "options": [
+      "Bronchi",
+      "Alveoli",
+      "Trachea",
+      "Pleura"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which hormone regulates metabolism?",
+    "options": [
+      "Insulin",
+      "Thyroxine",
+      "Adrenaline",
+      "Progesterone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which blood cells fight infection?",
+    "options": [
+      "RBC",
+      "WBC",
+      "Platelets",
+      "Plasma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal blood pressure in adults is:",
+    "options": [
+      "90/60 mmHg",
+      "120/80 mmHg",
+      "140/100 mmHg",
+      "160/110 mmHg"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of nephron reabsorbs maximum water?",
+    "options": [
+      "Distal tubule",
+      "Loop of Henle",
+      "Proximal convoluted tubule",
+      "Collecting duct"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The main function of RBC is:",
+    "options": [
+      "Immunity",
+      "Clotting",
+      "Oxygen transport",
+      "Hormone transport"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which electrolyte is highest inside cells?",
+    "options": [
+      "Sodium",
+      "Potassium",
+      "Calcium",
+      "Chloride"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organ produces insulin?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Pancreas",
+      "Thyroid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The smallest blood vessels are:",
+    "options": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Venules"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which process moves substances against concentration gradient?",
+    "options": [
+      "Diffusion",
+      "Osmosis",
+      "Active transport",
+      "Filtration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal lifespan of RBC is:",
+    "options": [
+      "30 days",
+      "60 days",
+      "120 days",
+      "180 days"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which vitamin helps in calcium absorption?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The cardiac cycle consists of:",
+    "options": [
+      "Only systole",
+      "Only diastole",
+      "Systole and diastole",
+      "Ventilation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which gland is called master gland?",
+    "options": [
+      "Thyroid",
+      "Adrenal",
+      "Pituitary",
+      "Pancreas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The hormone ADH acts on:",
+    "options": [
+      "Liver",
+      "Heart",
+      "Kidney",
+      "Lungs"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which blood group is universal donor?",
+    "options": [
+      "A",
+      "B",
+      "AB",
+      "O"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which organ detoxifies harmful substances?",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Lungs",
+      "Heart"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which protein is responsible for osmotic pressure of plasma?",
+    "options": [
+      "Albumin",
+      "Globulin",
+      "Fibrinogen",
+      "Hemoglobin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which ion mainly determines resting membrane potential?",
+    "options": [
+      "Sodium",
+      "Calcium",
+      "Potassium",
+      "Chloride"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The first heart sound (lub) is due to closure of:",
+    "options": [
+      "Semilunar valves",
+      "AV valves",
+      "Aortic valve",
+      "Pulmonary valve"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The second heart sound (dub) is due to closure of:",
+    "options": [
+      "AV valves",
+      "Tricuspid valve",
+      "Semilunar valves",
+      "Mitral valve"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which part of brain maintains posture and balance?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Hypothalamus",
+      "Medulla"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which gas has highest diffusion rate in lungs?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal tidal volume is approximately:",
+    "options": [
+      "100 mL",
+      "250 mL",
+      "500 mL",
+      "1000 mL"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone decreases blood calcium level?",
+    "options": [
+      "Parathormone",
+      "Calcitonin",
+      "Thyroxine",
+      "Cortisol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of nephron is impermeable to water?",
+    "options": [
+      "PCT",
+      "Descending limb",
+      "Ascending limb of Loop of Henle",
+      "Collecting duct"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which cells produce antibodies?",
+    "options": [
+      "RBC",
+      "Neutrophils",
+      "Lymphocytes",
+      "Platelets"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which factor initiates blood clotting?",
+    "options": [
+      "Calcium",
+      "Vitamin C",
+      "Platelets",
+      "Heparin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone increases blood glucose level?",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Estrogen",
+      "Oxytocin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which structure separates left and right ventricles?",
+    "options": [
+      "Atrium",
+      "Septum",
+      "Valve",
+      "Aorta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which enzyme converts fibrinogen to fibrin?",
+    "options": [
+      "Thrombin",
+      "Pepsin",
+      "Trypsin",
+      "Renin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organ regulates acid-base balance?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Heart",
+      "Skin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which type of immunity is present at birth?",
+    "options": [
+      "Active immunity",
+      "Passive immunity",
+      "Innate immunity",
+      "Acquired immunity"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which part of neuron receives impulses?",
+    "options": [
+      "Axon",
+      "Dendrite",
+      "Node of Ranvier",
+      "Synapse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which hormone is secreted by posterior pituitary?",
+    "options": [
+      "Growth hormone",
+      "TSH",
+      "ADH",
+      "ACTH"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which organ produces bile?",
+    "options": [
+      "Gallbladder",
+      "Liver",
+      "Pancreas",
+      "Intestine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which process is responsible for movement of water across membrane?",
+    "options": [
+      "Diffusion",
+      "Active transport",
+      "Osmosis",
+      "Filtration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone is secreted by beta cells of pancreas?",
+    "options": [
+      "Glucagon",
+      "Insulin",
+      "Somatostatin",
+      "Cortisol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which blood component transports hormones?",
+    "options": [
+      "RBC",
+      "Plasma",
+      "Platelets",
+      "WBC"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organ is primarily responsible for erythropoiesis in adults?",
+    "options": [
+      "Liver",
+      "Spleen",
+      "Bone marrow",
+      "Kidney"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which ion is mainly responsible for depolarization of neuron?",
+    "options": [
+      "Potassium",
+      "Calcium",
+      "Sodium",
+      "Chloride"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which part of heart pumps oxygenated blood to body?",
+    "options": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which enzyme starts protein digestion?",
+    "options": [
+      "Amylase",
+      "Pepsin",
+      "Lipase",
+      "Trypsin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which hormone is secreted during stress?",
+    "options": [
+      "Insulin",
+      "Adrenaline",
+      "Thyroxine",
+      "Prolactin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which structure prevents backflow of blood in heart?",
+    "options": [
+      "Septum",
+      "Valves",
+      "Atria",
+      "Ventricles"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of nephron concentrates urine?",
+    "options": [
+      "PCT",
+      "DCT",
+      "Loop of Henle",
+      "Bowman’s capsule"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which type of muscle is found in heart?",
+    "options": [
+      "Skeletal",
+      "Smooth",
+      "Cardiac",
+      "Voluntary"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which gas is carried mostly as bicarbonate in blood?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone increases heart rate?",
+    "options": [
+      "Insulin",
+      "Adrenaline",
+      "Thyroxine",
+      "ADH"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency causes bleeding disorder?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which organ stores glycogen?",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Heart",
+      "Lungs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of brain controls hunger and thirst?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Hypothalamus",
+      "Medulla"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which process requires energy?",
+    "options": [
+      "Diffusion",
+      "Osmosis",
+      "Active transport",
+      "Filtration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which blood vessel carries deoxygenated blood?",
+    "options": [
+      "Artery",
+      "Vein",
+      "Capillary",
+      "Aorta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which gland secretes thyroxine?",
+    "options": [
+      "Pituitary",
+      "Thyroid",
+      "Adrenal",
+      "Pancreas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which structure connects neuron to neuron?",
+    "options": [
+      "Axon",
+      "Dendrite",
+      "Synapse",
+      "Node"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which part of kidney collects urine?",
+    "options": [
+      "PCT",
+      "Loop of Henle",
+      "Collecting duct",
+      "Glomerulus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which blood group is universal recipient?",
+    "options": [
+      "A",
+      "B",
+      "AB",
+      "O"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone is secreted by adrenal cortex?",
+    "options": [
+      "Adrenaline",
+      "Noradrenaline",
+      "Cortisol",
+      "Insulin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which process removes waste from blood in kidney?",
+    "options": [
+      "Absorption",
+      "Filtration",
+      "Diffusion",
+      "Secretion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which cell organelle produces energy?",
+    "options": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Golgi body"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone stimulates milk production?",
+    "options": [
+      "Oxytocin",
+      "Prolactin",
+      "Estrogen",
+      "Progesterone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of eye controls light entry?",
+    "options": [
+      "Lens",
+      "Retina",
+      "Iris",
+      "Cornea"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which reflex is automatic and rapid?",
+    "options": [
+      "Voluntary",
+      "Reflex action",
+      "Conscious",
+      "Learned"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which hormone regulates water balance?",
+    "options": [
+      "Insulin",
+      "ADH",
+      "Thyroxine",
+      "Cortisol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organ produces urea?",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Heart",
+      "Intestine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of digestive system absorbs nutrients?",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Large intestine",
+      "Esophagus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which type of blood cells lack nucleus?",
+    "options": [
+      "WBC",
+      "RBC",
+      "Platelets",
+      "Lymphocytes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which nerve carries impulses away from CNS?",
+    "options": [
+      "Sensory nerve",
+      "Motor nerve",
+      "Mixed nerve",
+      "Cranial nerve"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which hormone is released during childbirth?",
+    "options": [
+      "Prolactin",
+      "Oxytocin",
+      "Estrogen",
+      "Insulin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which enzyme digests fats?",
+    "options": [
+      "Amylase",
+      "Lipase",
+      "Pepsin",
+      "Trypsin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which structure filters blood in kidney?",
+    "options": [
+      "Loop of Henle",
+      "Glomerulus",
+      "DCT",
+      "Collecting duct"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which gas is essential for cellular respiration?",
+    "options": [
+      "CO2",
+      "O2",
+      "N2",
+      "H2"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which hormone increases calcium level in blood?",
+    "options": [
+      "Calcitonin",
+      "Parathormone",
+      "Thyroxine",
+      "Insulin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of brain controls involuntary actions?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla oblongata",
+      "Thalamus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which organ produces digestive enzymes?",
+    "options": [
+      "Liver",
+      "Pancreas",
+      "Kidney",
+      "Heart"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which system maintains homeostasis?",
+    "options": [
+      "Digestive system",
+      "Respiratory system",
+      "Nervous & endocrine system",
+      "Skeletal system"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which part of brain acts as relay center?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Thalamus",
+      "Hypothalamus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone stimulates RBC production?",
+    "options": [
+      "Insulin",
+      "Erythropoietin",
+      "Thyroxine",
+      "Cortisol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which component of blood gives immunity?",
+    "options": [
+      "RBC",
+      "Platelets",
+      "WBC",
+      "Plasma"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which type of joint allows maximum movement?",
+    "options": [
+      "Hinge joint",
+      "Ball and socket joint",
+      "Pivot joint",
+      "Fixed joint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which hormone is secreted by alpha cells of pancreas?",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Somatostatin",
+      "Cortisol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which structure in ear is responsible for balance?",
+    "options": [
+      "Cochlea",
+      "Tympanum",
+      "Semicircular canals",
+      "Ossicles"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which organ helps in detoxification and metabolism?",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Heart",
+      "Brain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which phase of cardiac cycle is relaxation phase?",
+    "options": [
+      "Systole",
+      "Diastole",
+      "Depolarization",
+      "Refractory"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which blood vessel has highest pressure?",
+    "options": [
+      "Vein",
+      "Capillary",
+      "Artery",
+      "Venule"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone is secreted by pineal gland?",
+    "options": [
+      "Melatonin",
+      "Thyroxine",
+      "Cortisol",
+      "Insulin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which process helps in heat loss from body?",
+    "options": [
+      "Vasoconstriction",
+      "Vasodilation",
+      "Digestion",
+      "Filtration"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of nephron is first to receive filtrate?",
+    "options": [
+      "PCT",
+      "DCT",
+      "Loop of Henle",
+      "Collecting duct"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which enzyme digests carbohydrates in mouth?",
+    "options": [
+      "Pepsin",
+      "Lipase",
+      "Salivary amylase",
+      "Trypsin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which ion is important for nerve impulse transmission?",
+    "options": [
+      "Sodium",
+      "Calcium",
+      "Iron",
+      "Magnesium"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organ regulates blood volume?",
+    "options": [
+      "Heart",
+      "Kidney",
+      "Liver",
+      "Lungs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which type of immunity develops after infection?",
+    "options": [
+      "Innate immunity",
+      "Passive immunity",
+      "Active immunity",
+      "Artificial immunity"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which structure protects brain?",
+    "options": [
+      "Vertebrae",
+      "Skull",
+      "Ribs",
+      "Pelvis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which hormone is responsible for growth?",
+    "options": [
+      "TSH",
+      "GH",
+      "ACTH",
+      "ADH"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of digestive system absorbs water?",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Large intestine",
+      "Esophagus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which structure connects muscle to bone?",
+    "options": [
+      "Ligament",
+      "Tendon",
+      "Cartilage",
+      "Joint"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of brain controls voluntary actions?",
+    "options": [
+      "Cerebellum",
+      "Cerebrum",
+      "Medulla",
+      "Thalamus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which hormone stimulates thyroid gland?",
+    "options": [
+      "ACTH",
+      "TSH",
+      "GH",
+      "ADH"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which blood cells are called scavengers?",
+    "options": [
+      "RBC",
+      "Platelets",
+      "Neutrophils",
+      "Lymphocytes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which organ helps in maintaining blood pressure?",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Lungs",
+      "Stomach"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which enzyme is present in gastric juice?",
+    "options": [
+      "Trypsin",
+      "Pepsin",
+      "Amylase",
+      "Lipase"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which ion is responsible for blood clotting?",
+    "options": [
+      "Sodium",
+      "Potassium",
+      "Calcium",
+      "Iron"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which structure carries urine from kidney to bladder?",
+    "options": [
+      "Urethra",
+      "Ureter",
+      "Nephron",
+      "Pelvis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which hormone is secreted by pancreas?",
+    "options": [
+      "Thyroxine",
+      "Insulin",
+      "Cortisol",
+      "ADH"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of neuron conducts impulse away from cell body?",
+    "options": [
+      "Dendrite",
+      "Axon",
+      "Synapse",
+      "Node"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organ produces bile salts?",
+    "options": [
+      "Gallbladder",
+      "Liver",
+      "Pancreas",
+      "Intestine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which hormone regulates sleep-wake cycle?",
+    "options": [
+      "Melatonin",
+      "Cortisol",
+      "Insulin",
+      "Thyroxine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which blood vessel returns blood to heart?",
+    "options": [
+      "Artery",
+      "Vein",
+      "Capillary",
+      "Aorta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of respiratory system warms air?",
+    "options": [
+      "Alveoli",
+      "Trachea",
+      "Nasal cavity",
+      "Bronchi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which process helps in movement of particles from high to low concentration?",
+    "options": [
+      "Active transport",
+      "Osmosis",
+      "Diffusion",
+      "Filtration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone is secreted by adrenal medulla?",
+    "options": [
+      "Cortisol",
+      "Aldosterone",
+      "Adrenaline",
+      "Thyroxine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which organ stores vitamin A?",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Heart",
+      "Lungs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which type of muscle is non-striated?",
+    "options": [
+      "Skeletal",
+      "Cardiac",
+      "Smooth",
+      "Voluntary"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone controls calcium metabolism?",
+    "options": [
+      "Insulin",
+      "Parathormone",
+      "Adrenaline",
+      "GH"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of nephron is responsible for selective reabsorption?",
+    "options": [
+      "Glomerulus",
+      "PCT",
+      "Bowman’s capsule",
+      "Collecting duct"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which system protects body from diseases?",
+    "options": [
+      "Digestive system",
+      "Respiratory system",
+      "Immune system",
+      "Skeletal system"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which of the following increases glomerular filtration rate (GFR)?",
+    "options": [
+      "Constriction of afferent arteriole",
+      "Dilation of efferent arteriole",
+      "Dilation of afferent arteriole",
+      "Decreased blood pressure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Bohr effect refers to:",
+    "options": [
+      "Increased O2 affinity at low CO2",
+      "Decreased O2 affinity at high CO2",
+      "Increased CO2 transport",
+      "Decreased pH in lungs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of nephron is responsible for countercurrent mechanism?",
+    "options": [
+      "PCT",
+      "DCT",
+      "Loop of Henle",
+      "Collecting duct"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone has permissive action?",
+    "options": [
+      "Insulin",
+      "Thyroxine",
+      "ADH",
+      "Oxytocin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which ion shift causes repolarization of neuron?",
+    "options": [
+      "Na+ influx",
+      "K+ efflux",
+      "Ca2+ influx",
+      "Cl- influx"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which of the following has highest oxygen-carrying capacity?",
+    "options": [
+      "Plasma",
+      "Hemoglobin",
+      "RBC membrane",
+      "WBC"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which factor primarily regulates erythropoietin secretion?",
+    "options": [
+      "Blood glucose",
+      "Oxygen level",
+      "Blood pressure",
+      "Calcium level"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which enzyme is activated by enterokinase?",
+    "options": [
+      "Pepsinogen",
+      "Trypsinogen",
+      "Lipase",
+      "Amylase"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which hormone acts via intracellular receptors?",
+    "options": [
+      "Insulin",
+      "Adrenaline",
+      "Thyroxine",
+      "Glucagon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition increases heart rate?",
+    "options": [
+      "Vagus nerve stimulation",
+      "Increased parasympathetic activity",
+      "Sympathetic stimulation",
+      "Decreased adrenaline"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which part of brain integrates sensory impulses?",
+    "options": [
+      "Cerebellum",
+      "Thalamus",
+      "Hypothalamus",
+      "Medulla"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which transport mechanism is carrier-mediated but does not require energy?",
+    "options": [
+      "Active transport",
+      "Diffusion",
+      "Facilitated diffusion",
+      "Osmosis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone decreases urine output?",
+    "options": [
+      "Aldosterone",
+      "ADH",
+      "Cortisol",
+      "Insulin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition leads to metabolic acidosis?",
+    "options": [
+      "Loss of H+",
+      "Increased bicarbonate",
+      "Decreased pH",
+      "Decreased CO2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which blood vessel has lowest velocity of blood flow?",
+    "options": [
+      "Artery",
+      "Vein",
+      "Capillary",
+      "Aorta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which phase of cardiac cycle has maximum ventricular filling?",
+    "options": [
+      "Atrial systole",
+      "Ventricular systole",
+      "Ventricular diastole",
+      "Isovolumetric contraction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone is responsible for sodium reabsorption in kidney?",
+    "options": [
+      "ADH",
+      "Aldosterone",
+      "Insulin",
+      "Cortisol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which structure is responsible for filtration barrier in kidney?",
+    "options": [
+      "Podocytes",
+      "Mesangial cells",
+      "Macula densa",
+      "Juxtaglomerular cells"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which condition shifts oxygen dissociation curve to right?",
+    "options": [
+      "Decreased CO2",
+      "Increased pH",
+      "Increased temperature",
+      "Decreased 2,3-BPG"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone has negative feedback on pituitary?",
+    "options": [
+      "GH",
+      "Thyroxine",
+      "Prolactin",
+      "ADH"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which factor decreases GFR?",
+    "options": [
+      "Afferent arteriole dilation",
+      "Efferent arteriole constriction",
+      "Afferent arteriole constriction",
+      "Increased blood pressure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Haldane effect refers to:",
+    "options": [
+      "Increased O2 binding at low CO2",
+      "Increased CO2 binding to deoxygenated hemoglobin",
+      "Increased O2 release in tissues",
+      "Decreased hemoglobin affinity for oxygen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which segment of nephron is impermeable to both water and solutes?",
+    "options": [
+      "PCT",
+      "Descending limb",
+      "Thick ascending limb",
+      "Collecting duct"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone uses second messenger (cAMP)?",
+    "options": [
+      "Thyroxine",
+      "Cortisol",
+      "Adrenaline",
+      "Aldosterone"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which ion is responsible for plateau phase of cardiac action potential?",
+    "options": [
+      "Na+",
+      "K+",
+      "Ca2+",
+      "Cl-"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition shifts oxygen dissociation curve to left?",
+    "options": [
+      "Increased CO2",
+      "Increased temperature",
+      "Increased pH",
+      "Increased 2,3-BPG"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone is secreted by juxtaglomerular cells?",
+    "options": [
+      "Renin",
+      "ADH",
+      "Aldosterone",
+      "Erythropoietin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which enzyme converts angiotensin I to angiotensin II?",
+    "options": [
+      "Renin",
+      "ACE",
+      "Pepsin",
+      "Trypsin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of brain regulates circadian rhythm?",
+    "options": [
+      "Thalamus",
+      "Hypothalamus",
+      "Cerebellum",
+      "Medulla"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which transport mechanism shows saturation kinetics?",
+    "options": [
+      "Simple diffusion",
+      "Osmosis",
+      "Facilitated diffusion",
+      "Filtration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone increases potassium excretion?",
+    "options": [
+      "ADH",
+      "Aldosterone",
+      "Insulin",
+      "Cortisol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which phase of cardiac cycle has all valves closed?",
+    "options": [
+      "Ventricular filling",
+      "Atrial systole",
+      "Isovolumetric contraction",
+      "Ejection phase"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which cell type forms blood-brain barrier?",
+    "options": [
+      "Neurons",
+      "Astrocytes",
+      "Oligodendrocytes",
+      "Microglia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which hormone increases basal metabolic rate?",
+    "options": [
+      "Insulin",
+      "Thyroxine",
+      "ADH",
+      "Oxytocin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition leads to respiratory alkalosis?",
+    "options": [
+      "Hypoventilation",
+      "Hyperventilation",
+      "Increased CO2",
+      "Decreased pH"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of nephron senses NaCl concentration?",
+    "options": [
+      "Podocytes",
+      "Macula densa",
+      "JG cells",
+      "Collecting duct"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which receptor type is involved in pain sensation?",
+    "options": [
+      "Mechanoreceptor",
+      "Thermoreceptor",
+      "Nociceptor",
+      "Photoreceptor"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone is anabolic?",
+    "options": [
+      "Cortisol",
+      "Insulin",
+      "Adrenaline",
+      "Thyroxine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of heart has fastest conduction velocity?",
+    "options": [
+      "SA node",
+      "AV node",
+      "Purkinje fibers",
+      "Bundle of His"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which factor increases venous return?",
+    "options": [
+      "Standing still",
+      "Muscle contraction",
+      "Decreased blood volume",
+      "Vasodilation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which factor increases oxygen affinity of hemoglobin?",
+    "options": [
+      "Increased CO2",
+      "Increased temperature",
+      "Increased pH",
+      "Increased 2,3-BPG"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which part of nephron is most permeable to water?",
+    "options": [
+      "Ascending limb",
+      "Descending limb",
+      "DCT",
+      "Collecting duct"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which hormone is released in response to low blood pressure?",
+    "options": [
+      "Insulin",
+      "Renin",
+      "Thyroxine",
+      "Prolactin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which structure forms filtration slit in kidney?",
+    "options": [
+      "Podocytes",
+      "Mesangial cells",
+      "Macula densa",
+      "Endothelium"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which ion mainly contributes to ECF osmolarity?",
+    "options": [
+      "Potassium",
+      "Calcium",
+      "Sodium",
+      "Magnesium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone increases reabsorption of water in kidney?",
+    "options": [
+      "Aldosterone",
+      "ADH",
+      "Cortisol",
+      "Insulin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which phase of cardiac cycle shows maximum pressure in ventricles?",
+    "options": [
+      "Filling phase",
+      "Isovolumetric relaxation",
+      "Ejection phase",
+      "Atrial systole"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition increases ventilation rate?",
+    "options": [
+      "Low CO2",
+      "High CO2",
+      "High pH",
+      "Low H+"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which hormone decreases blood glucose level?",
+    "options": [
+      "Glucagon",
+      "Cortisol",
+      "Insulin",
+      "Adrenaline"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which transport mechanism moves glucose into cells?",
+    "options": [
+      "Active transport",
+      "Diffusion",
+      "Facilitated diffusion",
+      "Osmosis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which part of brain controls endocrine system?",
+    "options": [
+      "Cerebrum",
+      "Hypothalamus",
+      "Thalamus",
+      "Medulla"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which structure acts as pacemaker of heart?",
+    "options": [
+      "AV node",
+      "SA node",
+      "Bundle of His",
+      "Purkinje fibers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which hormone increases blood calcium level?",
+    "options": [
+      "Calcitonin",
+      "Parathormone",
+      "Thyroxine",
+      "Insulin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of nephron is affected by ADH?",
+    "options": [
+      "PCT",
+      "Loop of Henle",
+      "Collecting duct",
+      "Bowman’s capsule"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition shifts oxygen dissociation curve to right?",
+    "options": [
+      "High pH",
+      "Low temperature",
+      "High CO2",
+      "Low 2,3-BPG"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which hormone increases sodium reabsorption?",
+    "options": [
+      "ADH",
+      "Aldosterone",
+      "Insulin",
+      "Cortisol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which phase has no change in ventricular volume?",
+    "options": [
+      "Ejection phase",
+      "Filling phase",
+      "Isovolumetric contraction",
+      "Atrial systole"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition causes respiratory acidosis?",
+    "options": [
+      "Hyperventilation",
+      "Hypoventilation",
+      "Low CO2",
+      "High pH"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which hormone is lipolytic (breaks fat)?",
+    "options": [
+      "Insulin",
+      "Adrenaline",
+      "GH",
+      "Both B and C"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which mechanism maintains homeostasis in body?",
+    "options": [
+      "Positive feedback",
+      "Negative feedback",
+      "Diffusion",
+      "Filtration"
+    ],
+    "correctIndex": 1
+  }
+]

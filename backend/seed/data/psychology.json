@@ -1,0 +1,2002 @@
+[
+  {
+    "text": "Psychology is the scientific study of:",
+    "options": [
+      "Soul",
+      "Mind and behavior",
+      "Brain only",
+      "Emotions only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Who is known as the Father of Psychology?",
+    "options": [
+      "Sigmund Freud",
+      "Wilhelm Wundt",
+      "Watson",
+      "Pavlov"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The first psychological laboratory was established by:",
+    "options": [
+      "Freud",
+      "Pavlov",
+      "Wundt",
+      "Skinner"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Behaviorism focuses on:",
+    "options": [
+      "Consciousness",
+      "Unconscious mind",
+      "Observable behavior",
+      "Emotions"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Who is associated with classical conditioning?",
+    "options": [
+      "Skinner",
+      "Pavlov",
+      "Thorndike",
+      "Freud"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Learning by reward and punishment is called:",
+    "options": [
+      "Classical conditioning",
+      "Insight learning",
+      "Operant conditioning",
+      "Trial and error"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Who proposed psychoanalysis?",
+    "options": [
+      "Watson",
+      "Freud",
+      "Pavlov",
+      "Skinner"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The part of personality guided by reality principle is:",
+    "options": [
+      "Id",
+      "Ego",
+      "Superego",
+      "Instinct"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Short-term memory is also called:",
+    "options": [
+      "Sensory memory",
+      "Working memory",
+      "Long-term memory",
+      "Permanent memory"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Forgetting due to passage of time is called:",
+    "options": [
+      "Interference",
+      "Repression",
+      "Decay",
+      "Amnesia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "IQ stands for:",
+    "options": [
+      "Intelligence Quantity",
+      "Intelligence Quotient",
+      "Intelligence Quality",
+      "Internal Quotient"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Motivation is:",
+    "options": [
+      "External force only",
+      "Internal drive to act",
+      "Emotion",
+      "Habit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Maslow’s hierarchy begins with:",
+    "options": [
+      "Esteem needs",
+      "Love needs",
+      "Physiological needs",
+      "Self-actualization"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Emotion involves:",
+    "options": [
+      "Only feelings",
+      "Only behavior",
+      "Physiological and psychological changes",
+      "Only thinking"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which part of brain controls emotions?",
+    "options": [
+      "Cerebellum",
+      "Medulla",
+      "Limbic system",
+      "Spinal cord"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Perception is:",
+    "options": [
+      "Receiving stimuli",
+      "Interpreting sensory information",
+      "Ignoring stimuli",
+      "Memorizing stimuli"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Defense mechanisms are used to:",
+    "options": [
+      "Improve memory",
+      "Reduce anxiety",
+      "Increase intelligence",
+      "Improve learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a defense mechanism?",
+    "options": [
+      "Learning",
+      "Perception",
+      "Repression",
+      "Thinking"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Intelligence is best defined as:",
+    "options": [
+      "Ability to memorize",
+      "Ability to learn and adapt",
+      "Physical strength",
+      "Emotional control"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Stress is:",
+    "options": [
+      "Always harmful",
+      "Always helpful",
+      "Body’s response to demand",
+      "Only mental illness"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The basic unit of nervous system is:",
+    "options": [
+      "Neuron",
+      "Axon",
+      "Dendrite",
+      "Synapse"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Synapse is the junction between:",
+    "options": [
+      "Brain and spinal cord",
+      "Two neurons",
+      "Muscles and bones",
+      "Heart and brain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which lobes of brain are responsible for thinking and reasoning?",
+    "options": [
+      "Parietal",
+      "Temporal",
+      "Frontal",
+      "Occipital"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Hormones are secreted by:",
+    "options": [
+      "Nervous system",
+      "Endocrine glands",
+      "Muscles",
+      "Neurons"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which gland is called the master gland?",
+    "options": [
+      "Thyroid",
+      "Adrenal",
+      "Pituitary",
+      "Pancreas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Sensation is:",
+    "options": [
+      "Interpretation of stimuli",
+      "Detection of stimuli",
+      "Reaction to stimuli",
+      "Ignoring stimuli"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Absolute threshold refers to:",
+    "options": [
+      "Maximum sensation",
+      "Minimum detectable stimulus",
+      "Pain threshold",
+      "Emotional threshold"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Weber’s law deals with:",
+    "options": [
+      "Learning",
+      "Memory",
+      "Sensory difference",
+      "Intelligence"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Learning without reinforcement is:",
+    "options": [
+      "Classical conditioning",
+      "Operant conditioning",
+      "Insight learning",
+      "Latent learning"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Trial and error learning is given by:",
+    "options": [
+      "Pavlov",
+      "Skinner",
+      "Thorndike",
+      "Watson"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Reinforcement increases:",
+    "options": [
+      "Forgetting",
+      "Behavior",
+      "Emotion",
+      "Stress"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Punishment leads to:",
+    "options": [
+      "Increase in behavior",
+      "Decrease in behavior",
+      "No change",
+      "Learning only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Long-term memory can store information for:",
+    "options": [
+      "Seconds",
+      "Minutes",
+      "Hours",
+      "Lifetime"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Forgetting due to similar information is:",
+    "options": [
+      "Decay",
+      "Interference",
+      "Repression",
+      "Blocking"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Proactive interference means:",
+    "options": [
+      "New learning affects old",
+      "Old learning affects new",
+      "No interference",
+      "Memory loss"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which type of intelligence involves reasoning ability?",
+    "options": [
+      "Emotional",
+      "Social",
+      "General intelligence",
+      "Practical"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "IQ of 100 is considered:",
+    "options": [
+      "Below average",
+      "Average",
+      "Above average",
+      "Genius"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Emotion includes all EXCEPT:",
+    "options": [
+      "Physiological arousal",
+      "Cognitive experience",
+      "Behavioral response",
+      "Digestion"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which theory states emotion comes after physiological response?",
+    "options": [
+      "Cannon-Bard",
+      "James-Lange",
+      "Freud theory",
+      "Learning theory"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Stress can be reduced by:",
+    "options": [
+      "Ignoring problems",
+      "Relaxation techniques",
+      "Overthinking",
+      "Isolation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The peripheral nervous system includes:",
+    "options": [
+      "Brain only",
+      "Spinal cord only",
+      "Nerves outside CNS",
+      "Only neurons in brain"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Autonomic nervous system controls:",
+    "options": [
+      "Voluntary actions",
+      "Reflex actions only",
+      "Involuntary functions",
+      "Thinking"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Sympathetic nervous system is responsible for:",
+    "options": [
+      "Rest and digest",
+      "Fight or flight",
+      "Sleep",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Parasympathetic system causes:",
+    "options": [
+      "Increased heart rate",
+      "Decreased digestion",
+      "Relaxation response",
+      "Stress"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which part controls balance and coordination?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Hypothalamus regulates:",
+    "options": [
+      "Intelligence",
+      "Emotions and homeostasis",
+      "Movement",
+      "Vision"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The blind spot is located in:",
+    "options": [
+      "Cornea",
+      "Retina",
+      "Optic nerve exit",
+      "Lens"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Rod cells are responsible for:",
+    "options": [
+      "Color vision",
+      "Daylight vision",
+      "Dim light vision",
+      "Sharp vision"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Cone cells help in:",
+    "options": [
+      "Night vision",
+      "Color vision",
+      "Hearing",
+      "Smell"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Gestalt psychology emphasizes:",
+    "options": [
+      "Parts of perception",
+      "Whole perception",
+      "Behavior",
+      "Reflexes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Law of proximity means:",
+    "options": [
+      "Similar objects grouped",
+      "Close objects grouped",
+      "Moving objects grouped",
+      "Bright objects grouped"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Insight learning was studied by:",
+    "options": [
+      "Pavlov",
+      "Skinner",
+      "Kohler",
+      "Thorndike"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The ability to solve problems suddenly is:",
+    "options": [
+      "Trial and error",
+      "Conditioning",
+      "Insight",
+      "Reinforcement"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Encoding in memory means:",
+    "options": [
+      "Storing information",
+      "Retrieving information",
+      "Processing information",
+      "Forgetting"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Retrieval failure is:",
+    "options": [
+      "Loss of memory",
+      "Inability to recall",
+      "Storage problem",
+      "Learning problem"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a type of memory?",
+    "options": [
+      "Sensory",
+      "Short-term",
+      "Long-term",
+      "Reflex memory"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Emotional intelligence refers to:",
+    "options": [
+      "Logical reasoning",
+      "Managing emotions",
+      "Physical strength",
+      "Memory power"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is an example of intrinsic motivation?",
+    "options": [
+      "Money reward",
+      "Praise",
+      "Personal satisfaction",
+      "Punishment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Anxiety is:",
+    "options": [
+      "Normal emotion",
+      "Always abnormal",
+      "Physical disease",
+      "Only mental illness"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Eustress is:",
+    "options": [
+      "Negative stress",
+      "Harmful stress",
+      "Positive stress",
+      "Chronic stress"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The longest part of neuron is:",
+    "options": [
+      "Dendrite",
+      "Cell body",
+      "Axon",
+      "Synapse"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Neurotransmitters are:",
+    "options": [
+      "Hormones",
+      "Chemical messengers",
+      "Electrical signals",
+      "Enzymes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The cerebrum is responsible for:",
+    "options": [
+      "Balance",
+      "Reflexes",
+      "Higher mental functions",
+      "Heartbeat"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Medulla controls:",
+    "options": [
+      "Thinking",
+      "Emotions",
+      "Vital functions",
+      "Vision"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which part connects two hemispheres of brain?",
+    "options": [
+      "Thalamus",
+      "Hypothalamus",
+      "Corpus callosum",
+      "Cerebellum"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Retina contains:",
+    "options": [
+      "Bones",
+      "Muscles",
+      "Photoreceptors",
+      "Nerves only"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Accommodation is related to:",
+    "options": [
+      "Hearing",
+      "Vision",
+      "Smell",
+      "Taste"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Conditioning involves:",
+    "options": [
+      "Memory only",
+      "Learning association",
+      "Emotion",
+      "Intelligence"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Positive reinforcement means:",
+    "options": [
+      "Removing stimulus",
+      "Adding pleasant stimulus",
+      "Punishment",
+      "Ignoring behavior"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Negative reinforcement means:",
+    "options": [
+      "Punishment",
+      "Removing unpleasant stimulus",
+      "Ignoring",
+      "Decreasing behavior"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Extinction means:",
+    "options": [
+      "Learning new behavior",
+      "Disappearance of learned response",
+      "Increase in behavior",
+      "Motivation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Generalization is:",
+    "options": [
+      "Specific response",
+      "Similar response to similar stimuli",
+      "Forgetting",
+      "Punishment"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Discrimination means:",
+    "options": [
+      "Same response to all",
+      "Different response to different stimuli",
+      "No response",
+      "Emotional response"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Chunking helps in:",
+    "options": [
+      "Forgetting",
+      "Memory improvement",
+      "Emotion control",
+      "Learning decrease"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Flashbulb memory is:",
+    "options": [
+      "Short memory",
+      "Emotional vivid memory",
+      "Sensory memory",
+      "False memory"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Amnesia is:",
+    "options": [
+      "Learning disability",
+      "Memory loss",
+      "Emotional disorder",
+      "Intelligence disorder"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Creative thinking is:",
+    "options": [
+      "Logical only",
+      "New ideas generation",
+      "Memorization",
+      "Habit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Divergent thinking is:",
+    "options": [
+      "Single solution",
+      "Multiple solutions",
+      "No solution",
+      "Fixed thinking"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Convergent thinking is:",
+    "options": [
+      "Many answers",
+      "One correct answer",
+      "Random thinking",
+      "Emotional thinking"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Aptitude refers to:",
+    "options": [
+      "Past learning",
+      "Future potential",
+      "Emotion",
+      "Habit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Attitude has:",
+    "options": [
+      "One component",
+      "Two components",
+      "Three components",
+      "Four components"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Cognitive dissonance is:",
+    "options": [
+      "Harmony",
+      "Conflict between thoughts",
+      "Memory loss",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Personality is:",
+    "options": [
+      "Physical traits only",
+      "Behavior pattern",
+      "Stable behavior patterns",
+      "Temporary behavior"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Trait theory focuses on:",
+    "options": [
+      "Behavior",
+      "Stable characteristics",
+      "Learning",
+      "Emotion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Projective tests measure:",
+    "options": [
+      "Intelligence",
+      "Personality",
+      "Memory",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Rorschach test uses:",
+    "options": [
+      "Words",
+      "Pictures",
+      "Inkblots",
+      "Numbers"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Mental health means:",
+    "options": [
+      "Absence of disease",
+      "Emotional well-being",
+      "Only happiness",
+      "Only thinking"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Phobia is:",
+    "options": [
+      "Normal fear",
+      "Irrational fear",
+      "Habit",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Depression involves:",
+    "options": [
+      "Excess happiness",
+      "Low mood",
+      "Hyperactivity",
+      "Fear only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Schizophrenia affects:",
+    "options": [
+      "Memory only",
+      "Thinking and perception",
+      "Physical body",
+      "Hearing only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Delusion is:",
+    "options": [
+      "False belief",
+      "True belief",
+      "Memory",
+      "Emotion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Hallucination is:",
+    "options": [
+      "Real perception",
+      "False perception",
+      "Memory",
+      "Thinking"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Psychotherapy is:",
+    "options": [
+      "Drug treatment",
+      "Talk therapy",
+      "Surgery",
+      "Exercise"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Placebo effect means:",
+    "options": [
+      "Real drug effect",
+      "Psychological effect",
+      "No effect",
+      "Harmful effect"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Stress hormones include:",
+    "options": [
+      "Insulin",
+      "Cortisol",
+      "Thyroxine",
+      "Melatonin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Coping strategies help to:",
+    "options": [
+      "Increase stress",
+      "Reduce stress",
+      "Ignore stress",
+      "Create stress"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Defense mechanism \"projection\" means:",
+    "options": [
+      "Accepting reality",
+      "Blaming others",
+      "Ignoring",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Sublimation means:",
+    "options": [
+      "Negative behavior",
+      "Channeling into positive activity",
+      "Ignoring",
+      "Forgetting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Social psychology studies:",
+    "options": [
+      "Individual only",
+      "Group behavior",
+      "Animals",
+      "Brain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Conformity means:",
+    "options": [
+      "Acting independently",
+      "Following group norms",
+      "Ignoring society",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The refractory period in neuron refers to:",
+    "options": [
+      "Time of rest",
+      "Time when neuron cannot fire again",
+      "Time of learning",
+      "Time of memory"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which neurotransmitter is linked with mood regulation?",
+    "options": [
+      "Dopamine",
+      "Serotonin",
+      "Acetylcholine",
+      "GABA"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Split-brain research was done by:",
+    "options": [
+      "Pavlov",
+      "Sperry",
+      "Freud",
+      "Skinner"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Right hemisphere controls:",
+    "options": [
+      "Language",
+      "Logic",
+      "Creativity",
+      "Calculation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The thalamus acts as:",
+    "options": [
+      "Memory center",
+      "Relay station",
+      "Emotional center",
+      "Motor control"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Selective attention is:",
+    "options": [
+      "Ignoring all stimuli",
+      "Focusing on one stimulus",
+      "Responding to all stimuli",
+      "Memory process"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Subliminal perception occurs:",
+    "options": [
+      "Above threshold",
+      "Below threshold",
+      "During sleep",
+      "During emotion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Phi phenomenon relates to:",
+    "options": [
+      "Memory",
+      "Illusion of movement",
+      "Emotion",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Law of similarity states:",
+    "options": [
+      "Close objects grouped",
+      "Similar objects grouped",
+      "Bright objects grouped",
+      "Moving objects grouped"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Classical conditioning requires:",
+    "options": [
+      "Reinforcement",
+      "Association",
+      "Punishment",
+      "Motivation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "In Pavlov’s experiment, food is:",
+    "options": [
+      "CS",
+      "UCR",
+      "UCS",
+      "CR"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Fixed ratio schedule is based on:",
+    "options": [
+      "Time",
+      "Number of responses",
+      "Interval",
+      "Behavior type"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Variable interval schedule is based on:",
+    "options": [
+      "Fixed time",
+      "Random time",
+      "Fixed response",
+      "Punishment"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Overlearning leads to:",
+    "options": [
+      "Forgetting",
+      "Better retention",
+      "Confusion",
+      "Stress"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Serial position effect includes:",
+    "options": [
+      "Primacy only",
+      "Recency only",
+      "Both primacy & recency",
+      "None"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Semantic memory stores:",
+    "options": [
+      "Events",
+      "Facts",
+      "Skills",
+      "Emotions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Procedural memory is for:",
+    "options": [
+      "Facts",
+      "Skills",
+      "Events",
+      "Emotions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Retroactive interference means:",
+    "options": [
+      "Old affects new",
+      "New affects old",
+      "No effect",
+      "Memory loss"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Mnemonics are used to:",
+    "options": [
+      "Forget",
+      "Improve memory",
+      "Reduce emotion",
+      "Increase stress"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Fluid intelligence is:",
+    "options": [
+      "Learned",
+      "Fixed knowledge",
+      "Problem-solving ability",
+      "Emotional"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Crystallized intelligence is:",
+    "options": [
+      "New learning ability",
+      "Knowledge gained",
+      "Problem solving",
+      "Emotion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drive reduction theory relates to:",
+    "options": [
+      "Learning",
+      "Motivation",
+      "Emotion",
+      "Memory"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Incentive theory is based on:",
+    "options": [
+      "Internal drive",
+      "External reward",
+      "Emotion",
+      "Habit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Cannon-Bard theory says:",
+    "options": [
+      "Emotion after response",
+      "Simultaneous emotion & response",
+      "No emotion",
+      "Only thinking"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Facial feedback hypothesis suggests:",
+    "options": [
+      "Emotion causes expression",
+      "Expression causes emotion",
+      "No relation",
+      "Memory causes emotion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Big Five personality includes all EXCEPT:",
+    "options": [
+      "Openness",
+      "Neuroticism",
+      "Intelligence",
+      "Conscientiousness"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Type A personality is:",
+    "options": [
+      "Relaxed",
+      "Competitive & stressed",
+      "Emotional",
+      "Lazy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Type B personality is:",
+    "options": [
+      "Aggressive",
+      "Relaxed",
+      "Competitive",
+      "Stressed"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Self-actualization means:",
+    "options": [
+      "Basic needs",
+      "Full potential",
+      "Safety",
+      "Love"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Erikson’s theory focuses on:",
+    "options": [
+      "Learning",
+      "Psychosocial development",
+      "Behavior",
+      "Memory"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Piaget studied:",
+    "options": [
+      "Emotion",
+      "Cognitive development",
+      "Learning",
+      "Personality"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Object permanence appears in:",
+    "options": [
+      "Infancy",
+      "Childhood",
+      "Adolescence",
+      "Adulthood"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Adolescence is marked by:",
+    "options": [
+      "Stability",
+      "Identity crisis",
+      "Memory loss",
+      "Learning decline"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Defense mechanism \"denial\" means:",
+    "options": [
+      "Accepting truth",
+      "Refusing reality",
+      "Blaming others",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Reaction formation is:",
+    "options": [
+      "True behavior",
+      "Opposite behavior",
+      "Ignoring",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Displacement means:",
+    "options": [
+      "Same target",
+      "Shift emotion to safer target",
+      "Ignore",
+      "Learn"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "OCD is characterized by:",
+    "options": [
+      "Hallucination",
+      "Obsessions & compulsions",
+      "Memory loss",
+      "Depression"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Bipolar disorder includes:",
+    "options": [
+      "Only depression",
+      "Only mania",
+      "Both mania & depression",
+      "Anxiety"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Panic disorder involves:",
+    "options": [
+      "Slow fear",
+      "Sudden intense fear",
+      "Happiness",
+      "Memory"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Cognitive therapy focuses on:",
+    "options": [
+      "Behavior",
+      "Thoughts",
+      "Emotion",
+      "Brain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Behavior therapy uses:",
+    "options": [
+      "Drugs",
+      "Conditioning",
+      "Surgery",
+      "Memory"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Token economy is based on:",
+    "options": [
+      "Punishment",
+      "Reinforcement",
+      "Emotion",
+      "Memory"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Group therapy involves:",
+    "options": [
+      "Individual",
+      "Multiple people",
+      "Drugs",
+      "Surgery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Placebo has:",
+    "options": [
+      "Active drug",
+      "No active ingredient",
+      "Strong effect",
+      "Harmful effect"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Biofeedback helps control:",
+    "options": [
+      "Thoughts",
+      "Physiological responses",
+      "Memory",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Social facilitation means:",
+    "options": [
+      "Decrease performance",
+      "Improve performance in presence of others",
+      "Ignore others",
+      "Learn alone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Social loafing means:",
+    "options": [
+      "Work more",
+      "Work less in group",
+      "Work alone",
+      "Learn more"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Groupthink leads to:",
+    "options": [
+      "Better decision",
+      "Poor decision",
+      "No decision",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Prejudice is:",
+    "options": [
+      "Fair judgment",
+      "Biased attitude",
+      "Learning",
+      "Emotion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Altruism means:",
+    "options": [
+      "Selfishness",
+      "Helping others",
+      "Ignoring others",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which ion movement is responsible for action potential?",
+    "options": [
+      "Sodium influx",
+      "Potassium influx",
+      "Calcium influx",
+      "Chloride influx"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Myelin sheath helps in:",
+    "options": [
+      "Slowing impulse",
+      "Speeding impulse",
+      "Blocking impulse",
+      "Memory"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Aphasia is related to:",
+    "options": [
+      "Vision loss",
+      "Speech disorder",
+      "Memory loss",
+      "Emotion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Broca’s area controls:",
+    "options": [
+      "Understanding speech",
+      "Producing speech",
+      "Vision",
+      "Hearing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Wernicke’s area is responsible for:",
+    "options": [
+      "Speaking",
+      "Understanding language",
+      "Movement",
+      "Emotion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The endocrine system works through:",
+    "options": [
+      "Electrical signals",
+      "Chemical signals",
+      "Reflexes",
+      "Memory"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Circadian rhythm regulates:",
+    "options": [
+      "Hunger",
+      "Sleep-wake cycle",
+      "Emotion",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "REM sleep is associated with:",
+    "options": [
+      "No dreams",
+      "Deep sleep",
+      "Dreaming",
+      "Memory loss"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Insomnia means:",
+    "options": [
+      "Excess sleep",
+      "Lack of sleep",
+      "Dreaming",
+      "Stress"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Hypnosis is:",
+    "options": [
+      "Sleep",
+      "Altered state of consciousness",
+      "Memory",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Hallucinogens affect:",
+    "options": [
+      "Muscles",
+      "Perception",
+      "Bones",
+      "Blood"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "LSD is a:",
+    "options": [
+      "Depressant",
+      "Stimulant",
+      "Hallucinogen",
+      "Hormone"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Drive refers to:",
+    "options": [
+      "External force",
+      "Internal need",
+      "Emotion",
+      "Habit"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Yerkes-Dodson law relates:",
+    "options": [
+      "Learning & memory",
+      "Arousal & performance",
+      "Emotion & stress",
+      "Intelligence"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "An optimal level of arousal gives:",
+    "options": [
+      "Poor performance",
+      "Best performance",
+      "No performance",
+      "Stress"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "James-Lange theory states:",
+    "options": [
+      "Emotion → Body change",
+      "Body change → Emotion",
+      "Both simultaneous",
+      "No relation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Schachter-Singer theory includes:",
+    "options": [
+      "Only physiology",
+      "Only cognition",
+      "Both physiology & cognition",
+      "Only emotion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Stressor is:",
+    "options": [
+      "Response",
+      "Cause of stress",
+      "Emotion",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Chronic stress leads to:",
+    "options": [
+      "Better health",
+      "Illness",
+      "Memory increase",
+      "Learning increase"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Resilience is:",
+    "options": [
+      "Weakness",
+      "Ability to recover",
+      "Stress",
+      "Fear"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Intelligence tests measure:",
+    "options": [
+      "Emotion",
+      "Cognitive ability",
+      "Behavior",
+      "Personality"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Stanford-Binet test measures:",
+    "options": [
+      "Personality",
+      "Intelligence",
+      "Emotion",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "IQ formula is:",
+    "options": [
+      "MA/CA × 100",
+      "CA/MA × 100",
+      "MA + CA",
+      "MA - CA"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Gifted individuals have IQ above:",
+    "options": [
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Mental retardation is now called:",
+    "options": [
+      "Disability",
+      "Intellectual disability",
+      "Disorder",
+      "Illness"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Defense mechanism \"rationalization\" means:",
+    "options": [
+      "Accept truth",
+      "Justify behavior",
+      "Ignore",
+      "Forget"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Regression means:",
+    "options": [
+      "Forward behavior",
+      "Childish behavior",
+      "Mature behavior",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Fixation occurs in:",
+    "options": [
+      "Learning",
+      "Development",
+      "Emotion",
+      "Memory"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Freud emphasized:",
+    "options": [
+      "Conscious mind",
+      "Unconscious mind",
+      "Behavior",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Humanistic theory focuses on:",
+    "options": [
+      "Behavior",
+      "Self-growth",
+      "Memory",
+      "Emotion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Carl Rogers emphasized:",
+    "options": [
+      "Punishment",
+      "Unconditional positive regard",
+      "Conditioning",
+      "Memory"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Self-concept is:",
+    "options": [
+      "Others’ view",
+      "Own perception",
+      "Behavior",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Abnormal behavior is:",
+    "options": [
+      "Always harmful",
+      "Deviates from norms",
+      "Normal",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "DSM is used for:",
+    "options": [
+      "Learning",
+      "Diagnosis",
+      "Memory",
+      "Emotion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Anxiety disorder includes:",
+    "options": [
+      "Phobia",
+      "Depression",
+      "Mania",
+      "Schizophrenia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Major depression includes:",
+    "options": [
+      "High mood",
+      "Persistent sadness",
+      "Hyperactivity",
+      "Fear"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Mania involves:",
+    "options": [
+      "Low energy",
+      "High energy",
+      "Fear",
+      "Memory loss"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Antidepressants affect:",
+    "options": [
+      "Hormones",
+      "Neurotransmitters",
+      "Muscles",
+      "Bones"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Electroconvulsive therapy is used for:",
+    "options": [
+      "Anxiety",
+      "Severe depression",
+      "Learning",
+      "Memory"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Psychodynamic therapy focuses on:",
+    "options": [
+      "Behavior",
+      "Unconscious conflicts",
+      "Memory",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Cognitive distortion means:",
+    "options": [
+      "Correct thinking",
+      "Faulty thinking",
+      "Memory",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Systematic desensitization is used for:",
+    "options": [
+      "Depression",
+      "Phobia",
+      "Memory",
+      "Learning"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Modeling is part of:",
+    "options": [
+      "Classical conditioning",
+      "Social learning",
+      "Memory",
+      "Emotion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Bandura proposed:",
+    "options": [
+      "Behaviorism",
+      "Social learning theory",
+      "Psychoanalysis",
+      "Humanism"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Observational learning requires:",
+    "options": [
+      "Punishment",
+      "Attention",
+      "Memory loss",
+      "Stress"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Attitude change is influenced by:",
+    "options": [
+      "Communication",
+      "Memory",
+      "Learning",
+      "Emotion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Persuasion depends on:",
+    "options": [
+      "Source",
+      "Message",
+      "Audience",
+      "All of these"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Stereotype is:",
+    "options": [
+      "Fair belief",
+      "Generalized belief",
+      "Learning",
+      "Emotion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Aggression can be caused by:",
+    "options": [
+      "Frustration",
+      "Learning",
+      "Biology",
+      "All of these"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Bystander effect means:",
+    "options": [
+      "Help quickly",
+      "Delay in helping",
+      "Ignore",
+      "Learn"
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "slug": "anatomy",
+    "name": "Anatomy",
+    "category": "subject",
+    "totalQuestions": 102,
+    "questionsPerTest": 50,
+    "timeLimitMinutes": 45,
+    "negativeMarking": 0.25
+  },
+  {
+    "slug": "cardiovascular",
+    "name": "Cardiovascular System (Cardio)",
+    "category": "subject",
+    "totalQuestions": 100,
+    "questionsPerTest": 50,
+    "timeLimitMinutes": 45,
+    "negativeMarking": 0.25
+  },
+  {
+    "slug": "community",
+    "name": "Community Health Nursing",
+    "category": "subject",
+    "totalQuestions": 200,
+    "questionsPerTest": 50,
+    "timeLimitMinutes": 45,
+    "negativeMarking": 0.25
+  },
+  {
+    "slug": "foundation",
+    "name": "Foundation of Nursing",
+    "category": "subject",
+    "totalQuestions": 200,
+    "questionsPerTest": 50,
+    "timeLimitMinutes": 45,
+    "negativeMarking": 0.25
+  },
+  {
+    "slug": "medical",
+    "name": "Medical Surgical Nursing",
+    "category": "subject",
+    "totalQuestions": 200,
+    "questionsPerTest": 50,
+    "timeLimitMinutes": 45,
+    "negativeMarking": 0.25
+  },
+  {
+    "slug": "microbiology",
+    "name": "Microbiology",
+    "category": "subject",
+    "totalQuestions": 200,
+    "questionsPerTest": 50,
+    "timeLimitMinutes": 45,
+    "negativeMarking": 0.25
+  },
+  {
+    "slug": "nutrition",
+    "name": "Nutrition",
+    "category": "subject",
+    "totalQuestions": 200,
+    "questionsPerTest": 50,
+    "timeLimitMinutes": 45,
+    "negativeMarking": 0.25
+  },
+  {
+    "slug": "obstetrical",
+    "name": "Obstetrical Nursing",
+    "category": "subject",
+    "totalQuestions": 200,
+    "questionsPerTest": 50,
+    "timeLimitMinutes": 45,
+    "negativeMarking": 0.25
+  },
+  {
+    "slug": "pathology",
+    "name": "Pathology",
+    "category": "subject",
+    "totalQuestions": 200,
+    "questionsPerTest": 50,
+    "timeLimitMinutes": 45,
+    "negativeMarking": 0.25
+  },
+  {
+    "slug": "pediatric",
+    "name": "Pediatric Nursing",
+    "category": "subject",
+    "totalQuestions": 200,
+    "questionsPerTest": 50,
+    "timeLimitMinutes": 45,
+    "negativeMarking": 0.25
+  },
+  {
+    "slug": "pharmacology",
+    "name": "Pharmacology",
+    "category": "subject",
+    "totalQuestions": 200,
+    "questionsPerTest": 50,
+    "timeLimitMinutes": 45,
+    "negativeMarking": 0.25
+  },
+  {
+    "slug": "physiology",
+    "name": "Physiology",
+    "category": "subject",
+    "totalQuestions": 200,
+    "questionsPerTest": 50,
+    "timeLimitMinutes": 45,
+    "negativeMarking": 0.25
+  },
+  {
+    "slug": "psychiatric",
+    "name": "Psychiatric Nursing",
+    "category": "subject",
+    "totalQuestions": 200,
+    "questionsPerTest": 50,
+    "timeLimitMinutes": 45,
+    "negativeMarking": 0.25
+  },
+  {
+    "slug": "psychology",
+    "name": "Psychology",
+    "category": "subject",
+    "totalQuestions": 200,
+    "questionsPerTest": 50,
+    "timeLimitMinutes": 45,
+    "negativeMarking": 0.25
+  },
+  {
+    "slug": "sociology",
+    "name": "Sociology",
+    "category": "subject",
+    "totalQuestions": 200,
+    "questionsPerTest": 50,
+    "timeLimitMinutes": 45,
+    "negativeMarking": 0.25
+  },
+  {
+    "slug": "pyq-2021",
+    "name": "WB JEPBN 2021",
+    "category": "pyq",
+    "totalQuestions": 100,
+    "questionsPerTest": 100,
+    "timeLimitMinutes": 45,
+    "negativeMarking": 0.25
+  },
+  {
+    "slug": "pyq-2022",
+    "name": "WB JEPBN 2022",
+    "category": "pyq",
+    "totalQuestions": 100,
+    "questionsPerTest": 100,
+    "timeLimitMinutes": 45,
+    "negativeMarking": 0.25
+  },
+  {
+    "slug": "pyq-2023",
+    "name": "WB JEPBN 2023",
+    "category": "pyq",
+    "totalQuestions": 100,
+    "questionsPerTest": 100,
+    "timeLimitMinutes": 45,
+    "negativeMarking": 0.25
+  },
+  {
+    "slug": "pyq-2024",
+    "name": "WB JEPBN 2024",
+    "category": "pyq",
+    "totalQuestions": 100,
+    "questionsPerTest": 100,
+    "timeLimitMinutes": 45,
+    "negativeMarking": 0.25
+  },
+  {
+    "slug": "pyq-2025",
+    "name": "WB JEPBN 2025",
+    "category": "pyq",
+    "totalQuestions": 100,
+    "questionsPerTest": 100,
+    "timeLimitMinutes": 45,
+    "negativeMarking": 0.25
+  }
+]

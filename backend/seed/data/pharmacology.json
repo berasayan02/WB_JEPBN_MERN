@@ -1,0 +1,2002 @@
+[
+  {
+    "text": "Drug that blocks β1 receptors selectively:",
+    "options": [
+      "Propranolol",
+      "Atenolol",
+      "Carvedilol",
+      "Labetalol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "First-pass metabolism occurs in:",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Lung",
+      "Brain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug used as antidote in paracetamol poisoning:",
+    "options": [
+      "Naloxone",
+      "Atropine",
+      "N-acetylcysteine",
+      "Flumazenil"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Heparin acts by activating:",
+    "options": [
+      "Plasmin",
+      "Antithrombin III",
+      "Thrombin",
+      "Factor X"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which drug is a loop diuretic?",
+    "options": [
+      "Furosemide",
+      "Spironolactone",
+      "Hydrochlorothiazide",
+      "Mannitol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used in anaphylactic shock:",
+    "options": [
+      "Histamine",
+      "Adrenaline",
+      "Insulin",
+      "Aspirin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Morphine acts primarily on:",
+    "options": [
+      "Dopamine receptors",
+      "Opioid receptors",
+      "Serotonin receptors",
+      "GABA receptors"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Side effect of aminoglycosides:",
+    "options": [
+      "Hepatotoxicity",
+      "Nephrotoxicity",
+      "Cardiotoxicity",
+      "Hyperglycemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug of choice for tuberculosis:",
+    "options": [
+      "Penicillin",
+      "Isoniazid",
+      "Ciprofloxacin",
+      "Tetracycline"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Warfarin acts by inhibiting:",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin K",
+      "Vitamin D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which drug is a calcium channel blocker?",
+    "options": [
+      "Enalapril",
+      "Amlodipine",
+      "Losartan",
+      "Metoprolol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug used in status epilepticus:",
+    "options": [
+      "Phenytoin",
+      "Diazepam",
+      "Carbamazepine",
+      "Valproate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Insulin is administered by:",
+    "options": [
+      "Oral route",
+      "Intravenous only",
+      "Subcutaneous route",
+      "Inhalation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Drug causing ototoxicity:",
+    "options": [
+      "Paracetamol",
+      "Gentamicin",
+      "Aspirin",
+      "Ibuprofen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "ACE inhibitors act by blocking:",
+    "options": [
+      "Angiotensin II",
+      "Renin",
+      "ACE enzyme",
+      "Aldosterone"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Antidote for opioid overdose:",
+    "options": [
+      "Atropine",
+      "Naloxone",
+      "Flumazenil",
+      "Protamine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug used in peptic ulcer:",
+    "options": [
+      "Ranitidine",
+      "Atenolol",
+      "Digoxin",
+      "Furosemide"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Local anesthetic drug:",
+    "options": [
+      "Lidocaine",
+      "Morphine",
+      "Diazepam",
+      "Aspirin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing hypoglycemia:",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Adrenaline",
+      "Cortisol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Antibiotic that inhibits protein synthesis:",
+    "options": [
+      "Penicillin",
+      "Cephalosporin",
+      "Tetracycline",
+      "Vancomycin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Drug with zero-order kinetics:",
+    "options": [
+      "Paracetamol",
+      "Aspirin",
+      "Phenytoin",
+      "Amoxicillin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Therapeutic index indicates:",
+    "options": [
+      "Drug potency",
+      "Drug safety",
+      "Drug efficacy",
+      "Drug absorption"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Competitive antagonist shifts dose-response curve:",
+    "options": [
+      "Left",
+      "Right",
+      "Upward",
+      "Downward"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Bioavailability is highest in:",
+    "options": [
+      "Oral route",
+      "Subcutaneous",
+      "Intravenous",
+      "Intramuscular"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Drug that induces liver enzymes:",
+    "options": [
+      "Cimetidine",
+      "Rifampicin",
+      "Erythromycin",
+      "Ketoconazole"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which drug causes red man syndrome?",
+    "options": [
+      "Vancomycin",
+      "Penicillin",
+      "Tetracycline",
+      "Ciprofloxacin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug contraindicated in pregnancy:",
+    "options": [
+      "Penicillin",
+      "Paracetamol",
+      "Warfarin",
+      "Insulin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "First-line drug for hypertension:",
+    "options": [
+      "Digoxin",
+      "Thiazide diuretics",
+      "Adrenaline",
+      "Atropine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Atropine blocks:",
+    "options": [
+      "Nicotinic receptors",
+      "Muscarinic receptors",
+      "Dopamine receptors",
+      "Beta receptors"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug used for myasthenia gravis:",
+    "options": [
+      "Neostigmine",
+      "Atropine",
+      "Propranolol",
+      "Diazepam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing gray baby syndrome:",
+    "options": [
+      "Tetracycline",
+      "Chloramphenicol",
+      "Penicillin",
+      "Gentamicin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug that inhibits cell wall synthesis:",
+    "options": [
+      "Tetracycline",
+      "Penicillin",
+      "Erythromycin",
+      "Chloramphenicol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug of choice for acute gout:",
+    "options": [
+      "Allopurinol",
+      "Colchicine",
+      "Probenecid",
+      "Aspirin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Side effect of corticosteroids:",
+    "options": [
+      "Hypoglycemia",
+      "Hypertension",
+      "Weight loss",
+      "Bradycardia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which drug is a proton pump inhibitor?",
+    "options": [
+      "Omeprazole",
+      "Ranitidine",
+      "Antacid",
+      "Sucralfate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used in Parkinson’s disease:",
+    "options": [
+      "Levodopa",
+      "Diazepam",
+      "Phenytoin",
+      "Haloperidol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug that increases bleeding risk with warfarin:",
+    "options": [
+      "Vitamin K",
+      "Aspirin",
+      "Iron",
+      "Calcium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug acting as beta-blocker:",
+    "options": [
+      "Propranolol",
+      "Atropine",
+      "Salbutamol",
+      "Adrenaline"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for asthma bronchodilator:",
+    "options": [
+      "Salbutamol",
+      "Propranolol",
+      "Atenolol",
+      "Digoxin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Mechanism of action of aspirin:",
+    "options": [
+      "Blocks DNA synthesis",
+      "Inhibits COX enzyme",
+      "Stimulates insulin",
+      "Activates GABA"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug that undergoes extensive first-pass metabolism:",
+    "options": [
+      "Lidocaine",
+      "Nitroglycerin",
+      "Propranolol",
+      "Insulin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Drug used as antidote for heparin overdose:",
+    "options": [
+      "Vitamin K",
+      "Protamine sulfate",
+      "Naloxone",
+      "Atropine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which receptor is stimulated by salbutamol?",
+    "options": [
+      "Alpha-1",
+      "Beta-1",
+      "Beta-2",
+      "Muscarinic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Drug causing gingival hyperplasia:",
+    "options": [
+      "Phenytoin",
+      "Aspirin",
+      "Diazepam",
+      "Paracetamol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which drug is NOT an NSAID?",
+    "options": [
+      "Ibuprofen",
+      "Diclofenac",
+      "Paracetamol",
+      "Aspirin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Drug used in hyperthyroidism:",
+    "options": [
+      "Levothyroxine",
+      "Carbimazole",
+      "Insulin",
+      "Cortisol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug that blocks H2 receptors:",
+    "options": [
+      "Omeprazole",
+      "Ranitidine",
+      "Atropine",
+      "Sucralfate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which drug causes photosensitivity?",
+    "options": [
+      "Tetracycline",
+      "Penicillin",
+      "Amoxicillin",
+      "Ceftriaxone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used in congestive heart failure:",
+    "options": [
+      "Digoxin",
+      "Atropine",
+      "Adrenaline",
+      "Insulin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which drug is a potassium-sparing diuretic?",
+    "options": [
+      "Furosemide",
+      "Spironolactone",
+      "Hydrochlorothiazide",
+      "Mannitol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug causing cough as side effect:",
+    "options": [
+      "Beta-blockers",
+      "ACE inhibitors",
+      "Calcium channel blockers",
+      "Diuretics"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug used for organophosphate poisoning:",
+    "options": [
+      "Atropine",
+      "Propranolol",
+      "Digoxin",
+      "Diazepam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug that inhibits DNA gyrase:",
+    "options": [
+      "Penicillin",
+      "Ciprofloxacin",
+      "Tetracycline",
+      "Erythromycin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug used for fungal infection:",
+    "options": [
+      "Acyclovir",
+      "Fluconazole",
+      "Amoxicillin",
+      "Rifampicin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug that crosses blood-brain barrier easily:",
+    "options": [
+      "Dopamine",
+      "Levodopa",
+      "Heparin",
+      "Insulin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug used for angina:",
+    "options": [
+      "Nitroglycerin",
+      "Digoxin",
+      "Atropine",
+      "Insulin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which drug is a benzodiazepine?",
+    "options": [
+      "Diazepam",
+      "Morphine",
+      "Aspirin",
+      "Phenytoin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing disulfiram-like reaction:",
+    "options": [
+      "Metronidazole",
+      "Penicillin",
+      "Tetracycline",
+      "Ciprofloxacin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for malaria:",
+    "options": [
+      "Chloroquine",
+      "Amoxicillin",
+      "Paracetamol",
+      "Ibuprofen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which drug is a vasodilator?",
+    "options": [
+      "Propranolol",
+      "Nitroglycerin",
+      "Atropine",
+      "Digoxin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug with highest therapeutic index:",
+    "options": [
+      "Digoxin",
+      "Penicillin",
+      "Warfarin",
+      "Lithium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug causing tendon rupture:",
+    "options": [
+      "Ciprofloxacin",
+      "Amoxicillin",
+      "Tetracycline",
+      "Rifampicin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used in diabetic ketoacidosis:",
+    "options": [
+      "Oral hypoglycemic",
+      "Insulin IV",
+      "Glucagon",
+      "Metformin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug that inhibits folic acid synthesis:",
+    "options": [
+      "Sulfonamides",
+      "Penicillin",
+      "Tetracycline",
+      "Vancomycin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which drug causes blue baby syndrome?",
+    "options": [
+      "Chloramphenicol",
+      "Sulfonamides",
+      "Nitrates",
+      "Aspirin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Drug used for motion sickness:",
+    "options": [
+      "Atropine",
+      "Hyoscine",
+      "Adrenaline",
+      "Propranolol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug that blocks dopamine receptors:",
+    "options": [
+      "Levodopa",
+      "Haloperidol",
+      "Diazepam",
+      "Morphine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug used for glaucoma:",
+    "options": [
+      "Timolol",
+      "Atropine",
+      "Adrenaline",
+      "Dopamine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing flushing with alcohol:",
+    "options": [
+      "Metronidazole",
+      "Paracetamol",
+      "Penicillin",
+      "Aspirin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used in hypothyroidism:",
+    "options": [
+      "Carbimazole",
+      "Levothyroxine",
+      "Insulin",
+      "Cortisol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug causing hearing loss:",
+    "options": [
+      "Gentamicin",
+      "Paracetamol",
+      "Ibuprofen",
+      "Aspirin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used in acute asthma attack:",
+    "options": [
+      "Salbutamol",
+      "Propranolol",
+      "Atenolol",
+      "Digoxin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug acting on GABA receptors:",
+    "options": [
+      "Diazepam",
+      "Aspirin",
+      "Atropine",
+      "Morphine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug that decreases heart rate:",
+    "options": [
+      "Atropine",
+      "Propranolol",
+      "Adrenaline",
+      "Dopamine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug used for hyperlipidemia:",
+    "options": [
+      "Statins",
+      "Insulin",
+      "Digoxin",
+      "Aspirin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing lactic acidosis:",
+    "options": [
+      "Metformin",
+      "Insulin",
+      "Glucagon",
+      "Atenolol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for HIV:",
+    "options": [
+      "Acyclovir",
+      "Zidovudine",
+      "Amoxicillin",
+      "Rifampicin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug causing tooth discoloration:",
+    "options": [
+      "Tetracycline",
+      "Penicillin",
+      "Amoxicillin",
+      "Ceftriaxone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for arrhythmia:",
+    "options": [
+      "Lidocaine",
+      "Paracetamol",
+      "Aspirin",
+      "Ibuprofen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing bronchospasm:",
+    "options": [
+      "Propranolol",
+      "Salbutamol",
+      "Atropine",
+      "Adrenaline"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for peptic ulcer cytoprotective:",
+    "options": [
+      "Omeprazole",
+      "Sucralfate",
+      "Ranitidine",
+      "Antacid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug causing hyperkalemia:",
+    "options": [
+      "Spironolactone",
+      "Furosemide",
+      "Thiazide",
+      "Mannitol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for migraine:",
+    "options": [
+      "Sumatriptan",
+      "Paracetamol",
+      "Aspirin",
+      "Ibuprofen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug that increases urine output by osmotic effect:",
+    "options": [
+      "Mannitol",
+      "Furosemide",
+      "Spironolactone",
+      "Thiazide"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used in epilepsy:",
+    "options": [
+      "Valproate",
+      "Insulin",
+      "Digoxin",
+      "Atropine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing moon face:",
+    "options": [
+      "Corticosteroids",
+      "Insulin",
+      "Thyroxine",
+      "Aspirin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for UTI:",
+    "options": [
+      "Nitrofurantoin",
+      "Penicillin",
+      "Rifampicin",
+      "Vancomycin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing constipation:",
+    "options": [
+      "Morphine",
+      "Diazepam",
+      "Aspirin",
+      "Paracetamol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for osteoporosis:",
+    "options": [
+      "Calcium + Vitamin D",
+      "Insulin",
+      "Digoxin",
+      "Aspirin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing dry mouth:",
+    "options": [
+      "Atropine",
+      "Salbutamol",
+      "Insulin",
+      "Digoxin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for anxiety:",
+    "options": [
+      "Diazepam",
+      "Morphine",
+      "Aspirin",
+      "Atropine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing gynecomastia:",
+    "options": [
+      "Spironolactone",
+      "Furosemide",
+      "Mannitol",
+      "Thiazide"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for constipation:",
+    "options": [
+      "Lactulose",
+      "Morphine",
+      "Diazepam",
+      "Aspirin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing Stevens-Johnson syndrome:",
+    "options": [
+      "Sulfonamides",
+      "Penicillin",
+      "Paracetamol",
+      "Insulin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for shock:",
+    "options": [
+      "Dopamine",
+      "Insulin",
+      "Aspirin",
+      "Diazepam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing muscle pain myopathy:",
+    "options": [
+      "Statins",
+      "Insulin",
+      "Aspirin",
+      "Paracetamol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for allergic reactions:",
+    "options": [
+      "Antihistamines",
+      "Insulin",
+      "Digoxin",
+      "Morphine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing hemolysis in G6PD deficiency:",
+    "options": [
+      "Sulfonamides",
+      "Paracetamol",
+      "Penicillin",
+      "Insulin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for cardiac arrest:",
+    "options": [
+      "Adrenaline",
+      "Atropine",
+      "Digoxin",
+      "Insulin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing black stool:",
+    "options": [
+      "Iron",
+      "Insulin",
+      "Aspirin",
+      "Diazepam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug showing partial agonist activity:",
+    "options": [
+      "Propranolol",
+      "Pindolol",
+      "Atenolol",
+      "Metoprolol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug with highest plasma protein binding:",
+    "options": [
+      "Warfarin",
+      "Heparin",
+      "Insulin",
+      "Digoxin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing lupus-like syndrome:",
+    "options": [
+      "Hydralazine",
+      "Atenolol",
+      "Amlodipine",
+      "Furosemide"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for SIADH:",
+    "options": [
+      "Vasopressin",
+      "Tolvaptan",
+      "Oxytocin",
+      "Insulin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug that inhibits reverse transcriptase:",
+    "options": [
+      "Acyclovir",
+      "Zidovudine",
+      "Penicillin",
+      "Rifampicin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug causing orange discoloration of body fluids:",
+    "options": [
+      "Rifampicin",
+      "Isoniazid",
+      "Ethambutol",
+      "Pyrazinamide"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used in status asthmaticus:",
+    "options": [
+      "Oral salbutamol",
+      "IV hydrocortisone",
+      "Propranolol",
+      "Atropine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug acting as aldosterone antagonist:",
+    "options": [
+      "Furosemide",
+      "Spironolactone",
+      "Mannitol",
+      "Hydrochlorothiazide"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug used in acute migraine attack:",
+    "options": [
+      "Propranolol",
+      "Sumatriptan",
+      "Diazepam",
+      "Aspirin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug causing visual disturbance green vision:",
+    "options": [
+      "Digoxin",
+      "Atenolol",
+      "Amlodipine",
+      "Insulin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for Cushing syndrome:",
+    "options": [
+      "Ketoconazole",
+      "Insulin",
+      "Levothyroxine",
+      "Digoxin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug inhibiting xanthine oxidase:",
+    "options": [
+      "Allopurinol",
+      "Colchicine",
+      "Probenecid",
+      "Aspirin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing extrapyramidal symptoms:",
+    "options": [
+      "Haloperidol",
+      "Diazepam",
+      "Morphine",
+      "Aspirin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for ADHD:",
+    "options": [
+      "Diazepam",
+      "Methylphenidate",
+      "Morphine",
+      "Atropine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug causing hyperuricemia:",
+    "options": [
+      "Thiazides",
+      "Insulin",
+      "Atropine",
+      "Diazepam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for organ transplant rejection:",
+    "options": [
+      "Cyclosporine",
+      "Aspirin",
+      "Digoxin",
+      "Insulin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug acting as NMDA receptor antagonist:",
+    "options": [
+      "Ketamine",
+      "Diazepam",
+      "Morphine",
+      "Haloperidol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing pulmonary fibrosis:",
+    "options": [
+      "Amiodarone",
+      "Atenolol",
+      "Amlodipine",
+      "Insulin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for H pylori infection:",
+    "options": [
+      "Triple therapy",
+      "Aspirin",
+      "Paracetamol",
+      "Insulin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing tinnitus:",
+    "options": [
+      "Aspirin",
+      "Paracetamol",
+      "Ibuprofen",
+      "Penicillin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used in bipolar disorder:",
+    "options": [
+      "Lithium",
+      "Diazepam",
+      "Morphine",
+      "Aspirin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing nephrotoxicity dose related:",
+    "options": [
+      "Amphotericin B",
+      "Penicillin",
+      "Paracetamol",
+      "Aspirin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for erectile dysfunction:",
+    "options": [
+      "Sildenafil",
+      "Atenolol",
+      "Digoxin",
+      "Insulin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing hypokalemia:",
+    "options": [
+      "Furosemide",
+      "Spironolactone",
+      "ACE inhibitors",
+      "ARBs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used in anaphylaxis first line:",
+    "options": [
+      "Antihistamines",
+      "Adrenaline",
+      "Steroids",
+      "Beta-blockers"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Drug that blocks H1 receptors:",
+    "options": [
+      "Cetirizine",
+      "Omeprazole",
+      "Ranitidine",
+      "Sucralfate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used in chronic heart failure:",
+    "options": [
+      "ACE inhibitors",
+      "Atropine",
+      "Adrenaline",
+      "Dopamine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing hepatotoxicity:",
+    "options": [
+      "Paracetamol overdose",
+      "Insulin",
+      "Aspirin",
+      "Diazepam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for tuberculosis bactericidal:",
+    "options": [
+      "Isoniazid",
+      "Ethambutol",
+      "Streptomycin",
+      "PAS"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing optic neuritis:",
+    "options": [
+      "Ethambutol",
+      "Rifampicin",
+      "Isoniazid",
+      "Pyrazinamide"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used in bradycardia:",
+    "options": [
+      "Atropine",
+      "Propranolol",
+      "Digoxin",
+      "Verapamil"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing sedation:",
+    "options": [
+      "Antihistamines 1st gen",
+      "Omeprazole",
+      "Ranitidine",
+      "Sucralfate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for acute pain:",
+    "options": [
+      "NSAIDs",
+      "Insulin",
+      "Digoxin",
+      "Diazepam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing red urine:",
+    "options": [
+      "Rifampicin",
+      "Aspirin",
+      "Paracetamol",
+      "Penicillin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used in septic shock:",
+    "options": [
+      "Noradrenaline",
+      "Insulin",
+      "Aspirin",
+      "Diazepam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing bone marrow suppression:",
+    "options": [
+      "Chloramphenicol",
+      "Penicillin",
+      "Aspirin",
+      "Paracetamol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for hyperkalemia:",
+    "options": [
+      "Calcium gluconate",
+      "Spironolactone",
+      "ACE inhibitors",
+      "ARBs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing cough plus angioedema:",
+    "options": [
+      "ACE inhibitors",
+      "Beta-blockers",
+      "Diuretics",
+      "CCBs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used in peptic ulcer antibiotic:",
+    "options": [
+      "Clarithromycin",
+      "Aspirin",
+      "Paracetamol",
+      "Ibuprofen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing hypoglycemia:",
+    "options": [
+      "Insulin",
+      "Metformin",
+      "Glucagon",
+      "Cortisol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for insomnia:",
+    "options": [
+      "Zolpidem",
+      "Morphine",
+      "Aspirin",
+      "Atropine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing tachycardia:",
+    "options": [
+      "Adrenaline",
+      "Propranolol",
+      "Digoxin",
+      "Verapamil"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for arrhythmia class III:",
+    "options": [
+      "Amiodarone",
+      "Lidocaine",
+      "Propranolol",
+      "Verapamil"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing thyroid dysfunction:",
+    "options": [
+      "Amiodarone",
+      "Atenolol",
+      "Amlodipine",
+      "Insulin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for constipation bulk laxative:",
+    "options": [
+      "Ispaghula",
+      "Lactulose",
+      "Senna",
+      "Castor oil"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing rash fever eosinophilia:",
+    "options": [
+      "Sulfonamides",
+      "Penicillin",
+      "Aspirin",
+      "Paracetamol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for bronchial asthma anti-inflammatory:",
+    "options": [
+      "Inhaled corticosteroids",
+      "Salbutamol",
+      "Theophylline",
+      "Atropine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing metabolic alkalosis:",
+    "options": [
+      "Loop diuretics",
+      "ACE inhibitors",
+      "ARBs",
+      "Spironolactone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for depression:",
+    "options": [
+      "SSRIs",
+      "Benzodiazepines",
+      "Antipsychotics",
+      "NSAIDs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing serotonin syndrome:",
+    "options": [
+      "SSRIs",
+      "Beta-blockers",
+      "Diuretics",
+      "CCBs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug acting as serotonin reuptake inhibitor:",
+    "options": [
+      "Fluoxetine",
+      "Diazepam",
+      "Haloperidol",
+      "Morphine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing orange tears:",
+    "options": [
+      "Rifampicin",
+      "Isoniazid",
+      "Ethambutol",
+      "Pyrazinamide"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for acute adrenal crisis:",
+    "options": [
+      "Hydrocortisone",
+      "Insulin",
+      "Thyroxine",
+      "Aspirin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug that inhibits microtubule formation:",
+    "options": [
+      "Vincristine",
+      "Penicillin",
+      "Aspirin",
+      "Diazepam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing hyperglycemia:",
+    "options": [
+      "Corticosteroids",
+      "Insulin",
+      "Metformin",
+      "Glucagon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for bradycardia:",
+    "options": [
+      "Atropine",
+      "Propranolol",
+      "Digoxin",
+      "Verapamil"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing osteoporosis:",
+    "options": [
+      "Corticosteroids",
+      "Insulin",
+      "Aspirin",
+      "Diazepam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for angioedema:",
+    "options": [
+      "Adrenaline",
+      "Insulin",
+      "Aspirin",
+      "Diazepam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing hyperkalemia:",
+    "options": [
+      "ACE inhibitors",
+      "Furosemide",
+      "Thiazide",
+      "Mannitol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for Parkinson’s anticholinergic:",
+    "options": [
+      "Trihexyphenidyl",
+      "Levodopa",
+      "Diazepam",
+      "Haloperidol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing arrhythmia:",
+    "options": [
+      "Digoxin toxicity",
+      "Aspirin",
+      "Paracetamol",
+      "Ibuprofen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for fungal infection systemic:",
+    "options": [
+      "Amphotericin B",
+      "Penicillin",
+      "Aspirin",
+      "Paracetamol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing flushing headache:",
+    "options": [
+      "Nitrates",
+      "Beta-blockers",
+      "ACE inhibitors",
+      "Diuretics"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for anemia:",
+    "options": [
+      "Iron",
+      "Insulin",
+      "Aspirin",
+      "Diazepam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing lactic acidosis:",
+    "options": [
+      "Metformin",
+      "Insulin",
+      "Glucagon",
+      "Aspirin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for peptic ulcer mucosal protection:",
+    "options": [
+      "Misoprostol",
+      "Omeprazole",
+      "Ranitidine",
+      "Antacid"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing diarrhea:",
+    "options": [
+      "Magnesium sulfate",
+      "Calcium carbonate",
+      "Iron",
+      "Atropine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for arrhythmia Class I:",
+    "options": [
+      "Quinidine",
+      "Amiodarone",
+      "Verapamil",
+      "Propranolol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing hypotension:",
+    "options": [
+      "Nitrates",
+      "Insulin",
+      "Aspirin",
+      "Diazepam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for UTI quinolone:",
+    "options": [
+      "Norfloxacin",
+      "Penicillin",
+      "Aspirin",
+      "Paracetamol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used in epilepsy absence seizure:",
+    "options": [
+      "Ethosuximide",
+      "Phenytoin",
+      "Carbamazepine",
+      "Diazepam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing hypersensitivity reaction:",
+    "options": [
+      "Penicillin",
+      "Insulin",
+      "Aspirin",
+      "Diazepam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for hypothyroidism:",
+    "options": [
+      "Levothyroxine",
+      "Carbimazole",
+      "Insulin",
+      "Cortisol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing weight gain:",
+    "options": [
+      "Insulin",
+      "Metformin",
+      "Thyroxine",
+      "Aspirin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for hypertension ARB:",
+    "options": [
+      "Losartan",
+      "Enalapril",
+      "Atenolol",
+      "Amlodipine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing hyperuricemia:",
+    "options": [
+      "Thiazide",
+      "Insulin",
+      "Aspirin",
+      "Diazepam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for anxiety non BZD:",
+    "options": [
+      "Buspirone",
+      "Diazepam",
+      "Morphine",
+      "Haloperidol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing sedation:",
+    "options": [
+      "Phenobarbital",
+      "Aspirin",
+      "Paracetamol",
+      "Ibuprofen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for peptic ulcer PPI:",
+    "options": [
+      "Pantoprazole",
+      "Ranitidine",
+      "Sucralfate",
+      "Antacid"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing visual halos:",
+    "options": [
+      "Digoxin",
+      "Insulin",
+      "Aspirin",
+      "Diazepam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for asthma xanthine:",
+    "options": [
+      "Theophylline",
+      "Salbutamol",
+      "Atropine",
+      "Propranolol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing renal failure:",
+    "options": [
+      "NSAIDs",
+      "Insulin",
+      "Aspirin",
+      "Diazepam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for malaria severe:",
+    "options": [
+      "Artesunate",
+      "Chloroquine",
+      "Aspirin",
+      "Paracetamol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing photosensitivity:",
+    "options": [
+      "Sulfonamides",
+      "Penicillin",
+      "Aspirin",
+      "Insulin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for constipation stimulant:",
+    "options": [
+      "Senna",
+      "Lactulose",
+      "Ispaghula",
+      "Magnesium sulfate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing dry cough:",
+    "options": [
+      "ACE inhibitors",
+      "Beta-blockers",
+      "Diuretics",
+      "CCBs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for cardiac arrest:",
+    "options": [
+      "Adrenaline",
+      "Atropine",
+      "Digoxin",
+      "Insulin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing hypotension reflex tachycardia:",
+    "options": [
+      "Nifedipine",
+      "Atenolol",
+      "Digoxin",
+      "Verapamil"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for angina beta blocker:",
+    "options": [
+      "Propranolol",
+      "Atropine",
+      "Insulin",
+      "Digoxin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing bradycardia:",
+    "options": [
+      "Digoxin",
+      "Adrenaline",
+      "Salbutamol",
+      "Atropine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for depression TCA:",
+    "options": [
+      "Amitriptyline",
+      "Fluoxetine",
+      "Diazepam",
+      "Haloperidol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing orthostatic hypotension:",
+    "options": [
+      "Prazosin",
+      "Atenolol",
+      "Digoxin",
+      "Insulin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for allergic rhinitis:",
+    "options": [
+      "Loratadine",
+      "Insulin",
+      "Digoxin",
+      "Aspirin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing hypercalcemia:",
+    "options": [
+      "Thiazides",
+      "Furosemide",
+      "Mannitol",
+      "Spironolactone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for epilepsy tonic clonic:",
+    "options": [
+      "Phenytoin",
+      "Ethosuximide",
+      "Diazepam",
+      "Haloperidol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing bleeding tendency:",
+    "options": [
+      "Warfarin",
+      "Insulin",
+      "Aspirin",
+      "Diazepam"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for gout chronic:",
+    "options": [
+      "Allopurinol",
+      "Colchicine",
+      "Aspirin",
+      "Paracetamol"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing gynecomastia:",
+    "options": [
+      "Spironolactone",
+      "Furosemide",
+      "Mannitol",
+      "Thiazide"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug used for nausea antiemetic:",
+    "options": [
+      "Ondansetron",
+      "Aspirin",
+      "Paracetamol",
+      "Insulin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug causing QT prolongation:",
+    "options": [
+      "Macrolides",
+      "Penicillin",
+      "Aspirin",
+      "Paracetamol"
+    ],
+    "correctIndex": 0
+  }
+]

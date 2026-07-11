@@ -1,0 +1,2002 @@
+[
+  {
+    "text": "The most common cause of cell injury is:",
+    "options": [
+      "Infection",
+      "Hypoxia",
+      "Chemicals",
+      "Radiation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Reversible cell injury shows:",
+    "options": [
+      "Nuclear fragmentation",
+      "Cell swelling",
+      "Membrane rupture",
+      "Apoptosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Necrosis is characterized by:",
+    "options": [
+      "Controlled cell death",
+      "Inflammation",
+      "No enzyme action",
+      "Cell shrinkage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Apoptosis is:",
+    "options": [
+      "Pathological only",
+      "Always inflammatory",
+      "Programmed cell death",
+      "Due to trauma"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most sensitive organ to hypoxia is:",
+    "options": [
+      "Liver",
+      "Brain",
+      "Kidney",
+      "Heart"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Caseous necrosis is seen in:",
+    "options": [
+      "Diabetes",
+      "Tuberculosis",
+      "Hypertension",
+      "Cancer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The hallmark of acute inflammation is:",
+    "options": [
+      "Fibrosis",
+      "Neutrophil infiltration",
+      "Lymphocytes",
+      "Granuloma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Chronic inflammation mainly involves:",
+    "options": [
+      "Neutrophils",
+      "RBCs",
+      "Lymphocytes & macrophages",
+      "Platelets"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Edema is caused by:",
+    "options": [
+      "Decreased capillary permeability",
+      "Increased oncotic pressure",
+      "Increased hydrostatic pressure",
+      "Decreased sodium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is a granulomatous disease?",
+    "options": [
+      "Pneumonia",
+      "Tuberculosis",
+      "Asthma",
+      "Bronchitis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Hyperplasia refers to:",
+    "options": [
+      "Increase in cell size",
+      "Increase in cell number",
+      "Cell death",
+      "Tissue shrinkage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Atrophy means:",
+    "options": [
+      "Increase in size",
+      "Decrease in size",
+      "Increase in number",
+      "Abnormal growth"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Metaplasia is:",
+    "options": [
+      "Cancer",
+      "Reversible cell change",
+      "Irreversible damage",
+      "Necrosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Dysplasia indicates:",
+    "options": [
+      "Normal growth",
+      "Mild injury",
+      "Premalignant change",
+      "Infection"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common benign tumor is:",
+    "options": [
+      "Lipoma",
+      "Carcinoma",
+      "Sarcoma",
+      "Lymphoma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Malignant tumors show:",
+    "options": [
+      "Slow growth",
+      "No invasion",
+      "Metastasis",
+      "Encapsulation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Thrombosis is:",
+    "options": [
+      "Bleeding",
+      "Clot formation in vessel",
+      "Infection",
+      "Inflammation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Embolism refers to:",
+    "options": [
+      "Blood loss",
+      "Clot formation",
+      "Circulating foreign material",
+      "Edema"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Shock is:",
+    "options": [
+      "Excess blood pressure",
+      "Tissue hypoperfusion",
+      "Infection",
+      "Allergy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common type of anemia is:",
+    "options": [
+      "Hemolytic",
+      "Aplastic",
+      "Iron deficiency",
+      "Pernicious"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Pyknosis refers to:",
+    "options": [
+      "Nuclear swelling",
+      "Nuclear shrinkage",
+      "Nuclear dissolution",
+      "Cytoplasmic swelling"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Karyorrhexis means:",
+    "options": [
+      "Nuclear shrinkage",
+      "Nuclear fragmentation",
+      "Nuclear disappearance",
+      "Cell swelling"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Karyolysis refers to:",
+    "options": [
+      "Nuclear fragmentation",
+      "Nuclear dissolution",
+      "Nuclear swelling",
+      "DNA synthesis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Fatty change is commonly seen in:",
+    "options": [
+      "Brain",
+      "Liver",
+      "Lung",
+      "Kidney"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main mediator of acute inflammation is:",
+    "options": [
+      "Insulin",
+      "Histamine",
+      "Hemoglobin",
+      "Albumin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The first event in inflammation is:",
+    "options": [
+      "Phagocytosis",
+      "Vasoconstriction",
+      "Vasodilation",
+      "Fibrosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which cells are first to arrive in acute inflammation?",
+    "options": [
+      "Lymphocytes",
+      "Neutrophils",
+      "Macrophages",
+      "Eosinophils"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Granulation tissue is composed of:",
+    "options": [
+      "Dead cells",
+      "Fibroblasts & new capillaries",
+      "RBCs only",
+      "Cartilage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Healing by primary intention occurs in:",
+    "options": [
+      "Large wounds",
+      "Infected wounds",
+      "Clean surgical wounds",
+      "Ulcers"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Healing by secondary intention shows:",
+    "options": [
+      "Minimal scar",
+      "No inflammation",
+      "Large scar formation",
+      "No granulation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common pigment in hemosiderosis is:",
+    "options": [
+      "Melanin",
+      "Bilirubin",
+      "Hemosiderin",
+      "Lipofuscin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Lipofuscin is known as:",
+    "options": [
+      "Infective pigment",
+      "Wear-and-tear pigment",
+      "Bile pigment",
+      "Iron pigment"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Dystrophic calcification occurs in:",
+    "options": [
+      "Normal tissue",
+      "Dead tissue",
+      "Blood",
+      "Muscle only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Metastatic calcification occurs due to:",
+    "options": [
+      "Tissue injury",
+      "Hypercalcemia",
+      "Infection",
+      "Hypoxia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common route of metastasis is:",
+    "options": [
+      "Lymphatic spread",
+      "Blood",
+      "Direct spread",
+      "CSF"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Carcinoma arises from:",
+    "options": [
+      "Connective tissue",
+      "Epithelial tissue",
+      "Muscle",
+      "Bone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Sarcoma arises from:",
+    "options": [
+      "Epithelial tissue",
+      "Connective tissue",
+      "Nervous tissue",
+      "Blood cells"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Leukocytosis means:",
+    "options": [
+      "Decrease in RBC",
+      "Increase in WBC",
+      "Decrease in platelets",
+      "Increase in plasma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Thrombocytopenia means:",
+    "options": [
+      "Increase platelets",
+      "Decrease platelets",
+      "Increase RBC",
+      "Decrease WBC"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "ESR increases in:",
+    "options": [
+      "Dehydration",
+      "Inflammation",
+      "Polycythemia",
+      "Hypoxia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which type of necrosis is seen in brain infarction?",
+    "options": [
+      "Coagulative",
+      "Liquefactive",
+      "Caseous",
+      "Fat"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Coagulative necrosis is typical of:",
+    "options": [
+      "Brain",
+      "Heart",
+      "Liver abscess",
+      "Tuberculosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of edema in nephrotic syndrome is:",
+    "options": [
+      "Increased hydrostatic pressure",
+      "Decreased oncotic pressure",
+      "Lymph obstruction",
+      "Sodium loss"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency causes scurvy?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which anemia shows macrocytic RBCs?",
+    "options": [
+      "Iron deficiency anemia",
+      "Aplastic anemia",
+      "Megaloblastic anemia",
+      "Hemolytic anemia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Reed-Sternberg cells are seen in:",
+    "options": [
+      "Leukemia",
+      "Hodgkin lymphoma",
+      "Non-Hodgkin lymphoma",
+      "Myeloma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of myocardial infarction is:",
+    "options": [
+      "Infection",
+      "Atherosclerosis",
+      "Trauma",
+      "Allergy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Atherosclerosis mainly affects:",
+    "options": [
+      "Veins",
+      "Capillaries",
+      "Arteries",
+      "Lymphatics"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is a tumor suppressor gene?",
+    "options": [
+      "RAS",
+      "MYC",
+      "p53",
+      "HER2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Oncogenes are formed by mutation of:",
+    "options": [
+      "Tumor suppressor genes",
+      "Proto-oncogenes",
+      "Enzymes",
+      "Hormones"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cancer in females (worldwide) is:",
+    "options": [
+      "Cervical cancer",
+      "Breast cancer",
+      "Ovarian cancer",
+      "Lung cancer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cancer in males is:",
+    "options": [
+      "Lung cancer",
+      "Prostate cancer",
+      "Liver cancer",
+      "Colon cancer"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Shock due to severe infection is called:",
+    "options": [
+      "Hypovolemic shock",
+      "Cardiogenic shock",
+      "Septic shock",
+      "Neurogenic shock"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Anaphylactic shock is caused by:",
+    "options": [
+      "Infection",
+      "Allergy",
+      "Blood loss",
+      "Trauma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Disseminated intravascular coagulation (DIC) leads to:",
+    "options": [
+      "Only clotting",
+      "Only bleeding",
+      "Both clotting and bleeding",
+      "No effect"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common site of metastasis is:",
+    "options": [
+      "Brain",
+      "Liver",
+      "Kidney",
+      "Spleen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which enzyme marker is raised in myocardial infarction?",
+    "options": [
+      "ALT",
+      "AST",
+      "CK-MB",
+      "Amylase"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most specific marker for myocardial infarction is:",
+    "options": [
+      "CK",
+      "Troponin",
+      "LDH",
+      "AST"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Pus mainly contains:",
+    "options": [
+      "RBCs",
+      "Dead neutrophils",
+      "Platelets",
+      "Lymphocytes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Granuloma formation is mainly due to:",
+    "options": [
+      "Acute inflammation",
+      "Chronic inflammation",
+      "Edema",
+      "Necrosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the earliest change in cell injury?",
+    "options": [
+      "Nuclear change",
+      "Cell swelling",
+      "Membrane rupture",
+      "Mitochondrial rupture"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Hydropic change refers to:",
+    "options": [
+      "Fat accumulation",
+      "Water accumulation",
+      "Protein deposition",
+      "Calcium deposition"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which necrosis is seen in pancreatitis?",
+    "options": [
+      "Caseous",
+      "Fat necrosis",
+      "Coagulative",
+      "Liquefactive"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Dry gangrene is a type of:",
+    "options": [
+      "Liquefactive necrosis",
+      "Fat necrosis",
+      "Coagulative necrosis",
+      "Caseous necrosis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Wet gangrene is associated with:",
+    "options": [
+      "No infection",
+      "Bacterial infection",
+      "Autoimmune disease",
+      "Vitamin deficiency"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which mediator increases vascular permeability?",
+    "options": [
+      "Histamine",
+      "Insulin",
+      "Thyroxine",
+      "Hemoglobin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Bradykinin causes:",
+    "options": [
+      "Vasoconstriction",
+      "Pain",
+      "Clotting",
+      "Immunity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which leukocyte is dominant in viral infection?",
+    "options": [
+      "Neutrophils",
+      "Lymphocytes",
+      "Eosinophils",
+      "Basophils"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Eosinophils increase in:",
+    "options": [
+      "Bacterial infection",
+      "Viral infection",
+      "Allergy & parasites",
+      "Anemia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The main function of macrophages is:",
+    "options": [
+      "Oxygen transport",
+      "Phagocytosis",
+      "Clotting",
+      "Hormone secretion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a cardinal sign of inflammation?",
+    "options": [
+      "Redness",
+      "Pain",
+      "Coldness",
+      "Swelling"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Fibrosis is due to:",
+    "options": [
+      "Neutrophils",
+      "Fibroblasts",
+      "RBCs",
+      "Platelets"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Keloid formation is due to:",
+    "options": [
+      "Less collagen",
+      "Excess collagen",
+      "No healing",
+      "Infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition leads to hypertrophy?",
+    "options": [
+      "Immobilization",
+      "Increased workload",
+      "Starvation",
+      "Infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Hyperplasia is common in:",
+    "options": [
+      "Muscle",
+      "Nerve",
+      "Endometrium",
+      "Bone"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Dysplasia is reversible except when:",
+    "options": [
+      "Mild",
+      "Moderate",
+      "Severe",
+      "Chronic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which tumor marker is for prostate cancer?",
+    "options": [
+      "AFP",
+      "CEA",
+      "PSA",
+      "CA-125"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "AFP is elevated in:",
+    "options": [
+      "Prostate cancer",
+      "Liver cancer",
+      "Breast cancer",
+      "Lung cancer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "CEA is associated with:",
+    "options": [
+      "Colon cancer",
+      "Brain tumor",
+      "Skin cancer",
+      "Thyroid cancer"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a benign epithelial tumor?",
+    "options": [
+      "Adenoma",
+      "Sarcoma",
+      "Carcinoma",
+      "Leukemia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Leukemia is a cancer of:",
+    "options": [
+      "Bone",
+      "Blood-forming tissues",
+      "Muscle",
+      "Skin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition shows increased hematocrit?",
+    "options": [
+      "Anemia",
+      "Polycythemia",
+      "Leukemia",
+      "Thrombocytopenia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Hemophilia is due to deficiency of:",
+    "options": [
+      "Platelets",
+      "Clotting factors",
+      "RBCs",
+      "WBCs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Vitamin K is essential for:",
+    "options": [
+      "RBC production",
+      "Clotting factor synthesis",
+      "Immunity",
+      "Digestion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which anemia is due to intrinsic factor deficiency?",
+    "options": [
+      "Iron deficiency",
+      "Pernicious anemia",
+      "Hemolytic anemia",
+      "Aplastic anemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Sickle cell anemia is caused by:",
+    "options": [
+      "Iron deficiency",
+      "Genetic mutation",
+      "Infection",
+      "Vitamin deficiency"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Shock due to heart failure is:",
+    "options": [
+      "Septic",
+      "Hypovolemic",
+      "Cardiogenic",
+      "Neurogenic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Hypovolemic shock is caused by:",
+    "options": [
+      "Infection",
+      "Blood loss",
+      "Allergy",
+      "Heart failure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organ is most affected in shock?",
+    "options": [
+      "Skin",
+      "Kidney",
+      "Bone",
+      "Muscle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Pulmonary embolism affects:",
+    "options": [
+      "Brain",
+      "Lung",
+      "Liver",
+      "Kidney"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Infarction is:",
+    "options": [
+      "Infection",
+      "Tissue death due to ischemia",
+      "Edema",
+      "Tumor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Red infarct is seen in:",
+    "options": [
+      "Heart",
+      "Kidney",
+      "Lung",
+      "Spleen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "White infarct is seen in:",
+    "options": [
+      "Lung",
+      "Liver",
+      "Kidney",
+      "Brain"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of cirrhosis is:",
+    "options": [
+      "Infection",
+      "Alcohol",
+      "Trauma",
+      "Allergy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Jaundice is due to increase in:",
+    "options": [
+      "Hemoglobin",
+      "Bilirubin",
+      "Albumin",
+      "Cholesterol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main storage site of iron is:",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Brain",
+      "Lung"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Hemochromatosis is due to:",
+    "options": [
+      "Iron deficiency",
+      "Iron overload",
+      "Calcium deficiency",
+      "Vitamin deficiency"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a reversible cell injury?",
+    "options": [
+      "Necrosis",
+      "Apoptosis",
+      "Fatty change",
+      "Infarction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The hallmark of malignancy is:",
+    "options": [
+      "Slow growth",
+      "Encapsulation",
+      "Metastasis",
+      "Differentiation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Cachexia is seen in:",
+    "options": [
+      "Infection",
+      "Cancer",
+      "Diabetes",
+      "Hypertension"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which enzyme is responsible for apoptosis?",
+    "options": [
+      "Protease",
+      "Caspase",
+      "Lipase",
+      "Amylase"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Free radical injury mainly affects:",
+    "options": [
+      "DNA & membranes",
+      "Only cytoplasm",
+      "Only nucleus",
+      "Only mitochondria"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Ischemia differs from hypoxia by:",
+    "options": [
+      "Lack of oxygen only",
+      "Reduced blood supply",
+      "Increased oxygen",
+      "Increased nutrients"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Reperfusion injury is due to:",
+    "options": [
+      "Oxygen depletion",
+      "Free radicals",
+      "Infection",
+      "Calcium deficiency"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which ion increases in cell injury?",
+    "options": [
+      "Sodium",
+      "Calcium",
+      "Potassium",
+      "Chloride"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which change is irreversible?",
+    "options": [
+      "Cell swelling",
+      "Fatty change",
+      "Nuclear fragmentation",
+      "Vacuolation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which necrosis shows cheese-like appearance?",
+    "options": [
+      "Fat necrosis",
+      "Caseous necrosis",
+      "Liquefactive necrosis",
+      "Coagulative necrosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which cytokine causes fever?",
+    "options": [
+      "IL-1",
+      "Insulin",
+      "Thyroxine",
+      "ACTH"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Tumor necrosis factor (TNF) mainly causes:",
+    "options": [
+      "Hypoglycemia",
+      "Inflammation",
+      "Digestion",
+      "Oxygen transport"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which complement component is chemotactic?",
+    "options": [
+      "C1",
+      "C3a",
+      "C5a",
+      "C9"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which immunoglobulin crosses placenta?",
+    "options": [
+      "IgA",
+      "IgM",
+      "IgG",
+      "IgE"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which type of hypersensitivity is anaphylactic?",
+    "options": [
+      "Type I",
+      "Type II",
+      "Type III",
+      "Type IV"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Type IV hypersensitivity is mediated by:",
+    "options": [
+      "Antibodies",
+      "T-cells",
+      "Complement",
+      "Platelets"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Autoimmune diseases are due to:",
+    "options": [
+      "Infection",
+      "Self-antigen reaction",
+      "Trauma",
+      "Hormones"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main feature of chronic inflammation is:",
+    "options": [
+      "Edema",
+      "Neutrophils",
+      "Tissue destruction",
+      "Vasoconstriction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Angiogenesis is stimulated by:",
+    "options": [
+      "VEGF",
+      "Insulin",
+      "Hemoglobin",
+      "Albumin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which vitamin is essential for collagen synthesis?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition delays wound healing?",
+    "options": [
+      "Good nutrition",
+      "Diabetes",
+      "Oxygen supply",
+      "Clean wound"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which tumor spreads via blood?",
+    "options": [
+      "Carcinoma",
+      "Sarcoma",
+      "Adenoma",
+      "Papilloma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most aggressive tumor?",
+    "options": [
+      "Benign tumor",
+      "Malignant tumor",
+      "Cyst",
+      "Lipoma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which gene repairs DNA?",
+    "options": [
+      "p53",
+      "BRCA",
+      "MYC",
+      "RAS"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which tumor marker is for ovarian cancer?",
+    "options": [
+      "PSA",
+      "CA-125",
+      "AFP",
+      "CEA"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Multiple myeloma affects:",
+    "options": [
+      "RBCs",
+      "Plasma cells",
+      "Platelets",
+      "Neutrophils"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "ESR is increased in:",
+    "options": [
+      "Polycythemia",
+      "Inflammation",
+      "Dehydration",
+      "Shock"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition shows pancytopenia?",
+    "options": [
+      "Leukemia",
+      "Aplastic anemia",
+      "Hemolytic anemia",
+      "Iron deficiency"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which anemia shows microcytic RBC?",
+    "options": [
+      "Iron deficiency",
+      "Megaloblastic",
+      "Aplastic",
+      "Hemolytic"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Hemolytic anemia causes:",
+    "options": [
+      "Decreased bilirubin",
+      "Increased bilirubin",
+      "No change",
+      "Decreased RBC destruction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which clotting factor deficiency causes Hemophilia A?",
+    "options": [
+      "Factor VIII",
+      "Factor IX",
+      "Factor X",
+      "Factor V"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Virchow’s triad includes all except:",
+    "options": [
+      "Endothelial injury",
+      "Blood stasis",
+      "Hypercoagulability",
+      "Infection"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which is NOT a cause of thrombosis?",
+    "options": [
+      "Stasis",
+      "Endothelial damage",
+      "Hypercoagulability",
+      "Hypertension alone"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Fat embolism commonly occurs in:",
+    "options": [
+      "Liver disease",
+      "Bone fracture",
+      "Kidney failure",
+      "Brain injury"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Air embolism occurs due to:",
+    "options": [
+      "Infection",
+      "Trauma",
+      "Gas entry into circulation",
+      "Allergy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Septic shock is caused by:",
+    "options": [
+      "Toxins",
+      "Blood loss",
+      "Heart failure",
+      "Allergy"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organ fails first in shock?",
+    "options": [
+      "Brain",
+      "Kidney",
+      "Liver",
+      "Lung"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which infarct is pale?",
+    "options": [
+      "Red infarct",
+      "White infarct",
+      "Hemorrhagic infarct",
+      "Septic infarct"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a risk factor for atherosclerosis?",
+    "options": [
+      "Smoking",
+      "Diabetes",
+      "Exercise",
+      "Hypertension"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which lipoprotein is 'bad cholesterol'?",
+    "options": [
+      "HDL",
+      "LDL",
+      "VLDL",
+      "Chylomicron"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is 'good cholesterol'?",
+    "options": [
+      "LDL",
+      "HDL",
+      "VLDL",
+      "IDL"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Fatty liver is caused by:",
+    "options": [
+      "Alcohol",
+      "Infection",
+      "Trauma",
+      "Hypoxia only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Cirrhosis leads to:",
+    "options": [
+      "Liver enlargement only",
+      "Fibrosis & nodules",
+      "No change",
+      "Increased RBC"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Portal hypertension causes:",
+    "options": [
+      "Ascites",
+      "Hypotension",
+      "Bradycardia",
+      "Anemia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which enzyme is elevated in liver damage?",
+    "options": [
+      "CK",
+      "ALT",
+      "Troponin",
+      "Amylase"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Pancreatitis increases:",
+    "options": [
+      "ALT",
+      "Amylase",
+      "CK-MB",
+      "Troponin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Diabetes mellitus is characterized by:",
+    "options": [
+      "Hypoglycemia",
+      "Hyperglycemia",
+      "Hypotension",
+      "Low insulin always"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Glycosuria occurs when:",
+    "options": [
+      "Blood glucose normal",
+      "Blood glucose high",
+      "Blood glucose low",
+      "No insulin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which complication is microvascular?",
+    "options": [
+      "Atherosclerosis",
+      "Neuropathy",
+      "Stroke",
+      "MI"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease causes immune deficiency?",
+    "options": [
+      "HIV/AIDS",
+      "Diabetes",
+      "Hypertension",
+      "Asthma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Opportunistic infections occur in:",
+    "options": [
+      "Normal immunity",
+      "Immunodeficiency",
+      "Hyperimmunity",
+      "Allergy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a tumor virus?",
+    "options": [
+      "HIV",
+      "HPV",
+      "Influenza",
+      "Dengue"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "HPV is associated with:",
+    "options": [
+      "Liver cancer",
+      "Cervical cancer",
+      "Lung cancer",
+      "Brain tumor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organelle is first affected in hypoxia?",
+    "options": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome",
+      "Golgi body"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Loss of ATP primarily leads to:",
+    "options": [
+      "Increased protein synthesis",
+      "Failure of Na⁺/K⁺ pump",
+      "DNA replication",
+      "Calcium removal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which enzyme causes membrane damage in cell injury?",
+    "options": [
+      "DNase",
+      "Protease",
+      "Phospholipase",
+      "Lipase"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition shows intracellular accumulation of triglycerides?",
+    "options": [
+      "Amyloidosis",
+      "Fatty liver",
+      "Calcification",
+      "Fibrosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Amyloid deposits are composed of:",
+    "options": [
+      "Lipids",
+      "Proteins",
+      "Carbohydrates",
+      "Calcium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Congo red stain is used for:",
+    "options": [
+      "Lipid",
+      "Glycogen",
+      "Amyloid",
+      "Calcium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition shows 'apple green birefringence'?",
+    "options": [
+      "Tuberculosis",
+      "Amyloidosis",
+      "Cirrhosis",
+      "Cancer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a positive acute phase reactant?",
+    "options": [
+      "Albumin",
+      "CRP",
+      "Hemoglobin",
+      "Insulin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Albumin decreases in:",
+    "options": [
+      "Inflammation",
+      "Polycythemia",
+      "Shock",
+      "Leukemia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which mediator causes vasodilation?",
+    "options": [
+      "Histamine",
+      "Platelets",
+      "RBC",
+      "Fibrin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is NOT a feature of chronic inflammation?",
+    "options": [
+      "Fibrosis",
+      "Angiogenesis",
+      "Neutrophils dominance",
+      "Tissue destruction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which cell forms granuloma?",
+    "options": [
+      "Neutrophil",
+      "Epithelioid cell",
+      "RBC",
+      "Platelet"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Langhans giant cells are seen in:",
+    "options": [
+      "Cancer",
+      "Tuberculosis",
+      "Diabetes",
+      "Shock"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Caseation is due to:",
+    "options": [
+      "Fat deposition",
+      "Protein degradation",
+      "Lipid accumulation",
+      "Calcium loss"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which vitamin deficiency delays clotting?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which clotting factor is affected in liver disease?",
+    "options": [
+      "Factor VIII",
+      "Factor II",
+      "Factor XII",
+      "Factor XIII"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "PT is prolonged in:",
+    "options": [
+      "Platelet disorders",
+      "Extrinsic pathway defect",
+      "Intrinsic pathway defect",
+      "RBC disorder"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "aPTT is prolonged in:",
+    "options": [
+      "Extrinsic pathway",
+      "Intrinsic pathway",
+      "Platelet disorder",
+      "Liver only"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition increases bleeding time?",
+    "options": [
+      "Hemophilia",
+      "Platelet disorder",
+      "Polycythemia",
+      "Leukocytosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease causes thrombocytosis?",
+    "options": [
+      "Infection",
+      "Iron deficiency",
+      "Leukemia",
+      "Trauma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a feature of malignancy?",
+    "options": [
+      "Anaplasia",
+      "Metastasis",
+      "Differentiation",
+      "Rapid growth"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Anaplasia refers to:",
+    "options": [
+      "Normal growth",
+      "Loss of differentiation",
+      "Cell death",
+      "Inflammation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which tumor shows highest metastasis?",
+    "options": [
+      "Benign tumor",
+      "Malignant tumor",
+      "Cyst",
+      "Hyperplasia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which route is common for carcinoma spread?",
+    "options": [
+      "Blood",
+      "Lymphatics",
+      "CSF",
+      "Direct"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition shows Reed-Sternberg cells?",
+    "options": [
+      "Leukemia",
+      "Hodgkin lymphoma",
+      "Sarcoma",
+      "Myeloma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a paraneoplastic syndrome?",
+    "options": [
+      "Fever",
+      "Hypercalcemia",
+      "Pain",
+      "Edema"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which anemia shows increased reticulocytes?",
+    "options": [
+      "Iron deficiency",
+      "Hemolytic anemia",
+      "Aplastic anemia",
+      "Pernicious anemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Reticulocyte count indicates:",
+    "options": [
+      "RBC destruction",
+      "Bone marrow activity",
+      "WBC function",
+      "Platelet function"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease shows splenomegaly?",
+    "options": [
+      "Leukemia",
+      "Hypertension",
+      "Diabetes",
+      "Asthma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a microangiopathy complication of diabetes?",
+    "options": [
+      "Stroke",
+      "Retinopathy",
+      "Atherosclerosis",
+      "MI"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a macrovascular complication of diabetes?",
+    "options": [
+      "Neuropathy",
+      "Retinopathy",
+      "Atherosclerosis",
+      "Nephropathy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which electrolyte imbalance occurs in renal failure?",
+    "options": [
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hypocalcemia",
+      "Hypernatremia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Uremia is due to:",
+    "options": [
+      "Liver failure",
+      "Kidney failure",
+      "Heart failure",
+      "Lung disease"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition shows proteinuria?",
+    "options": [
+      "Liver disease",
+      "Kidney disease",
+      "Lung disease",
+      "Brain disease"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Nephrotic syndrome shows:",
+    "options": [
+      "Hematuria",
+      "Proteinuria",
+      "Leukocytosis",
+      "Thrombocytosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease causes granuloma?",
+    "options": [
+      "Tuberculosis",
+      "Diabetes",
+      "Hypertension",
+      "Asthma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which infection causes caseous necrosis?",
+    "options": [
+      "Viral",
+      "Bacterial (TB)",
+      "Fungal",
+      "Parasitic"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a tumor marker?",
+    "options": [
+      "PSA",
+      "CEA",
+      "CRP",
+      "AFP"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which marker indicates liver cancer?",
+    "options": [
+      "PSA",
+      "AFP",
+      "CA-125",
+      "CEA"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is NOT a risk factor for cancer?",
+    "options": [
+      "Smoking",
+      "Radiation",
+      "Exercise",
+      "Viruses"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which virus is linked with liver cancer?",
+    "options": [
+      "HPV",
+      "HBV",
+      "HIV",
+      "Dengue"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition leads to immunosuppression?",
+    "options": [
+      "HIV",
+      "Diabetes",
+      "Hypertension",
+      "Asthma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is a feature of septic shock?",
+    "options": [
+      "High BP",
+      "Warm skin",
+      "Bradycardia",
+      "Low CO₂"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which shock shows decreased cardiac output?",
+    "options": [
+      "Septic",
+      "Cardiogenic",
+      "Anaphylactic",
+      "Neurogenic"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organ is least resistant to ischemia?",
+    "options": [
+      "Brain",
+      "Heart",
+      "Liver",
+      "Kidney"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which infarct is hemorrhagic?",
+    "options": [
+      "Brain",
+      "Heart",
+      "Lung",
+      "Kidney"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which enzyme increases in pancreatitis?",
+    "options": [
+      "CK-MB",
+      "ALT",
+      "Amylase",
+      "Troponin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is a complication of cirrhosis?",
+    "options": [
+      "Hypoglycemia",
+      "Portal hypertension",
+      "Polycythemia",
+      "Leukocytosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition causes ascites?",
+    "options": [
+      "Cirrhosis",
+      "Hypertension",
+      "Diabetes",
+      "Asthma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is the final stage of many chronic diseases?",
+    "options": [
+      "Shock",
+      "Fibrosis",
+      "Necrosis",
+      "Inflammation"
+    ],
+    "correctIndex": 1
+  }
+]

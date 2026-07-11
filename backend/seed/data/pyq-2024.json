@@ -1,0 +1,1002 @@
+[
+  {
+    "text": "During normal breathing, the amount of air that moves into the lungs and comes out is called:",
+    "options": [
+      "IRV (Inspiratory Reserve Volume)",
+      "Residual Volume",
+      "Expiratory Reserve Volume",
+      "Tidal Volume"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The end product in the process of blood coagulation is:",
+    "options": [
+      "Fibrin",
+      "Thrombin",
+      "Thromboplastin",
+      "Prothrombin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Renin is a hormone secreted by the:",
+    "options": [
+      "Pancreas",
+      "Kidney",
+      "Liver",
+      "Ovary"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "All of the following hormones are secreted by Anterior Pituitary; Except:",
+    "options": [
+      "Growth hormone",
+      "Oxytocin",
+      "Prolactin",
+      "Gonadotropin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Broca’s area is located in which lobe?",
+    "options": [
+      "Parietal",
+      "Frontal",
+      "Temporal",
+      "Occipital"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "CSF is secreted by:",
+    "options": [
+      "Hypothalamus",
+      "Pineal body",
+      "Choroid plexuses",
+      "Medulla Oblongata"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Hematocrit value is the ratio of:",
+    "options": [
+      "WBC to Plasma",
+      "Platelets to Plasma",
+      "RBCs to Plasma",
+      "Total blood cells to Plasma"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which of the following hormone helps in the secretion of HCl from stomach?",
+    "options": [
+      "Gastrin",
+      "Secretin",
+      "Pepsin",
+      "Renin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which part of the human brain is primarily responsible for regulating heart rate, blood pressure & respiration?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Brain stem",
+      "Hippocampus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which of the following terms describe the body's ability to maintain its normal state?",
+    "options": [
+      "Anabolism",
+      "Catabolism",
+      "Tolerance",
+      "Homeostasis"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "In triage, yellow colour indicates –",
+    "options": [
+      "Emergency",
+      "Urgent",
+      "Non urgent",
+      "Dead"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The nurse asked the client to read the Snellen Chart. Which of the nerve function is tested?",
+    "options": [
+      "Optic",
+      "Olfactory",
+      "Oculomotor",
+      "Trochlear"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which of the following is a plasma volume expander?",
+    "options": [
+      "Normal saline",
+      "Haemaccel",
+      "Ringer lactate",
+      "Dextrose normal saline"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Final stage of grief is –",
+    "options": [
+      "Bargaining",
+      "Denial",
+      "Acceptance",
+      "Depression"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Solution with higher osmotic pressure that pulls fluid from cell is:",
+    "options": [
+      "Isotonic",
+      "Hypotonic",
+      "Hypertonic",
+      "Oncotic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Crackling sounds bilaterally at the bases of lungs is referred to as –",
+    "options": [
+      "Rhonchi",
+      "Wheezing",
+      "Rales",
+      "Pleural rub"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Positive Babinski sign is –",
+    "options": [
+      "Abnormal for adults",
+      "Abnormal for children",
+      "Abnormal for all ages groups",
+      "Abnormal for neonates"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "What information does Anecdotal record contains?",
+    "options": [
+      "Record of some observation about a person",
+      "Record of number of patients in the ward",
+      "Record of death",
+      "Making statements of Judgement"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "What can be assessed by Romberg test?",
+    "options": [
+      "Hearing ability of a person",
+      "Visual acuity of a person",
+      "Balance of a person",
+      "Joint movements of a person"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Client had positive trousseau sign, which electrolyte imbalance can be expected?",
+    "options": [
+      "Potassium",
+      "Calcium",
+      "Sodium",
+      "Magnesium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Goodell sign indicated",
+    "options": [
+      "Bluish discoloration of the vaginal wall",
+      "Regular rhythmic uterine contraction",
+      "Softening of the cervix",
+      "Enlargement of the uterus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Fundus of the pregnant uterus is palpable at 40 weeks of gestation",
+    "options": [
+      "At the level of 32 weeks",
+      "At the level of Xiphisternum",
+      "At the level of umbilicus",
+      "At the level of symphysis pubis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which type of pregnancy sign in quickening?",
+    "options": [
+      "Probable sign",
+      "Presumptive sign",
+      "Positive sign",
+      "Directional sign"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The single most important hormone for maintenance of effective & continuous lactation –",
+    "options": [
+      "Oxytocin",
+      "Estrogen",
+      "Prolactin",
+      "Progesterone"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The dose of Anti D immunoglobulin for a Rh Negative mother after the birth of the baby –",
+    "options": [
+      "50 mcg",
+      "100 mcg",
+      "200 mcg",
+      "300 mcg"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Umbilical Cord is attached to the edge of the placenta is called:",
+    "options": [
+      "Velamentous insertion",
+      "Placenta Succenturiata",
+      "Battledore placenta",
+      "Placenta increta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Carcinoma of Cervix in stage I:",
+    "options": [
+      "Carcinoma is strictly confined to cervix",
+      "Carcinoma spread beyond the cervix",
+      "Carcinoma spread beyond the uterus",
+      "Carcinoma spread in abdomen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Narrowest part of the fallopian tube is the:",
+    "options": [
+      "Interstitial portion",
+      "Isthmus",
+      "Infundibulum",
+      "Ampulla"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Type of placenta praevia in which placenta completely covers the internal OS is known as:",
+    "options": [
+      "Marginal Placenta Praevia",
+      "Low Lying Placenta Praevia",
+      "Central Placenta Praevia",
+      "Partial Placenta Praevia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The immunoglobulin that crosses the placental barrier –",
+    "options": [
+      "IgM",
+      "IgG",
+      "Calcium",
+      "IgA"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The family which one sets up after marriage is termed as –",
+    "options": [
+      "Extended family",
+      "Nuclear family",
+      "Family of origin",
+      "Family of procreation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Practices that have been repeated by a multitude of generation practices is refer to –",
+    "options": [
+      "Law",
+      "Habits",
+      "Custom",
+      "Culture"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "In India, the most rigid system stratification is:",
+    "options": [
+      "Class",
+      "Caste",
+      "Estate",
+      "Slavery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Social change refers to:",
+    "options": [
+      "Change in individual values",
+      "Change in the values of the society",
+      "Change in technology",
+      "Change in census"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The scientific study of human population is termed as:",
+    "options": [
+      "Census",
+      "Demography",
+      "Vital statistics",
+      "Survey"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "A nurse would advise the patient to avoid salt substitute and foods such as banana, tomato and orange juice for the following disorder –",
+    "options": [
+      "Hyperkalemia",
+      "Hypokalemia",
+      "Hypomagnesemia",
+      "Metabolic acidosis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Absence of the following clotting factor leads to Hemophilia-A:",
+    "options": [
+      "Factor VII",
+      "Factor VIII",
+      "Factor IX",
+      "Factor X"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "A client weighing 76 kg is admitted in emergency department with 40% burn. Using Parkland Formula, client’s 24 hrs IV fluid replacement should be",
+    "options": [
+      "6080 ml",
+      "9120 ml",
+      "12160 ml",
+      "15180 ml"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The purpose of maintaining NPO for 6-8 hours before surgery is –",
+    "options": [
+      "To prevent vomiting",
+      "To prevent electrolyte imbalance",
+      "To prevent pulmonary aspiration",
+      "To prevent urination"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "In which of the following type fracture the bone is shattered into numerous fragments –",
+    "options": [
+      "Greenstick fracture",
+      "Avulsion fracture",
+      "Comminuted fracture",
+      "Displaced fracture"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Immediate treatment of dog bite?",
+    "options": [
+      "Hospitalization",
+      "Application of antiseptic",
+      "Wash the wound with soap and water",
+      "Suturing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which of the following is a screening test for balance?",
+    "options": [
+      "Rinne’s test",
+      "Webber test",
+      "Allen’s test",
+      "Romberg's test"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Silver Nitrate dressing may cause",
+    "options": [
+      "Increased creatinine level",
+      "Depletion of sodium and potassium",
+      "Increased BUN",
+      "Increased Potassium level"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Signs and symptoms of digoxin toxicity –",
+    "options": [
+      "Convulsions",
+      "Vertigo",
+      "Yellow vision",
+      "Muscle cramp"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Diabetes insipidus is caused by the deficiency of:",
+    "options": [
+      "Antidiuretic hormone",
+      "Insulin",
+      "Glucagon",
+      "Renin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "According to Piaget, Egocentrism is the feature of which of the cognitive development?",
+    "options": [
+      "Concrete operational",
+      "Pre-operational",
+      "Formal operational stage",
+      "Sensory motor stage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The ability to tolerate frustration is an example of one of the function of the:",
+    "options": [
+      "Id",
+      "Ego",
+      "Superego",
+      "Unconscious"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Another term for super-ego is:",
+    "options": [
+      "Self",
+      "Ideal self",
+      "Narcissism",
+      "Conscience"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Specific abilities are measured by:",
+    "options": [
+      "Achievement Test",
+      "Aptitude Test",
+      "Intelligence Test",
+      "Occupational Test"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Another term for reinforcement is:",
+    "options": [
+      "Stimulus",
+      "Reward",
+      "Response",
+      "Condition"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "In metabolic process vitamin D is absorbed in",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Large intestine",
+      "Starts from the stomach and ends in large intestine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "To prevent neural tube defect in a baby which nutrient is given as supplementation for the mother during pregnancy?",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Folic acid",
+      "Magnesium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is also known as the “Accessory dietary factor”?",
+    "options": [
+      "Fats",
+      "Vitamins",
+      "Proteins",
+      "Hormones"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Index of duration of malnutrition is",
+    "options": [
+      "Weight for height",
+      "Height for age",
+      "Weight for age",
+      "None"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The response to iron replacement therapy is indicated by an increase in Hb at the rate of",
+    "options": [
+      "2 gm/week",
+      "1 gm/week",
+      "1 gm/month",
+      "2 gm/month"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The ability of a class of microbes to produce disease is referred as –",
+    "options": [
+      "Virulence",
+      "Pathogenicity",
+      "Commensals",
+      "Infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Koplik’s Spot on the buccal mucosa is a characteristic feature of:",
+    "options": [
+      "Mumps",
+      "Measles",
+      "Rubella",
+      "Respiratory Syncytial Virus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "IPV is a ______ injectable vaccine.",
+    "options": [
+      "Killed",
+      "Live Attenuated",
+      "Inactivated",
+      "Toxoid"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Ophthalmia neonatorum in newborn is caused by –",
+    "options": [
+      "Neisseria gonorrhea",
+      "Neisseria meningitidis",
+      "Hemophilus influenza",
+      "Streptococcus pneumoniae"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "______ mediates Type-I hypersensitivity reaction.",
+    "options": [
+      "IgA",
+      "IgD",
+      "IgE",
+      "IgG"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "In the natural history of disease, the pathogenesis phase is deemed to start upon:",
+    "options": [
+      "Entry of the disease agent in the human host",
+      "Interaction between agent, host and environmental factors",
+      "Appearance of signs and symptoms",
+      "Appearance of complications"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Morbidity in a community can best be estimated by:",
+    "options": [
+      "Active surveillance",
+      "Sentinel surveillance",
+      "Passive surveillance",
+      "Monitoring"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is the most peripheral public health center where safe blood services are envisaged under IPHS?",
+    "options": [
+      "PHC",
+      "CHC",
+      "Sub-district hospital",
+      "District hospital"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which of the following schemes provides cash assistance?",
+    "options": [
+      "Janani Shishu Suraksha Yojana (JSSK)",
+      "Rashtriya Kishore Swasthya Karyakram (RKSK)",
+      "Janani Suraksha Yojana (JSY)",
+      "Rashtriya Bal Swasthya Karyakram (RBSK)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The emergency contraceptive pill should be used within a maximum period of:",
+    "options": [
+      "24 hours",
+      "48 hours",
+      "72 hours",
+      "96 hours"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "VIA is a method of screening for cancer of:",
+    "options": [
+      "Oral cavity",
+      "Cervix",
+      "Gastric",
+      "Prostate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which of the following centers are now known as Health and Wellness Center (HWC)?",
+    "options": [
+      "CHC",
+      "District Hospital",
+      "Sub-center",
+      "Rural Hospital"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "‘Endemic Disease’ means that a disease:",
+    "options": [
+      "Occurs clearly in excess of normal expectancy",
+      "Is constantly present in a given population group",
+      "Exhibits seasonal pattern",
+      "Is prevalent among animals"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Live attenuated vaccine is",
+    "options": [
+      "COVID-19",
+      "Typhoid",
+      "IPV",
+      "OPV"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Hansen’s disease is also known as",
+    "options": [
+      "Leprosy",
+      "Filaria",
+      "Yellow Fever",
+      "Plague"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "As per national immunization schedule at which age OPV Booster to be given?",
+    "options": [
+      "At 14-16 weeks of age",
+      "At 10-12 months of age",
+      "At 12-15 months of age",
+      "At 16-24 months of age"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "A 2 years child having Respiratory rate 50 breaths/min with cough and cold. At which classification of pneumonia, the child belongs to?",
+    "options": [
+      "No pneumonia",
+      "Pneumonia",
+      "Severe pneumonia",
+      "Very severe pneumonia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "“Pavlik Harness” brace is most commonly used for –",
+    "options": [
+      "Knee deformity",
+      "Finger deformity",
+      "CDH (Congenital Dislocation of Hip)",
+      "Spinal deformity"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Vitamin K given to a newborn weighing 900 gram is –",
+    "options": [
+      "0.5 mg",
+      "1.5 mg",
+      "1.0 mg",
+      "2.0 mg"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The hormone responsible for milk ejection is –",
+    "options": [
+      "Oxytocin",
+      "Estrogen",
+      "Progesteron",
+      "Prolactin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Patent Ductus Arteriosus is an abnormal communication between the",
+    "options": [
+      "Pulmonary artery and pulmonary veins",
+      "Pulmonary artery and aorta",
+      "Pulmonary veins and aorta",
+      "Pulmonary veins and coronary artery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The red coloured inverted triangle at the centre of the under five logo represents",
+    "options": [
+      "Care in illness",
+      "Immunisation",
+      "Early diagnosis",
+      "Family planning"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "‘Flag sign’ is a sign in which of the following nutritional disorders?",
+    "options": [
+      "Marasmus",
+      "Kwashiorkor",
+      "Underweight",
+      "Nutritional dwarfism"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "FLACC scale is used to assess which of the following parameter in children?",
+    "options": [
+      "Pain",
+      "Dehydration",
+      "Anxiety",
+      "Consciousness"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Under POSHAN Abhiyaan, the focus is on",
+    "options": [
+      "Health and nutrition",
+      "Education",
+      "Vaccine promotion",
+      "Early treatment and referral"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "An example of non-therapeutic communication techniques is?",
+    "options": [
+      "Validating",
+      "Belittling",
+      "Reflecting",
+      "Listening"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Patient believes that the nurse and doctor are talking about him; this could best be described as",
+    "options": [
+      "Obsession",
+      "Delusion of reference",
+      "Delusion of persecution",
+      "An idea of influence"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Nurse can minimize agitation in a disturbed client by:",
+    "options": [
+      "Increasing stimulation",
+      "Limiting unnecessary interaction",
+      "Increasing appropriate sensory perception",
+      "Ensuring constant client and staff contact"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "In Schizophrenia, the term anhedonia refers to ?",
+    "options": [
+      "An inability to enjoy food",
+      "An inability to express empathy",
+      "An inability to react to enjoyable or pleasurable events",
+      "An inability to react appropriately to social cues"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The 4 A’s schizophrenia are",
+    "options": [
+      "Anxiety, ambivalence, autism, affective disturbance",
+      "Amnesia, ambivalence, autism, affective disturbance",
+      "Autism, affective disturbance, anxiety, amnesia",
+      "Autism, ambivalence, affective disturbance, associative disturbance"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The nurse is assigned to a client with catatonic schizophrenia. Which intervention should the nurse include in the client’s plan of care?",
+    "options": [
+      "Giving the client an opportunity to express concerns",
+      "Maintaining safe distance from the patient",
+      "Administering lithium carbonate (Lithonate) as prescribed",
+      "Providing a quiet environment where the client can be alone"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The nurse is caring for a client who experiences false sensory perceptions with no basis in reality. These perceptions are known as",
+    "options": [
+      "Delusions",
+      "Hallucination",
+      "Loose association",
+      "Neologism"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which of the following is a major side effect of typical antipsychotics?",
+    "options": [
+      "Tardive dyskinesia",
+      "Thyroid abnormality",
+      "Weight gain",
+      "Headache"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Benzodiazepines reduce anxiety by acting on which neurotransmitter?",
+    "options": [
+      "GABA",
+      "Serotonin",
+      "Noradrenaline",
+      "Dopamine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "A mental disorder characterized by stereotype speech is",
+    "options": [
+      "Mannerism",
+      "Cataplexy",
+      "Verbigeration",
+      "Negativism"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Seminoma testis is a",
+    "options": [
+      "Germ cell tumor",
+      "Vascular tumor",
+      "Mesothelial tumor",
+      "Epithelial tumor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Cobweb formation in the CSF is characteristically seen in",
+    "options": [
+      "Tuberculer meningitis",
+      "Pyogenic meningitis",
+      "Astrocytoma",
+      "Meningioma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Prolonged infection with HPV-18 is linked with",
+    "options": [
+      "Ovarian cancer",
+      "Carcinoma of the cervix",
+      "Endometrial cancer",
+      "Uterine polyp"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which drug does not cross the placental barrier?",
+    "options": [
+      "Diazepam",
+      "Heparin",
+      "Pethidine",
+      "Dicumerol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The drug chloroquine acts on the",
+    "options": [
+      "Blood schizonts",
+      "Merozoites",
+      "Gametocytes",
+      "Tissue schizonts"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The drug of choice for ventricular tachycardia is",
+    "options": [
+      "Digoxin",
+      "Xylocard",
+      "Propranolol",
+      "Pethidine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main adverse effects of Salbutamol are",
+    "options": [
+      "Bradycardia and heart block",
+      "Palpitation and muscle tremor",
+      "Nausea and vomiting",
+      "Diarrhea and hypotension"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The commonest cause of fatty liver is",
+    "options": [
+      "Starvation",
+      "Alcoholism",
+      "Steroid",
+      "Carbon tetrachloride"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Major mechanism of transport of drugs across biological membranes is by:",
+    "options": [
+      "Passive diffusion",
+      "Facilitated diffusion",
+      "Active transport",
+      "Endocytosis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Drug of choice for myoclonic seizures:",
+    "options": [
+      "Vigabatrin",
+      "Phenytoin",
+      "Valproate",
+      "Carbamazepine"
+    ],
+    "correctIndex": 2
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "text": "The smallest bone in our body is ____________ :",
+    "options": [
+      "Malleus",
+      "Stapes",
+      "Incus",
+      "Nasal Bone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The light sensitive part of eye is called :",
+    "options": [
+      "Choroid",
+      "Sclera",
+      "Retina",
+      "Lens"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which of the following muscular valve controls the flows of digestive juice from hepatopancreatic duct to duodenum ?",
+    "options": [
+      "Sphincter of Oddi",
+      "Semilunar valve",
+      "Ileoceacal valve",
+      "Pyloric Sphincter"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which of the following organs is known as the 'Graveyard' of R. B. C ?",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Spleen",
+      "Gall bladder"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which of the following is a part of hind brain ?",
+    "options": [
+      "Cerebellum",
+      "Corpus Calosum",
+      "Hypothalamus",
+      "Spinal Cord"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which of these hormone is made by the Posterior pituitary ?",
+    "options": [
+      "FSH",
+      "LH",
+      "ACTH",
+      "ADH"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which one of the following is not a mechanism of child socialization in the family ?",
+    "options": [
+      "Praise and blame",
+      "Observing and learning",
+      "Reward and punishment",
+      "Study of scriptures"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "With respect to a movie-loving high school girl, a film star forms part of her :",
+    "options": [
+      "Secondary group",
+      "Reference group",
+      "Primary group",
+      "In group"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Family formed after marriage is called :",
+    "options": [
+      "Family of recreation",
+      "Monogamous family",
+      "Family of orientation",
+      "Family of procreation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "A social norm is :",
+    "options": [
+      "What everyone adheres to.",
+      "An evaluation of the state of affairs as good or bad.",
+      "A belief in something as good or desirable.",
+      "Is not adhered to by everyone but guides the actions of individuals in social interactions."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Rajesh performs poorly in college exam and is angry on his professor for failing him. He then comes home and is served lunch by his mother. He then screams at his mother for overcooking the rice and the sabji being over salted. What kind of defence mechanism is operating over here ?",
+    "options": [
+      "Intellectualization",
+      "Regression",
+      "Rationalization",
+      "Displacement"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The formula for calculating I Q is as follows :",
+    "options": [
+      "(Chronological Age/Mental age) × 100",
+      "(Mental age/Chronological Age) × 100",
+      "(Mental Age + 100)/Chronological Age",
+      "(Chronological age + 100)/Mental Age"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which part of the brain is responsible for behavioural and emotional responses ?",
+    "options": [
+      "Pons",
+      "Cerebellum",
+      "Limbic system",
+      "Medulla"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "In the theory of Repression, forgetting results due to :",
+    "options": [
+      "When previous learning competes with new learning",
+      "Pushing unpleasant memories into unconscious",
+      "Decay of memory trace",
+      "Inadequate practice"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The maximum effect of a drug is defined by :",
+    "options": [
+      "Therapeutic index",
+      "Potency",
+      "Efficacy",
+      "Adversity"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Best indicator of HIV prognosis :",
+    "options": [
+      "CD4 T cell count",
+      "CD8 T cell count",
+      "HIV RNA",
+      "ELISA"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which of the following aminoglycoside antibiotic has the broadest spectrum of antibacterial action ?",
+    "options": [
+      "Amikacin",
+      "Gentamicin",
+      "Neomycin",
+      "Streptomycin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which of the following food enhances the absorption of an iron supplement ?",
+    "options": [
+      "Baked potato",
+      "Orange juice",
+      "Green beans",
+      "Fortified Milk"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which of the following drugs is an example of proton pump inhibitor ?",
+    "options": [
+      "Pantoprazole",
+      "Famotidine",
+      "Ranitidine",
+      "Sucralfate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The side-effect of notroglycerin is :",
+    "options": [
+      "Vomiting",
+      "Diarrhoea",
+      "Headache",
+      "Constipation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "One of the following is not a live attenuated vaccine :",
+    "options": [
+      "BCG",
+      "Oral Polio",
+      "Measles",
+      "Diphtheria"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The most common causative organism of gas gangrene is :",
+    "options": [
+      "Clostridium tetani",
+      "Clostridium botulinum",
+      "Clostridium perfringens",
+      "Corynebacterium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The temperature that allows for most rapid growth during a short period of time is known as :",
+    "options": [
+      "Minimum temperature",
+      "Maximum temperature",
+      "Optimum temperature",
+      "Growth temperature"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which of the following immunity is obtained during a lifetime ?",
+    "options": [
+      "Acquired immunity",
+      "Active immunity",
+      "Passive immunity",
+      "None of the above"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "When a particular antigen is mixed with antibody in the presence of an electrolyte at suitable temperature and pH the particles are clumped, this is called :",
+    "options": [
+      "Precipitation",
+      "Agglutination",
+      "Electrophoresis",
+      "Cataphoresis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Immunoglobulin is associated with anaphylactic delayed hypersensitivity reaction :",
+    "options": [
+      "IgE",
+      "IgA",
+      "IgD",
+      "IgM"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most effective method of killing microorganisms is :",
+    "options": [
+      "High temperature",
+      "Low temperature",
+      "High temperature & high moisture",
+      "Low temperature & high moisture"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Immunity produced in the body after exposure to life pathogen is called :",
+    "options": [
+      "Active natural immunity",
+      "Passive natural immunity",
+      "Active artificial immunity",
+      "Passive artificial immunity"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "In human body Vitamin A is stored in :",
+    "options": [
+      "Liver",
+      "Pancreas",
+      "Spleen",
+      "Stomach"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which of the following are the examples of polysaccharides ?",
+    "options": [
+      "Cellulose, glucose, sucrose",
+      "Cellulose, starch, glucose",
+      "Glycogen, starch, lactose",
+      "Cellulose, starch, glycogen"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Adult BMR decrease with increase of the following :",
+    "options": [
+      "Body fat mass",
+      "Fever",
+      "Body surface area",
+      "Muscles"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Horny or toad skin is due to deficiency of :",
+    "options": [
+      "Proteins",
+      "Essential fatty acids",
+      "Carbohydrates",
+      "Essential minerals"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which of the following nutrition component is not included in the ICDS Programme ?",
+    "options": [
+      "Supplementary nutrition",
+      "Vitamin-A prophylaxis",
+      "Iron and folic acid distribution",
+      "Prophylaxis against Vitamin-D deficiency"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Triangular, pearly-white or yellowish foamy spots on the bulbar conjunctiva on either side of the cornea is known as :",
+    "options": [
+      "Keratomalacia",
+      "Bitot’s spot",
+      "Corneal xerosis",
+      "Conjunctival xerosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Histamine exerts its effect during inflammation by :",
+    "options": [
+      "Vasoconstriction of Post Capillary Sphincters",
+      "Constriction of large arteries",
+      "Acting on H₂ receptors on mast cells",
+      "Causing venular endothelial contraction"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Biological barriers include all except :",
+    "options": [
+      "Renal tubules",
+      "Cell membranes",
+      "Capillary walls",
+      "Placenta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Half-life does not depend on :",
+    "options": [
+      "Biotransformation",
+      "Time of drug absorption",
+      "Concentration of a drug in plasma",
+      "Rate of drug elimination"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Generalised oedema results from all of the following disorders except :",
+    "options": [
+      "Systemic hypertension",
+      "CCF",
+      "Cirrhosis",
+      "Nephrotic syndrome"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Pharmacodynamics involves the study of following except :",
+    "options": [
+      "Biological and therapeutic effects of drugs",
+      "Absorption and distribution of drugs",
+      "Mechanism of drug action",
+      "Drug interactions"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Disorders that predispose to thrombosis include all of the following except :",
+    "options": [
+      "Pancreatic cancer",
+      "Pregnancy",
+      "Vitamin K deficiency",
+      "Sickle cell anaemia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "How should you open airway of an unconscious patient with cervical injury ?",
+    "options": [
+      "Head tilt and jaw thrust",
+      "Head tilt and chin lift",
+      "Jaw thrust",
+      "Chin lift"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most preferred intramuscular injection site for children and infant is :",
+    "options": [
+      "Deltoid site",
+      "Dorsogluteal site",
+      "Ventro gluteal site",
+      "Vastus lateralis site"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Alarm, resistance and exhaustion are concepts related to :",
+    "options": [
+      "Health Belief Model",
+      "Trans theoretical Model",
+      "Health Promotion Model",
+      "General Adaptation Syndrome"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Lactated Ringer’s Solution is contraindicated in :",
+    "options": [
+      "Hypovolemia",
+      "Burns",
+      "Lactic Acidosis",
+      "Fluid lost as bile or diarrhoea"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which of the following is considered as an example of intentional tort ?",
+    "options": [
+      "Malpractice",
+      "Negligence",
+      "Breach of duty",
+      "False imprisonment"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Inj. KCl is administered as :",
+    "options": [
+      "IV bolus",
+      "Short IV",
+      "Fast IV infusion",
+      "Slow IV infusion"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Rovsing’s sign is positive in :",
+    "options": [
+      "Appendicitis",
+      "Cholecystitis",
+      "Meningitis",
+      "Peritonitis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "A client admitted to the hospital with a subarachnoid haemorrhage has complaints of severe headache, nuchal rigidity, and projectile vomiting. The nurse knows lumbar puncture (LP) would be contraindicated in this client because of :",
+    "options": [
+      "Vomiting continues",
+      "Intracranial pressure (ICP) has increased",
+      "The client needs mechanical ventilation",
+      "Blood is anticipated in the cerebrospinal fluid (CSF)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The removal of entire breast, pectoralis major and minor muscles and neck lymph nodes which is followed by skin grafting is a procedure called :",
+    "options": [
+      "Simple mastectomy",
+      "Modified mastectomy",
+      "Radical mastectomy",
+      "Modified radical mastectomy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Mr. Ayan age 54 years, with history of Type-2 diabetes for 20 years has been admitted to the hospital with chronic renal failure. When completing the initial assessment which signs would indicate circulatory overload ?",
+    "options": [
+      "Apprehension, poor tissue turgor, and bradycardia",
+      "An increase in blood pressure, apprehension, and shock",
+      "Cool, dry skin, gastric distension, and pleural oedema",
+      "Weight gain, coughing of frothy sputum, and jugular vein distention"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The most common serious complication of peritoneal dialysis is :",
+    "options": [
+      "Leakage",
+      "Bleeding",
+      "Peritonitis",
+      "Hypertriglyceridemia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Diabetes insipidus is caused by the deficiency of :",
+    "options": [
+      "Antidiuretic hormone",
+      "Insulin",
+      "Glucagon",
+      "Renin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Kernig’s sign is positive in :",
+    "options": [
+      "Appendicitis",
+      "Cholecystitis",
+      "Meningitis",
+      "Peritonitis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Sub diaphragmatic abdominal thrust performed to clear airway obstruction in the awake patient without ventilation is termed as :",
+    "options": [
+      "Leopold’s maneuvers",
+      "Pallach’s maneuvers",
+      "Heimlich maneuvers",
+      "Valsalva maneuvers"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "An 18 years boy is admitted in ITU with head injury. Following which medication will be administered to him to prevent the development of Cerebral Oedema :",
+    "options": [
+      "Lasix",
+      "Mannitol",
+      "Aminophylline",
+      "All of the above"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Pilocarpine (0-5%) drops are indicated in the treatment of :",
+    "options": [
+      "Acute Iritis",
+      "Acute Uveitis",
+      "Cataract",
+      "Glaucoma"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "A very low birth weight baby whose birth weight is :",
+    "options": [
+      "1000 gm",
+      "< 1500 gm",
+      "> 1500 gm",
+      "2000 gm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "What is the normal body temperature of a new born ?",
+    "options": [
+      "36.5-37.5 degree Centigrade",
+      "35-37 degree Centigrade",
+      "36-37 degree Centigrade",
+      "36.5-38.5 degree Centigrade"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "TOF is combination of all except :",
+    "options": [
+      "VSD",
+      "Right ventricular hypertrophy",
+      "Overriding of aorta",
+      "Patent ductus arteriosus"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "1st dose of Vit-A oil supplementation to an infant should be :",
+    "options": [
+      "1 Lakh units",
+      "2 Lakh units",
+      "3 lakh units",
+      "4 lakh units"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Quincy means:",
+    "options": [
+      "Peritonsillar abscess",
+      "Lung abscess",
+      "Tonsillitis",
+      "Pharyngitis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Bi-dextrous – reach achieved at the age of :",
+    "options": [
+      "Two months",
+      "Six months",
+      "Four months",
+      "Nine months"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Scarlet fever occurs due to :",
+    "options": [
+      "Gr A β Hemolytic streptococcus infection",
+      "Staphylococcus aureus infection",
+      "Streptococcus Pneumoniae infection",
+      "Enterococci infection"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which of the following is not seen in nephrotic syndrome ?",
+    "options": [
+      "Oedema",
+      "Proteinuria",
+      "Hypoproteinaemia",
+      "Hypocholesteraemia"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Kwashiorkor triad includes all except",
+    "options": [
+      "Psychomotor changes",
+      "Hypoglycaemia",
+      "Oedema",
+      "Growth retardation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Anterior fontanelle closes at :",
+    "options": [
+      "2-3 months",
+      "4-7 months",
+      "9-12 months",
+      "18-24 months"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Emotional release or discharge after recalling a painful experience :",
+    "options": [
+      "Ambivalence",
+      "Apathy",
+      "Affect",
+      "Abreaction"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Inability to have goal directed association of thought :",
+    "options": [
+      "Circumstantiality",
+      "Incoherence",
+      "Tangentiality",
+      "Phobia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Therapeutic level of blood lithium is :",
+    "options": [
+      "> 2meq/l",
+      "0.8-1.2 meq/l",
+      "0.6-1.2 meq/l",
+      "1.4-2meq/l"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Autism mainly involves :",
+    "options": [
+      "Over activity and inattention",
+      "Poor eating skills",
+      "Poor intelligence",
+      "Poor communication"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "‘Chasing the dragon’ refers to the smoking of :",
+    "options": [
+      "Nicotine",
+      "Heroin",
+      "Hashish",
+      "Bhang"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "People with Schizophrenia who has thought disorders, hallucinations and delusions are set to be ?",
+    "options": [
+      "Intrusive symptoms",
+      "Negative symptoms",
+      "Extrusive symptoms",
+      "Positive symptoms"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "A person has alternating period of elation and depression. During elation he is full of energy, cheerful and during depression he is silent, tied. These symptoms are :",
+    "options": [
+      "Cyclothymic personality",
+      "Melancholic personality",
+      "Hypomanic personality",
+      "Schizoid personality"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "An individual is aware of the stimuli but he is trying to oppose these actively or passively. It is frequently expressed in form of mutism or refusal of food. The term is used for this motor activity is :",
+    "options": [
+      "Repetitious behaviour",
+      "Negativism",
+      "Compulsion",
+      "Automatic behaviours"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is a not common symptom of depression ?",
+    "options": [
+      "Delusion",
+      "Lethargy",
+      "Insomnia",
+      "Poor appetite"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Constant feeling of fear and apprehension is diagnosed as :",
+    "options": [
+      "Hypomanic episode",
+      "Impulsivity",
+      "Anxiety",
+      "Depression"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Psychotropic medications that block the acetylcholine receptors may result one of the following side effects :",
+    "options": [
+      "Dry mouth",
+      "Sexual dysfunction",
+      "Nausea",
+      "Priapism"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Most common complication of ectopic pregnancy :",
+    "options": [
+      "Pain",
+      "Vaginal bleeding",
+      "Infection",
+      "Amenorrhea"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Signs of magnesium sulphate toxicity, include all of these except :",
+    "options": [
+      "Respiratory rate less than 12 breath/min",
+      "Knee jerk absent",
+      "Urine output more than 30 ml/hr",
+      "Serum magnesium level 4-7 mEq/litre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Best parameter for estimation of foetal age by ultrasound in 3rd trimester is :",
+    "options": [
+      "Femur length",
+      "BPD",
+      "Abdominal circumference",
+      "Chest circumference"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Hyperemesis gravidarum may occur because of excess :",
+    "options": [
+      "Oestrogen",
+      "Progesterone",
+      "hCG",
+      "Oxytocin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The clinical entity where the process of abortion has started but has not progressed to a state from which recovery is not possible is :",
+    "options": [
+      "Threatened abortion",
+      "Inevitable abortion",
+      "Missed abortion",
+      "Complete abortion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Prolactin is released from the :",
+    "options": [
+      "Anterior pituitary",
+      "Posterior pituitary",
+      "Ovaries",
+      "Adrenal gland"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Osianders sign means :",
+    "options": [
+      "Bluish discoloration of vagina",
+      "Softening of cervix",
+      "Pulsations felt in lateral vaginal fornices",
+      "Foetal parts felt on abdominal examination"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Ideal time for Cu-T insertion is :",
+    "options": [
+      "4-5 days prior to menstruation",
+      "7 days after menstruation",
+      "Any time of menstrual period",
+      "4-5 days of menstruations"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Placenta praevia in which placenta completely cover the internal OS is known as :",
+    "options": [
+      "Low lying Placenta praevia",
+      "Central Placenta praevia",
+      "Marginal Placenta praevia",
+      "Partial Placenta praevia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "In Rh incompatibility, the colour of amniotic fluid is :",
+    "options": [
+      "Green colour",
+      "Golden colour",
+      "Dark brown",
+      "Greenish yellow"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "High level of maternal serum alpha feto protein indicates :",
+    "options": [
+      "Foetal Renal defect",
+      "Cleft lip",
+      "Neural Tube defect",
+      "Fetal Cardiac defect"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which of the following is not the job of 'ASHA', with reference to the NRHM ?",
+    "options": [
+      "Accompanying women to the health facility for a antenatal check up.",
+      "Using pregnancy test kits for early detection of pregnancy.",
+      "Providing information on nutrition and immunization.",
+      "Conducting the delivery of a baby."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "PMJAY is acronym for",
+    "options": [
+      "Pradhan Mantri Jan Arogya Yojana",
+      "Pradhan Mantri Janani Arogya Yojana",
+      "Pradhan Mantri Jan-Swasthya Arogya Yojana",
+      "None of these"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Zero incidence is :",
+    "options": [
+      "Elimination of disease",
+      "Eradication of disease",
+      "Elimination of infection",
+      "Eradication of infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "First case comes to notice of physician is called :",
+    "options": [
+      "Primary case",
+      "Index case",
+      "Secondary case",
+      "Refer case"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Pap smear is an example of :",
+    "options": [
+      "Primary level of prevention",
+      "Secondary level of prevention",
+      "Tertiary level of prevention",
+      "None of the above"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which one is the Zoonotic disease ?",
+    "options": [
+      "Hydatid cyst",
+      "Malaria",
+      "Filariasis",
+      "Dengue fever"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Sample registration system is done once in :",
+    "options": [
+      "6 months",
+      "1 year",
+      "3 months",
+      "2 years"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Pentavalent vaccine should be administered :",
+    "options": [
+      "After 6 weeks & less than one year",
+      "Within 6 weeks",
+      "After 6 months to 3 years",
+      "At birth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The headquarters of UNICEF is in :",
+    "options": [
+      "Paris",
+      "Geneva",
+      "Rome",
+      "New York"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Wuchereria bancroftii is the causative organism of :",
+    "options": [
+      "Kala Azar",
+      "Filaria",
+      "Leprosy",
+      "None of the above"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Vertical transmission refers to a mode of transmission of disease agent by the agency of :",
+    "options": [
+      "Placenta",
+      "Blood transfusion",
+      "Breast milk",
+      "(A) and (C)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The height of a child becomes double of his/her birth height at the age of :",
+    "options": [
+      "1 year",
+      "2 years",
+      "3 years",
+      "4 years"
+    ],
+    "correctIndex": 3
+  }
+]

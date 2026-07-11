@@ -1,0 +1,2002 @@
+[
+  {
+    "text": "The normal duration of pregnancy is:",
+    "options": [
+      "250 days",
+      "260 days",
+      "280 days",
+      "300 days"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Naegele’s rule is used to calculate:",
+    "options": [
+      "Date of conception",
+      "Expected date of delivery",
+      "Ovulation day",
+      "Fetal growth"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The first stage of labor ends with:",
+    "options": [
+      "Full cervical dilation",
+      "Delivery of baby",
+      "Placental expulsion",
+      "Rupture of membranes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The second stage of labor is from:",
+    "options": [
+      "Onset of labor to dilation",
+      "Full dilation to delivery of baby",
+      "Delivery to placenta expulsion",
+      "Placenta to recovery"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The third stage of labor involves:",
+    "options": [
+      "Cervical dilation",
+      "Baby delivery",
+      "Placenta delivery",
+      "Uterine contraction"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Quickening is felt at:",
+    "options": [
+      "8 weeks",
+      "12 weeks",
+      "16–20 weeks",
+      "28 weeks"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The hormone responsible for maintaining pregnancy is:",
+    "options": [
+      "Estrogen",
+      "Progesterone",
+      "Oxytocin",
+      "Prolactin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal fetal heart rate is:",
+    "options": [
+      "80–100 bpm",
+      "100–120 bpm",
+      "120–160 bpm",
+      "160–200 bpm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Fundal height at 20 weeks is at:",
+    "options": [
+      "Umbilicus",
+      "Pubic symphysis",
+      "Xiphisternum",
+      "Below umbilicus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common presentation of fetus is:",
+    "options": [
+      "Breech",
+      "Transverse",
+      "Cephalic",
+      "Shoulder"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Preeclampsia is characterized by:",
+    "options": [
+      "Hypotension",
+      "Hypertension + proteinuria",
+      "Fever",
+      "Anemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Eclampsia includes:",
+    "options": [
+      "Edema",
+      "Convulsions",
+      "Hypertension",
+      "Proteinuria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best indicator of fetal well-being is:",
+    "options": [
+      "Maternal weight",
+      "Fetal movement",
+      "BP",
+      "Temperature"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "APGAR score is assessed at:",
+    "options": [
+      "1 and 5 minutes",
+      "10 minutes",
+      "Immediately after birth only",
+      "30 minutes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Normal amniotic fluid is:",
+    "options": [
+      "Green",
+      "Clear",
+      "Yellow",
+      "Thick"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main cause of postpartum hemorrhage is:",
+    "options": [
+      "Infection",
+      "Uterine atony",
+      "Trauma",
+      "Retained placenta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Oxytocin is used for:",
+    "options": [
+      "Pain relief",
+      "Inducing labor",
+      "Preventing infection",
+      "Lowering BP"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Colostrum is rich in:",
+    "options": [
+      "Fat",
+      "Carbohydrates",
+      "Antibodies",
+      "Water"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal weight gain in pregnancy is:",
+    "options": [
+      "2–3 kg",
+      "5–6 kg",
+      "10–12 kg",
+      "15–20 kg"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The safest period for drug administration in pregnancy is:",
+    "options": [
+      "First trimester",
+      "Second trimester",
+      "Third trimester",
+      "Any time"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal duration of the first stage of labor in primigravida is:",
+    "options": [
+      "4–6 hours",
+      "6–8 hours",
+      "12–16 hours",
+      "18–24 hours"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Engagement of fetal head occurs when:",
+    "options": [
+      "Head enters pelvis",
+      "Head reaches cervix",
+      "Head is delivered",
+      "Placenta separates"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The lie of the fetus refers to:",
+    "options": [
+      "Relation of fetal head to pelvis",
+      "Relation of fetal long axis to maternal axis",
+      "Position of placenta",
+      "Fetal attitude"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The presenting part in vertex presentation is:",
+    "options": [
+      "Face",
+      "Brow",
+      "Occiput",
+      "Chin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of antepartum hemorrhage is:",
+    "options": [
+      "Placenta previa",
+      "Abruptio placentae",
+      "Trauma",
+      "Infection"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The drug of choice in eclampsia is:",
+    "options": [
+      "Diazepam",
+      "Magnesium sulfate",
+      "Oxytocin",
+      "Atropine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "A positive Chadwick’s sign indicates:",
+    "options": [
+      "Bluish discoloration of cervix",
+      "Breast enlargement",
+      "Uterine contraction",
+      "Fetal movement"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The placenta is normally attached to:",
+    "options": [
+      "Cervix",
+      "Lower uterine segment",
+      "Upper uterine segment",
+      "Vagina"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The function of amniotic fluid is:",
+    "options": [
+      "Provide nutrition",
+      "Maintain temperature",
+      "Protect fetus",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The most common type of abortion is:",
+    "options": [
+      "Missed abortion",
+      "Threatened abortion",
+      "Spontaneous abortion",
+      "Induced abortion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Braxton Hicks contractions are:",
+    "options": [
+      "Painful",
+      "Regular",
+      "Irregular and painless",
+      "Continuous"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The fetal skull is largest at:",
+    "options": [
+      "Face",
+      "Base",
+      "Vault",
+      "Occiput"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main purpose of antenatal care is:",
+    "options": [
+      "Prevent complications",
+      "Treat diseases",
+      "Ensure safe delivery",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The normal site of fetal heart sound is:",
+    "options": [
+      "Above umbilicus",
+      "Below umbilicus (in cephalic)",
+      "At chest",
+      "At back"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common complication of prolonged labor is:",
+    "options": [
+      "Hypertension",
+      "Infection",
+      "Diabetes",
+      "Anemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best method to confirm pregnancy is:",
+    "options": [
+      "Urine test",
+      "Blood test",
+      "Ultrasound",
+      "Physical exam"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Lochia serosa lasts for:",
+    "options": [
+      "1–2 days",
+      "3–4 days",
+      "5–10 days",
+      "2–3 weeks"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The first milk produced after delivery is:",
+    "options": [
+      "Mature milk",
+      "Colostrum",
+      "Foremilk",
+      "Hindmilk"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of maternal mortality is:",
+    "options": [
+      "Infection",
+      "Hemorrhage",
+      "Hypertension",
+      "Diabetes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The term gravida refers to:",
+    "options": [
+      "Number of births",
+      "Number of pregnancies",
+      "Number of abortions",
+      "Number of living children"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most reliable sign of pregnancy is:",
+    "options": [
+      "Amenorrhea",
+      "Nausea",
+      "Fetal heart sound",
+      "Breast changes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The danger sign in pregnancy is:",
+    "options": [
+      "Mild nausea",
+      "Slight edema",
+      "Vaginal bleeding",
+      "Weight gain"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal hemoglobin level in pregnancy is:",
+    "options": [
+      "8 g/dL",
+      "10 g/dL",
+      "11 g/dL",
+      "13 g/dL"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The drug used to prevent postpartum hemorrhage is:",
+    "options": [
+      "Insulin",
+      "Oxytocin",
+      "Diazepam",
+      "Antibiotic"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The presenting part in breech presentation is:",
+    "options": [
+      "Head",
+      "Buttocks",
+      "Shoulder",
+      "Face"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of fetal distress is:",
+    "options": [
+      "Hypoxia",
+      "Infection",
+      "Trauma",
+      "Diabetes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The normal pelvic shape is:",
+    "options": [
+      "Android",
+      "Gynecoid",
+      "Anthropoid",
+      "Platypelloid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The average fetal weight at term is:",
+    "options": [
+      "1.5 kg",
+      "2.0 kg",
+      "2.5 kg",
+      "3.0 kg"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The most common cause of neonatal death is:",
+    "options": [
+      "Infection",
+      "Prematurity",
+      "Asphyxia",
+      "Trauma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The first fetal movement is called:",
+    "options": [
+      "Ballottement",
+      "Quickening",
+      "Lightening",
+      "Engagement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The condition where placenta covers cervical opening is:",
+    "options": [
+      "Abruptio placentae",
+      "Placenta previa",
+      "Ectopic pregnancy",
+      "Hydatidiform mole"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The hormone responsible for milk secretion is:",
+    "options": [
+      "Oxytocin",
+      "Progesterone",
+      "Prolactin",
+      "Estrogen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal duration of lochia rubra is:",
+    "options": [
+      "1–2 days",
+      "3–4 days",
+      "5–7 days",
+      "10 days"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most important sign of uterine rupture is:",
+    "options": [
+      "Fever",
+      "Severe abdominal pain",
+      "Hypertension",
+      "Edema"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The safest position during pregnancy is:",
+    "options": [
+      "Supine",
+      "Prone",
+      "Left lateral",
+      "Sitting"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The condition of vomiting in pregnancy is called:",
+    "options": [
+      "Hyperemesis gravidarum",
+      "Eclampsia",
+      "Placenta previa",
+      "Abortion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The main cause of ectopic pregnancy is:",
+    "options": [
+      "Uterine infection",
+      "Tubal blockage",
+      "Hormonal imbalance",
+      "Trauma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The sign of placental separation is:",
+    "options": [
+      "Pain",
+      "Uterus becomes globular",
+      "Bleeding",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The instrument used to hear fetal heart sound is:",
+    "options": [
+      "Stethoscope",
+      "Fetoscope",
+      "Thermometer",
+      "Sphygmomanometer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of anemia in pregnancy is:",
+    "options": [
+      "Vitamin deficiency",
+      "Iron deficiency",
+      "Infection",
+      "Blood loss"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Lightening occurs when:",
+    "options": [
+      "Placenta separates",
+      "Fetal head descends into pelvis",
+      "Labor starts",
+      "Membranes rupture"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal pH of amniotic fluid is:",
+    "options": [
+      "Acidic",
+      "Neutral",
+      "Slightly alkaline",
+      "Highly alkaline"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The commonest cause of polyhydramnios is:",
+    "options": [
+      "Diabetes",
+      "Hypertension",
+      "Infection",
+      "Anemia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The normal amount of amniotic fluid at term is:",
+    "options": [
+      "200 ml",
+      "500 ml",
+      "1000 ml",
+      "2000 ml"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of oligohydramnios is:",
+    "options": [
+      "Diabetes",
+      "Renal agenesis",
+      "Hypertension",
+      "Infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The partogram is used to:",
+    "options": [
+      "Measure BP",
+      "Monitor labor progress",
+      "Check fetal weight",
+      "Measure height"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal duration of second stage of labor in primigravida is:",
+    "options": [
+      "10–20 minutes",
+      "30–60 minutes",
+      "1–2 hours",
+      "3–4 hours"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The first sign of labor is:",
+    "options": [
+      "Show",
+      "Pain",
+      "Rupture of membranes",
+      "Cervical dilation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of obstructed labor is:",
+    "options": [
+      "Malpresentation",
+      "CPD (Cephalopelvic disproportion)",
+      "Twins",
+      "Infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The fetal attitude refers to:",
+    "options": [
+      "Position of fetus",
+      "Relation of fetal parts to each other",
+      "Relation to pelvis",
+      "Lie"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The drug used to stop preterm labor is:",
+    "options": [
+      "Oxytocin",
+      "Tocolytics",
+      "Antibiotics",
+      "Analgesics"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal fetal movement count per day is:",
+    "options": [
+      "2–3",
+      "5–10",
+      "10–12",
+      "20–25"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common complication of multiple pregnancy is:",
+    "options": [
+      "Hypertension",
+      "Preterm labor",
+      "Anemia",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The placenta develops from:",
+    "options": [
+      "Endometrium only",
+      "Chorion only",
+      "Both maternal & fetal tissue",
+      "Myometrium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal fetal presentation at term is:",
+    "options": [
+      "Breech",
+      "Transverse",
+      "Cephalic",
+      "Shoulder"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The cause of Rh incompatibility is:",
+    "options": [
+      "ABO mismatch",
+      "Rh negative mother & Rh positive fetus",
+      "Same blood group",
+      "Infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The first stage of labor has phases:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main function of placenta is:",
+    "options": [
+      "Nutrition",
+      "Respiration",
+      "Excretion",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The most common infection during pregnancy is:",
+    "options": [
+      "UTI",
+      "TB",
+      "HIV",
+      "Malaria"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The condition of high BP in pregnancy is:",
+    "options": [
+      "Eclampsia",
+      "Preeclampsia",
+      "Hypertension",
+      "Hypotension"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best method to assess fetal distress is:",
+    "options": [
+      "BP",
+      "FHR monitoring",
+      "Weight",
+      "Temperature"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The term para refers to:",
+    "options": [
+      "Number of pregnancies",
+      "Number of births beyond viability",
+      "Number of abortions",
+      "Number of living children"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common type of placenta previa is:",
+    "options": [
+      "Type I",
+      "Type II",
+      "Type III",
+      "Type IV"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The condition of decreased fetal movement indicates:",
+    "options": [
+      "Normal",
+      "Fetal distress",
+      "Healthy baby",
+      "Growth"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The hormone responsible for uterine contraction is:",
+    "options": [
+      "Estrogen",
+      "Progesterone",
+      "Oxytocin",
+      "Prolactin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of postpartum infection is:",
+    "options": [
+      "Poor hygiene",
+      "Hemorrhage",
+      "Diabetes",
+      "Hypertension"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The normal duration of puerperium is:",
+    "options": [
+      "2 weeks",
+      "4 weeks",
+      "6 weeks",
+      "8 weeks"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The first breastfeeding should start within:",
+    "options": [
+      "1 hour",
+      "6 hours",
+      "12 hours",
+      "24 hours"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common cause of mastitis is:",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Fungus",
+      "Allergy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal weight of placenta is:",
+    "options": [
+      "200 g",
+      "300 g",
+      "500 g",
+      "800 g"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The sign of fetal hypoxia is:",
+    "options": [
+      "Increased movement",
+      "Decreased movement",
+      "Normal movement",
+      "No change"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best position during labor is:",
+    "options": [
+      "Supine",
+      "Lithotomy",
+      "Upright",
+      "Prone"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of abortion in early pregnancy is:",
+    "options": [
+      "Infection",
+      "Genetic abnormality",
+      "Trauma",
+      "Stress"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The term viability means:",
+    "options": [
+      "Ability to conceive",
+      "Ability of fetus to survive outside uterus",
+      "Fetal movement",
+      "Labor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of neonatal jaundice is:",
+    "options": [
+      "Infection",
+      "Physiological",
+      "Hemolysis",
+      "Trauma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main source of iron during pregnancy is:",
+    "options": [
+      "Fruits",
+      "Vegetables",
+      "Supplements",
+      "Milk"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The condition of excessive bleeding after delivery is:",
+    "options": [
+      "Abortion",
+      "Hemorrhage",
+      "Shock",
+      "Infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best contraceptive during lactation is:",
+    "options": [
+      "IUCD",
+      "Condom",
+      "Pills",
+      "Natural method"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common site of ectopic pregnancy is:",
+    "options": [
+      "Ovary",
+      "Cervix",
+      "Fallopian tube",
+      "Abdomen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The sign of true labor is:",
+    "options": [
+      "Irregular contractions",
+      "No cervical change",
+      "Regular contractions with dilation",
+      "No pain"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The denominator in vertex presentation is:",
+    "options": [
+      "Mentum",
+      "Occiput",
+      "Sacrum",
+      "Acromion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The denominator in face presentation is:",
+    "options": [
+      "Occiput",
+      "Mentum",
+      "Sacrum",
+      "Brow"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal duration of third stage of labor is:",
+    "options": [
+      "5–10 minutes",
+      "10–20 minutes",
+      "30–40 minutes",
+      "1 hour"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of delayed postpartum hemorrhage is:",
+    "options": [
+      "Uterine atony",
+      "Retained placental fragments",
+      "Trauma",
+      "Infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The Bishop score is used to assess:",
+    "options": [
+      "Fetal heart rate",
+      "Cervical readiness",
+      "Placental position",
+      "Pelvic size"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The longest diameter of fetal skull is:",
+    "options": [
+      "Biparietal",
+      "Occipitofrontal",
+      "Suboccipitobregmatic",
+      "Mentovertical"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The most favorable diameter for engagement is:",
+    "options": [
+      "Occipitofrontal",
+      "Biparietal",
+      "Suboccipitobregmatic",
+      "Mentovertical"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal liquor amnii color in fetal distress is:",
+    "options": [
+      "Clear",
+      "Yellow",
+      "Green",
+      "Red"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The main risk of placenta previa is:",
+    "options": [
+      "Infection",
+      "Hemorrhage",
+      "Hypertension",
+      "Anemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common indication for cesarean section is:",
+    "options": [
+      "Hypertension",
+      "CPD",
+      "Anemia",
+      "Infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The hormone responsible for uterine relaxation is:",
+    "options": [
+      "Estrogen",
+      "Progesterone",
+      "Oxytocin",
+      "Prolactin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The average length of umbilical cord is:",
+    "options": [
+      "20 cm",
+      "30 cm",
+      "50 cm",
+      "80 cm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The first maneuver of Leopold’s is used to determine:",
+    "options": [
+      "Fetal lie",
+      "Fundal part",
+      "Presentation",
+      "Engagement"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The second maneuver of Leopold’s determines:",
+    "options": [
+      "Fundal part",
+      "Fetal back",
+      "Engagement",
+      "Pelvic adequacy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The third maneuver of Leopold’s determines:",
+    "options": [
+      "Fundal height",
+      "Presentation",
+      "Engagement",
+      "Fetal heart"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The fourth maneuver of Leopold’s determines:",
+    "options": [
+      "Lie",
+      "Attitude",
+      "Engagement",
+      "Placenta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of intrauterine fetal death is:",
+    "options": [
+      "Infection",
+      "Hypertension",
+      "Placental insufficiency",
+      "Trauma"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The sign of cord prolapse is:",
+    "options": [
+      "Pain",
+      "Bleeding",
+      "Cord felt in vagina",
+      "Fever"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of cord prolapse is:",
+    "options": [
+      "Cephalic presentation",
+      "Breech/transverse lie",
+      "Normal labor",
+      "Hypertension"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main complication of polyhydramnios is:",
+    "options": [
+      "Hypoxia",
+      "Preterm labor",
+      "Anemia",
+      "Infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main complication of oligohydramnios is:",
+    "options": [
+      "Fetal deformity",
+      "Hypertension",
+      "Diabetes",
+      "Infection"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common type of twin pregnancy is:",
+    "options": [
+      "Monozygotic",
+      "Dizygotic",
+      "Conjoined",
+      "Identical"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The safest method of induction is:",
+    "options": [
+      "Oxytocin",
+      "Prostaglandins",
+      "Artificial rupture",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The most common complication of cesarean section is:",
+    "options": [
+      "Infection",
+      "Hemorrhage",
+      "Thrombosis",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The most common fetal position is:",
+    "options": [
+      "LOA",
+      "ROA",
+      "LOP",
+      "ROP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The term station refers to:",
+    "options": [
+      "Fetal lie",
+      "Fetal descent",
+      "Cervical dilation",
+      "Pelvic size"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The sign of uterine inversion is:",
+    "options": [
+      "Pain",
+      "Mass protruding from vagina",
+      "Fever",
+      "Hypertension"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of uterine rupture is:",
+    "options": [
+      "Trauma",
+      "Previous scar",
+      "Infection",
+      "Anemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal duration of lactation is:",
+    "options": [
+      "3 months",
+      "6 months",
+      "1 year",
+      "2 years"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The hormone responsible for milk ejection is:",
+    "options": [
+      "Prolactin",
+      "Oxytocin",
+      "Estrogen",
+      "Progesterone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of mastitis is:",
+    "options": [
+      "Poor latch",
+      "Infection",
+      "Trauma",
+      "Allergy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main cause of neonatal hypothermia is:",
+    "options": [
+      "Infection",
+      "Exposure to cold",
+      "Hypoxia",
+      "Trauma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best method of newborn resuscitation is:",
+    "options": [
+      "Oxygen",
+      "Ventilation",
+      "Drugs",
+      "Massage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The first step in management of PPH is:",
+    "options": [
+      "Surgery",
+      "Uterine massage",
+      "Antibiotics",
+      "Blood transfusion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of PPH is:",
+    "options": [
+      "Trauma",
+      "Atony",
+      "Retained placenta",
+      "Infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The main sign of fetal distress is:",
+    "options": [
+      "Increased FHR",
+      "Decreased FHR",
+      "Normal FHR",
+      "No change"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of obstructed labor is:",
+    "options": [
+      "CPD",
+      "Malpresentation",
+      "Tumor",
+      "Twins"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The main cause of maternal death is:",
+    "options": [
+      "Infection",
+      "Hemorrhage",
+      "Anemia",
+      "Hypertension"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of fetal malpresentation is:",
+    "options": [
+      "Prematurity",
+      "Polyhydramnios",
+      "Multiparity",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The normal fetal heart sound is best heard at:",
+    "options": [
+      "Back of fetus",
+      "Abdomen center",
+      "Chest",
+      "Head"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The term effacement refers to:",
+    "options": [
+      "Cervical dilation",
+      "Cervical thinning",
+      "Fetal descent",
+      "Uterine contraction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of prolonged labor is:",
+    "options": [
+      "CPD",
+      "Weak contractions",
+      "Malpresentation",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The normal diameter of pelvic inlet is:",
+    "options": [
+      "8 cm",
+      "10 cm",
+      "11 cm",
+      "13 cm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The best position for placenta is:",
+    "options": [
+      "Fundal",
+      "Cervical",
+      "Vaginal",
+      "Lower segment"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common complication of Rh incompatibility is:",
+    "options": [
+      "Anemia",
+      "Hydrops fetalis",
+      "Infection",
+      "Trauma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The earliest sign of pregnancy is:",
+    "options": [
+      "Amenorrhea",
+      "Quickening",
+      "FHR",
+      "Breast changes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most reliable test for fetal well-being is:",
+    "options": [
+      "USG",
+      "NST",
+      "BP",
+      "Weight"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of preterm labor is:",
+    "options": [
+      "Infection",
+      "Stress",
+      "Trauma",
+      "Hypertension"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The main complication of breech delivery is:",
+    "options": [
+      "Hemorrhage",
+      "Head entrapment",
+      "Infection",
+      "Anemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal APGAR score is:",
+    "options": [
+      "0–3",
+      "4–6",
+      "7–10",
+      "10–15"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The denominator in breech presentation is:",
+    "options": [
+      "Sacrum",
+      "Occiput",
+      "Mentum",
+      "Acromion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The denominator in shoulder presentation is:",
+    "options": [
+      "Sacrum",
+      "Acromion",
+      "Mentum",
+      "Occiput"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The mechanism of labor in vertex presentation begins with:",
+    "options": [
+      "Engagement",
+      "Flexion",
+      "Internal rotation",
+      "Extension"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The cardinal movements of labor are:",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common position in vertex presentation is:",
+    "options": [
+      "ROP",
+      "LOA",
+      "LOP",
+      "ROA"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of uterine atony is:",
+    "options": [
+      "Prolonged labor",
+      "Overdistended uterus",
+      "Multiparity",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The drug contraindicated in pregnancy is:",
+    "options": [
+      "Iron",
+      "Folic acid",
+      "Tetracycline",
+      "Calcium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of anemia in pregnancy in India is:",
+    "options": [
+      "Vitamin deficiency",
+      "Iron deficiency",
+      "Blood loss",
+      "Infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal fetal heart rate variability indicates:",
+    "options": [
+      "Distress",
+      "Well-being",
+      "Hypoxia",
+      "Infection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of fetal hypoxia during labor is:",
+    "options": [
+      "Cord compression",
+      "Infection",
+      "Trauma",
+      "Diabetes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The normal duration of latent phase is:",
+    "options": [
+      "2–4 hours",
+      "6–8 hours",
+      "8–12 hours",
+      "12–16 hours"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The active phase begins at cervical dilation of:",
+    "options": [
+      "2 cm",
+      "3 cm",
+      "4 cm",
+      "6 cm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal rate of cervical dilation in primigravida is:",
+    "options": [
+      "0.5 cm/hr",
+      "1 cm/hr",
+      "2 cm/hr",
+      "3 cm/hr"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The sign of true labor pain is:",
+    "options": [
+      "Irregular",
+      "Relieved by rest",
+      "Progressive increase",
+      "No cervical change"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of PROM is:",
+    "options": [
+      "Infection",
+      "Trauma",
+      "Hypertension",
+      "Anemia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The main risk of PROM is:",
+    "options": [
+      "Infection",
+      "Hemorrhage",
+      "Diabetes",
+      "Hypertension"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The normal fetal position is:",
+    "options": [
+      "Flexed",
+      "Extended",
+      "Neutral",
+      "Hyperextended"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common complication of breech presentation is:",
+    "options": [
+      "Cord prolapse",
+      "Hemorrhage",
+      "Infection",
+      "Anemia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The best management of eclampsia is:",
+    "options": [
+      "Antibiotics",
+      "Magnesium sulfate",
+      "Insulin",
+      "Diuretics"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of maternal death worldwide is:",
+    "options": [
+      "Infection",
+      "Hemorrhage",
+      "Hypertension",
+      "Anemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal weight gain per week in 2nd trimester is:",
+    "options": [
+      "0.2 kg",
+      "0.3 kg",
+      "0.4 kg",
+      "0.5 kg"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The most common cause of IUGR is:",
+    "options": [
+      "Hypertension",
+      "Diabetes",
+      "Infection",
+      "Trauma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The term show refers to:",
+    "options": [
+      "Bleeding",
+      "Mucus discharge with blood",
+      "Liquor",
+      "Pain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of placenta abruption is:",
+    "options": [
+      "Hypertension",
+      "Infection",
+      "Trauma",
+      "Diabetes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The sign of placental abruption is:",
+    "options": [
+      "Painless bleeding",
+      "Painful bleeding",
+      "No bleeding",
+      "Fever"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common type of abortion is:",
+    "options": [
+      "Missed",
+      "Threatened",
+      "Spontaneous",
+      "Septic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most reliable sign of placental separation is:",
+    "options": [
+      "Pain",
+      "Cord lengthening",
+      "Bleeding",
+      "Uterus contraction"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal diameter of biparietal diameter is:",
+    "options": [
+      "7 cm",
+      "8 cm",
+      "9.5 cm",
+      "11 cm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of prolonged pregnancy is:",
+    "options": [
+      "Hormonal imbalance",
+      "Unknown",
+      "Infection",
+      "Trauma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best method to detect fetal anomalies is:",
+    "options": [
+      "X-ray",
+      "USG",
+      "Blood test",
+      "Urine test"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of postpartum fever is:",
+    "options": [
+      "UTI",
+      "Endometritis",
+      "Mastitis",
+      "Pneumonia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The sign of dehydration in pregnancy is:",
+    "options": [
+      "Edema",
+      "Dry skin",
+      "Weight gain",
+      "Hypertension"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal duration of menstrual cycle is:",
+    "options": [
+      "21 days",
+      "28 days",
+      "35 days",
+      "40 days"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common complication of vacuum delivery is:",
+    "options": [
+      "Infection",
+      "Cephalhematoma",
+      "Hemorrhage",
+      "Shock"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common complication of forceps delivery is:",
+    "options": [
+      "Injury",
+      "Infection",
+      "Hemorrhage",
+      "Shock"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The main cause of neonatal asphyxia is:",
+    "options": [
+      "Hypoxia",
+      "Infection",
+      "Trauma",
+      "Anemia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The best method of contraception postpartum is:",
+    "options": [
+      "IUCD",
+      "Condom",
+      "Pills",
+      "Sterilization"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common cause of infertility is:",
+    "options": [
+      "Male factor",
+      "Female factor",
+      "Both",
+      "Unknown"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The term multipara means:",
+    "options": [
+      "One pregnancy",
+      "Two pregnancies",
+      "More than one birth",
+      "No pregnancy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common site of fertilization is:",
+    "options": [
+      "Ovary",
+      "Ampulla of tube",
+      "Uterus",
+      "Cervix"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The hormone detected in pregnancy test is:",
+    "options": [
+      "Estrogen",
+      "Progesterone",
+      "hCG",
+      "Prolactin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The most common cause of early neonatal death is:",
+    "options": [
+      "Prematurity",
+      "Infection",
+      "Trauma",
+      "Jaundice"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The best indicator of placental function is:",
+    "options": [
+      "BP",
+      "Fetal growth",
+      "Temperature",
+      "Pulse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The most common cause of maternal anemia is:",
+    "options": [
+      "Iron deficiency",
+      "Blood loss",
+      "Infection",
+      "Vitamin deficiency"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The condition of low birth weight is:",
+    "options": [
+      "<3 kg",
+      "<2.5 kg",
+      "<2 kg",
+      "<1.5 kg"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best method to monitor uterine contractions is:",
+    "options": [
+      "Palpation",
+      "CTG",
+      "USG",
+      "X-ray"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common cause of postpartum depression is:",
+    "options": [
+      "Hormonal changes",
+      "Infection",
+      "Trauma",
+      "Anemia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common cause of fetal death is:",
+    "options": [
+      "Hypoxia",
+      "Infection",
+      "Trauma",
+      "Diabetes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The most common complication of twin pregnancy is:",
+    "options": [
+      "Hypertension",
+      "Preterm labor",
+      "Anemia",
+      "All of the above"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "The best indicator of maternal well-being is:",
+    "options": [
+      "BP",
+      "Weight",
+      "General condition",
+      "Temperature"
+    ],
+    "correctIndex": 2
+  }
+]

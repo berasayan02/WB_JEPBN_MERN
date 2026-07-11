@@ -1,0 +1,2002 @@
+[
+  {
+    "text": "Gram-positive bacteria retain crystal violet due to:",
+    "options": [
+      "Lipid content",
+      "Thick peptidoglycan layer",
+      "Outer membrane",
+      "Capsule"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacterium is acid-fast?",
+    "options": [
+      "Staphylococcus",
+      "Streptococcus",
+      "Mycobacterium tuberculosis",
+      "E. coli"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Endospores are formed by:",
+    "options": [
+      "E. coli",
+      "Bacillus",
+      "Salmonella",
+      "Vibrio"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which virus contains RNA as genetic material?",
+    "options": [
+      "Adenovirus",
+      "Herpes virus",
+      "Influenza virus",
+      "Poxvirus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which organism is obligate intracellular parasite?",
+    "options": [
+      "Bacteria",
+      "Virus",
+      "Fungi",
+      "Protozoa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which staining method is used for Mycobacterium?",
+    "options": [
+      "Gram staining",
+      "Ziehl-Neelsen staining",
+      "Albert staining",
+      "Giemsa staining"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacteria are comma-shaped?",
+    "options": [
+      "Bacilli",
+      "Cocci",
+      "Vibrio",
+      "Spirilla"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which medium is used for culture of Mycobacterium tuberculosis?",
+    "options": [
+      "MacConkey agar",
+      "Blood agar",
+      "Lowenstein-Jensen medium",
+      "Nutrient agar"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which toxin is produced by Clostridium tetani?",
+    "options": [
+      "Enterotoxin",
+      "Neurotoxin",
+      "Endotoxin",
+      "Hemolysin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which immunoglobulin is first produced in primary immune response?",
+    "options": [
+      "IgG",
+      "IgA",
+      "IgM",
+      "IgE"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which bacteria causes cholera?",
+    "options": [
+      "Salmonella typhi",
+      "Vibrio cholerae",
+      "Shigella",
+      "E. coli"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which sterilization method uses moist heat?",
+    "options": [
+      "Hot air oven",
+      "Autoclave",
+      "Filtration",
+      "Radiation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which hepatitis virus is transmitted parenterally?",
+    "options": [
+      "Hepatitis A",
+      "Hepatitis E",
+      "Hepatitis B",
+      "Hepatitis A & E"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which bacteria is coagulase positive?",
+    "options": [
+      "Staphylococcus epidermidis",
+      "Staphylococcus aureus",
+      "Streptococcus pyogenes",
+      "Enterococcus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which fungal infection is caused by Candida?",
+    "options": [
+      "Ringworm",
+      "Candidiasis",
+      "Aspergillosis",
+      "Histoplasmosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which protozoa causes malaria?",
+    "options": [
+      "Entamoeba",
+      "Giardia",
+      "Plasmodium",
+      "Trypanosoma"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which test is used for HIV diagnosis?",
+    "options": [
+      "Widal test",
+      "ELISA",
+      "Mantoux test",
+      "VDRL"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacteria is motile?",
+    "options": [
+      "Klebsiella",
+      "Shigella",
+      "Salmonella",
+      "Staphylococcus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which disinfectant is commonly used for skin?",
+    "options": [
+      "Phenol",
+      "Alcohol",
+      "Formaldehyde",
+      "Chlorine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which immunity is provided by vaccination?",
+    "options": [
+      "Natural immunity",
+      "Passive immunity",
+      "Artificial active immunity",
+      "Innate immunity"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which structure is responsible for bacterial motility?",
+    "options": [
+      "Pili",
+      "Capsule",
+      "Flagella",
+      "Ribosome"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which bacteria is known as “flesh-eating bacteria”?",
+    "options": [
+      "Staphylococcus aureus",
+      "Streptococcus pyogenes",
+      "Clostridium perfringens",
+      "Bacillus anthracis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which of the following is NOT a sterilization method?",
+    "options": [
+      "Autoclaving",
+      "Filtration",
+      "Pasteurization",
+      "Dry heat"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which virus causes rabies?",
+    "options": [
+      "Retrovirus",
+      "Rhabdovirus",
+      "Adenovirus",
+      "Herpesvirus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which staining is used to demonstrate capsule?",
+    "options": [
+      "Gram stain",
+      "Ziehl-Neelsen stain",
+      "Negative staining",
+      "Albert stain"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which organism causes syphilis?",
+    "options": [
+      "Treponema pallidum",
+      "Neisseria gonorrhoeae",
+      "Chlamydia",
+      "Mycoplasma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which immunity is transferred from mother to fetus?",
+    "options": [
+      "Active immunity",
+      "Passive immunity",
+      "Artificial immunity",
+      "Innate immunity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacteria produces urease enzyme?",
+    "options": [
+      "E. coli",
+      "Proteus",
+      "Salmonella",
+      "Shigella"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease is caused by Corynebacterium diphtheriae?",
+    "options": [
+      "Tetanus",
+      "Diphtheria",
+      "Tuberculosis",
+      "Whooping cough"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which test is used for typhoid fever?",
+    "options": [
+      "Mantoux test",
+      "Widal test",
+      "ELISA",
+      "PCR"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which fungi is dimorphic?",
+    "options": [
+      "Candida",
+      "Aspergillus",
+      "Histoplasma",
+      "Penicillium"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which bacterial component is endotoxin?",
+    "options": [
+      "Lipopolysaccharide",
+      "Protein toxin",
+      "Capsule",
+      "Flagella"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which hepatitis virus is transmitted fecal-orally?",
+    "options": [
+      "Hepatitis B",
+      "Hepatitis C",
+      "Hepatitis A",
+      "Hepatitis D"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which cell is primarily involved in antibody production?",
+    "options": [
+      "T cell",
+      "B cell",
+      "Macrophage",
+      "Neutrophil"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacteria is non-motile?",
+    "options": [
+      "Salmonella",
+      "Proteus",
+      "Klebsiella",
+      "Vibrio"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which organism causes whooping cough?",
+    "options": [
+      "Bordetella pertussis",
+      "Haemophilus influenzae",
+      "Streptococcus pneumoniae",
+      "Mycoplasma pneumoniae"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which stain is used for metachromatic granules?",
+    "options": [
+      "Gram stain",
+      "Albert stain",
+      "Acid-fast stain",
+      "Negative stain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organism lacks a cell wall?",
+    "options": [
+      "Staphylococcus",
+      "Mycoplasma",
+      "Streptococcus",
+      "Bacillus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which virus causes AIDS?",
+    "options": [
+      "HIV",
+      "HBV",
+      "HCV",
+      "HPV"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which method is used for sterilizing heat-sensitive materials?",
+    "options": [
+      "Autoclaving",
+      "Dry heat",
+      "Filtration",
+      "Incineration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which bacteria shows “Chinese letter” arrangement?",
+    "options": [
+      "Bacillus",
+      "Corynebacterium diphtheriae",
+      "Streptococcus",
+      "Staphylococcus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which of the following is a spirochete?",
+    "options": [
+      "Vibrio cholerae",
+      "Treponema pallidum",
+      "Bacillus anthracis",
+      "Clostridium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which virus has DNA as genetic material?",
+    "options": [
+      "Influenza virus",
+      "HIV",
+      "Adenovirus",
+      "Rabies virus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which immunoglobulin crosses placenta?",
+    "options": [
+      "IgM",
+      "IgA",
+      "IgG",
+      "IgE"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which bacteria causes gas gangrene?",
+    "options": [
+      "Clostridium tetani",
+      "Clostridium botulinum",
+      "Clostridium perfringens",
+      "Bacillus cereus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which test is used for tuberculosis detection?",
+    "options": [
+      "Widal test",
+      "Mantoux test",
+      "ELISA",
+      "VDRL"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organism causes ringworm?",
+    "options": [
+      "Bacteria",
+      "Virus",
+      "Fungi",
+      "Protozoa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which structure helps bacteria resist phagocytosis?",
+    "options": [
+      "Flagella",
+      "Capsule",
+      "Ribosome",
+      "Pili"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which of the following is an example of exotoxin?",
+    "options": [
+      "Lipopolysaccharide",
+      "Tetanus toxin",
+      "Lipid A",
+      "Endotoxin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacterium is Gram-negative?",
+    "options": [
+      "Staphylococcus",
+      "Streptococcus",
+      "E. coli",
+      "Bacillus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which viral disease is transmitted by mosquito?",
+    "options": [
+      "Rabies",
+      "Influenza",
+      "Dengue",
+      "Measles"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which enzyme breaks hydrogen peroxide?",
+    "options": [
+      "Coagulase",
+      "Catalase",
+      "Oxidase",
+      "Urease"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacteria causes plague?",
+    "options": [
+      "Yersinia pestis",
+      "Salmonella typhi",
+      "Shigella",
+      "Vibrio cholerae"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which medium is selective for Gram-negative bacteria?",
+    "options": [
+      "Blood agar",
+      "Nutrient agar",
+      "MacConkey agar",
+      "Chocolate agar"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which organism is anaerobic?",
+    "options": [
+      "Pseudomonas",
+      "Clostridium",
+      "Bacillus",
+      "Staphylococcus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease is caused by Salmonella typhi?",
+    "options": [
+      "Cholera",
+      "Typhoid",
+      "Dysentery",
+      "Tuberculosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which viral infection produces inclusion bodies called Negri bodies?",
+    "options": [
+      "Measles",
+      "Rabies",
+      "Influenza",
+      "Hepatitis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which immunoglobulin is present in secretions (saliva, milk)?",
+    "options": [
+      "IgG",
+      "IgM",
+      "IgA",
+      "IgE"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which bacteria causes bacillary dysentery?",
+    "options": [
+      "Salmonella",
+      "Shigella",
+      "Vibrio",
+      "E. coli"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which type of hypersensitivity is immediate?",
+    "options": [
+      "Type I",
+      "Type II",
+      "Type III",
+      "Type IV"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organism is acid-fast due to mycolic acid?",
+    "options": [
+      "Nocardia",
+      "Mycobacterium",
+      "Corynebacterium",
+      "Actinomyces"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacteria is oxidase positive?",
+    "options": [
+      "E. coli",
+      "Pseudomonas",
+      "Klebsiella",
+      "Shigella"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease is caused by Clostridium botulinum?",
+    "options": [
+      "Tetanus",
+      "Botulism",
+      "Gas gangrene",
+      "Diphtheria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organism is microaerophilic?",
+    "options": [
+      "Clostridium",
+      "Campylobacter",
+      "Staphylococcus",
+      "Bacillus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which immunoglobulin is responsible for allergy?",
+    "options": [
+      "IgG",
+      "IgM",
+      "IgE",
+      "IgA"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which bacteria is lactose fermenter?",
+    "options": [
+      "Salmonella",
+      "Shigella",
+      "E. coli",
+      "Proteus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which virus is oncogenic?",
+    "options": [
+      "Rabies",
+      "HPV",
+      "Influenza",
+      "Dengue"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacteria produces coagulase enzyme?",
+    "options": [
+      "Staphylococcus epidermidis",
+      "Staphylococcus aureus",
+      "Streptococcus",
+      "Enterococcus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which staining is used for spirochetes?",
+    "options": [
+      "Gram stain",
+      "Dark field microscopy",
+      "Ziehl-Neelsen stain",
+      "Albert stain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacterium is pleomorphic?",
+    "options": [
+      "Bacillus",
+      "Mycoplasma",
+      "Streptococcus",
+      "Vibrio"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease is caused by Leishmania?",
+    "options": [
+      "Malaria",
+      "Kala-azar",
+      "Sleeping sickness",
+      "Filariasis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which virus has segmented RNA genome?",
+    "options": [
+      "Rabies",
+      "Influenza",
+      "HIV",
+      "Measles"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacteria is capsulated?",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Bacillus",
+      "Clostridium",
+      "Mycoplasma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which type of vaccine uses live attenuated organism?",
+    "options": [
+      "Polio (OPV)",
+      "Hepatitis B",
+      "Tetanus toxoid",
+      "Rabies vaccine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria causes food poisoning via preformed toxin?",
+    "options": [
+      "Salmonella",
+      "Staphylococcus aureus",
+      "Shigella",
+      "Vibrio"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which test differentiates Staphylococcus and Streptococcus?",
+    "options": [
+      "Oxidase test",
+      "Catalase test",
+      "Coagulase test",
+      "Urease test"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organism causes urinary tract infection commonly?",
+    "options": [
+      "E. coli",
+      "Salmonella",
+      "Vibrio",
+      "Mycobacterium"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria produces greenish pigment?",
+    "options": [
+      "Staphylococcus",
+      "Pseudomonas aeruginosa",
+      "Streptococcus",
+      "Bacillus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which virus is transmitted by dog bite?",
+    "options": [
+      "Dengue",
+      "Rabies",
+      "Hepatitis B",
+      "HIV"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which immunity involves T cells?",
+    "options": [
+      "Humoral immunity",
+      "Cell-mediated immunity",
+      "Passive immunity",
+      "Artificial immunity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organism causes amoebiasis?",
+    "options": [
+      "Giardia",
+      "Entamoeba histolytica",
+      "Plasmodium",
+      "Trypanosoma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacterium is spore-forming?",
+    "options": [
+      "E. coli",
+      "Clostridium",
+      "Streptococcus",
+      "Neisseria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease is caused by Haemophilus influenzae?",
+    "options": [
+      "Meningitis",
+      "Typhoid",
+      "Cholera",
+      "Plague"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organism is intracellular bacteria?",
+    "options": [
+      "Chlamydia",
+      "Staphylococcus",
+      "Bacillus",
+      "Vibrio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which antibody is produced in secondary immune response?",
+    "options": [
+      "IgM",
+      "IgG",
+      "IgE",
+      "IgA"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacteria is beta-hemolytic?",
+    "options": [
+      "Streptococcus pyogenes",
+      "Streptococcus pneumoniae",
+      "Enterococcus",
+      "Lactobacillus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which virus causes chickenpox?",
+    "options": [
+      "Herpes simplex",
+      "Varicella-zoster virus",
+      "Adenovirus",
+      "HPV"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacteria causes gonorrhea?",
+    "options": [
+      "Neisseria gonorrhoeae",
+      "Treponema pallidum",
+      "Chlamydia",
+      "Mycoplasma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organism causes filariasis?",
+    "options": [
+      "Wuchereria bancrofti",
+      "Ascaris",
+      "Taenia",
+      "Hookworm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which viral hepatitis is most severe?",
+    "options": [
+      "Hepatitis A",
+      "Hepatitis B",
+      "Hepatitis C",
+      "Hepatitis E"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organism is zoonotic?",
+    "options": [
+      "Rabies virus",
+      "Influenza",
+      "Measles",
+      "HIV"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria produces exotoxin?",
+    "options": [
+      "Clostridium tetani",
+      "E. coli",
+      "Salmonella",
+      "Shigella"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which stain is used for fungal elements?",
+    "options": [
+      "Gram stain",
+      "KOH mount",
+      "Ziehl-Neelsen stain",
+      "Albert stain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which immunity is immediate but short-lived?",
+    "options": [
+      "Active immunity",
+      "Passive immunity",
+      "Natural immunity",
+      "Artificial immunity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organism causes tetanus?",
+    "options": [
+      "Clostridium tetani",
+      "Clostridium botulinum",
+      "Bacillus anthracis",
+      "Corynebacterium"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacterium is curved rod?",
+    "options": [
+      "Bacillus",
+      "Vibrio",
+      "Cocci",
+      "Spirochete"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organism is anaerobic spore-former?",
+    "options": [
+      "Bacillus",
+      "Clostridium",
+      "Staphylococcus",
+      "Streptococcus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease is caused by Bordetella pertussis?",
+    "options": [
+      "Tuberculosis",
+      "Whooping cough",
+      "Pneumonia",
+      "Diphtheria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacteria is Gram-positive cocci in clusters?",
+    "options": [
+      "Streptococcus",
+      "Staphylococcus",
+      "Neisseria",
+      "Bacillus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which viral disease causes Koplik spots?",
+    "options": [
+      "Measles",
+      "Mumps",
+      "Rubella",
+      "Chickenpox"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacterial structure is responsible for adhesion?",
+    "options": [
+      "Flagella",
+      "Capsule",
+      "Pili (fimbriae)",
+      "Ribosome"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which organism shows “swarming motility”?",
+    "options": [
+      "E. coli",
+      "Proteus",
+      "Klebsiella",
+      "Shigella"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacteria is obligate anaerobe?",
+    "options": [
+      "Staphylococcus",
+      "Clostridium",
+      "Bacillus",
+      "Pseudomonas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which virus has reverse transcriptase?",
+    "options": [
+      "Influenza",
+      "HIV",
+      "Rabies",
+      "Adenovirus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which stain is used for bacterial flagella?",
+    "options": [
+      "Gram stain",
+      "Silver stain",
+      "Ziehl-Neelsen stain",
+      "Albert stain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacterium causes pneumonia commonly?",
+    "options": [
+      "Streptococcus pneumoniae",
+      "E. coli",
+      "Vibrio cholerae",
+      "Salmonella"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which immunity is long-lasting?",
+    "options": [
+      "Passive immunity",
+      "Active immunity",
+      "Innate immunity",
+      "Artificial passive immunity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organism is acid-fast partially?",
+    "options": [
+      "Mycobacterium",
+      "Nocardia",
+      "Corynebacterium",
+      "Bacillus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which virus causes German measles?",
+    "options": [
+      "Measles virus",
+      "Rubella virus",
+      "Varicella virus",
+      "Mumps virus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacteria produces “blue-green pigment”?",
+    "options": [
+      "Staphylococcus",
+      "Streptococcus",
+      "Pseudomonas",
+      "Bacillus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which disease is caused by Bacillus anthracis?",
+    "options": [
+      "Plague",
+      "Anthrax",
+      "Tetanus",
+      "Typhoid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which type of media differentiates lactose fermenters?",
+    "options": [
+      "Blood agar",
+      "MacConkey agar",
+      "Nutrient agar",
+      "Chocolate agar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacteria is non-spore forming?",
+    "options": [
+      "Bacillus",
+      "Clostridium",
+      "Staphylococcus",
+      "Both A & B"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which organism causes sleeping sickness?",
+    "options": [
+      "Plasmodium",
+      "Trypanosoma",
+      "Leishmania",
+      "Giardia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which immunoglobulin is largest?",
+    "options": [
+      "IgG",
+      "IgM",
+      "IgA",
+      "IgE"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacteria causes “walking pneumonia”?",
+    "options": [
+      "Mycoplasma pneumoniae",
+      "Streptococcus pneumoniae",
+      "Klebsiella",
+      "Haemophilus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which virus is transmitted fecal-orally?",
+    "options": [
+      "Hepatitis B",
+      "Hepatitis C",
+      "Hepatitis A",
+      "HIV"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which enzyme is used in PCR?",
+    "options": [
+      "DNA polymerase",
+      "RNA polymerase",
+      "Ligase",
+      "Reverse transcriptase"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria causes “rice water stool”?",
+    "options": [
+      "Vibrio cholerae",
+      "Shigella",
+      "Salmonella",
+      "E. coli"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organism lacks mitochondria?",
+    "options": [
+      "Bacteria",
+      "Fungi",
+      "Protozoa",
+      "Algae"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria produces hemolysis on blood agar?",
+    "options": [
+      "Streptococcus",
+      "Mycoplasma",
+      "Chlamydia",
+      "Rickettsia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organism causes cryptococcosis?",
+    "options": [
+      "Candida",
+      "Aspergillus",
+      "Cryptococcus neoformans",
+      "Histoplasma"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which bacteria is capsule-forming?",
+    "options": [
+      "Klebsiella",
+      "Mycoplasma",
+      "Bacillus",
+      "Vibrio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which disease is caused by Rickettsia?",
+    "options": [
+      "Typhus",
+      "Cholera",
+      "Typhoid",
+      "Plague"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which stain is used for spores?",
+    "options": [
+      "Gram stain",
+      "Ziehl-Neelsen",
+      "Malachite green",
+      "Albert stain"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which virus causes mumps?",
+    "options": [
+      "Paramyxovirus",
+      "Retrovirus",
+      "Adenovirus",
+      "Rhabdovirus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria is Gram-negative diplococci?",
+    "options": [
+      "Neisseria",
+      "Staphylococcus",
+      "Streptococcus",
+      "Bacillus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which immunity is antibody-mediated?",
+    "options": [
+      "Cellular immunity",
+      "Humoral immunity",
+      "Passive immunity",
+      "Innate immunity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organism causes fungal ball in lungs?",
+    "options": [
+      "Candida",
+      "Aspergillus",
+      "Histoplasma",
+      "Mucor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacteria causes UTI with urease production?",
+    "options": [
+      "E. coli",
+      "Proteus",
+      "Klebsiella",
+      "Pseudomonas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which virus is enveloped?",
+    "options": [
+      "Adenovirus",
+      "Poliovirus",
+      "Rabies virus",
+      "Parvovirus"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which organism causes trichomoniasis?",
+    "options": [
+      "Giardia",
+      "Trichomonas vaginalis",
+      "Entamoeba",
+      "Plasmodium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacteria produces endotoxin?",
+    "options": [
+      "Gram-positive bacteria",
+      "Gram-negative bacteria",
+      "Fungi",
+      "Virus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which virus causes warts?",
+    "options": [
+      "HPV",
+      "HIV",
+      "HBV",
+      "HSV"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organism is facultative anaerobe?",
+    "options": [
+      "Clostridium",
+      "E. coli",
+      "Mycobacterium",
+      "Pseudomonas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacteria causes food poisoning (diarrhea type)?",
+    "options": [
+      "Bacillus cereus",
+      "Clostridium tetani",
+      "Corynebacterium",
+      "Mycobacterium"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organism causes toxoplasmosis?",
+    "options": [
+      "Plasmodium",
+      "Toxoplasma gondii",
+      "Giardia",
+      "Leishmania"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacteria is acid-fast?",
+    "options": [
+      "Mycobacterium",
+      "Staphylococcus",
+      "Streptococcus",
+      "Vibrio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which virus causes hemorrhagic fever?",
+    "options": [
+      "Ebola virus",
+      "Influenza",
+      "Measles",
+      "Rabies"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria is non-motile?",
+    "options": [
+      "Salmonella",
+      "Proteus",
+      "Klebsiella",
+      "Vibrio"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which organism causes dermatophytosis?",
+    "options": [
+      "Bacteria",
+      "Virus",
+      "Fungi",
+      "Protozoa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which test detects syphilis?",
+    "options": [
+      "Widal",
+      "VDRL",
+      "ELISA",
+      "Mantoux"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacteria causes meningococcal meningitis?",
+    "options": [
+      "Neisseria meningitidis",
+      "Streptococcus",
+      "Haemophilus",
+      "E. coli"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which virus causes oral herpes?",
+    "options": [
+      "HSV-1",
+      "HSV-2",
+      "HIV",
+      "HPV"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria is catalase negative?",
+    "options": [
+      "Staphylococcus",
+      "Streptococcus",
+      "Bacillus",
+      "Pseudomonas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organism causes ascariasis?",
+    "options": [
+      "Ascaris lumbricoides",
+      "Taenia",
+      "Hookworm",
+      "Wuchereria"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria produces “red pigment”?",
+    "options": [
+      "Serratia marcescens",
+      "Pseudomonas",
+      "Staphylococcus",
+      "Bacillus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which virus causes infectious mononucleosis?",
+    "options": [
+      "EBV",
+      "CMV",
+      "HSV",
+      "HPV"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria causes “currant jelly sputum”?",
+    "options": [
+      "Klebsiella pneumoniae",
+      "Streptococcus",
+      "Mycoplasma",
+      "Haemophilus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organism is obligate intracellular?",
+    "options": [
+      "E. coli",
+      "Chlamydia",
+      "Bacillus",
+      "Staphylococcus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which bacterial component is responsible for antigenic variation in Salmonella?",
+    "options": [
+      "Capsule",
+      "Flagella (H antigen)",
+      "Cell wall",
+      "Ribosome"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organism shows “safety pin appearance”?",
+    "options": [
+      "Yersinia pestis",
+      "Vibrio cholerae",
+      "Bacillus anthracis",
+      "Clostridium"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria grows at refrigeration temperature?",
+    "options": [
+      "Listeria monocytogenes",
+      "E. coli",
+      "Salmonella",
+      "Shigella"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organism causes relapsing fever?",
+    "options": [
+      "Borrelia",
+      "Treponema",
+      "Leptospira",
+      "Rickettsia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria is acid-fast and branching filamentous?",
+    "options": [
+      "Actinomyces",
+      "Nocardia",
+      "Mycoplasma",
+      "Corynebacterium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which virus causes hand, foot and mouth disease?",
+    "options": [
+      "Coxsackie virus",
+      "Adenovirus",
+      "Rabies virus",
+      "Influenza virus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria is used in yogurt preparation?",
+    "options": [
+      "Lactobacillus",
+      "Streptococcus",
+      "Bacillus",
+      "Clostridium"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organism causes Weil’s disease?",
+    "options": [
+      "Leptospira",
+      "Borrelia",
+      "Treponema",
+      "Rickettsia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria produces shiga toxin?",
+    "options": [
+      "Shigella dysenteriae",
+      "Salmonella",
+      "Vibrio",
+      "E. coli"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organism causes “pink eye”?",
+    "options": [
+      "Adenovirus",
+      "Influenza",
+      "HIV",
+      "Rabies"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria is alpha-hemolytic?",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Streptococcus pyogenes",
+      "Staphylococcus aureus",
+      "Enterococcus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which virus causes shingles?",
+    "options": [
+      "HSV",
+      "Varicella-zoster virus",
+      "EBV",
+      "CMV"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organism causes brucellosis?",
+    "options": [
+      "Brucella",
+      "Bacillus",
+      "Clostridium",
+      "Salmonella"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria is intracellular pathogen?",
+    "options": [
+      "Rickettsia",
+      "Staphylococcus",
+      "Bacillus",
+      "Vibrio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which virus is bullet-shaped?",
+    "options": [
+      "Rabies virus",
+      "Influenza",
+      "HIV",
+      "Adenovirus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria causes rat-bite fever?",
+    "options": [
+      "Streptobacillus moniliformis",
+      "Clostridium",
+      "Bacillus",
+      "Vibrio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria forms “Medusa head colonies”?",
+    "options": [
+      "Bacillus anthracis",
+      "Clostridium",
+      "Staphylococcus",
+      "Streptococcus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organism causes chancroid?",
+    "options": [
+      "Haemophilus ducreyi",
+      "Treponema",
+      "Neisseria",
+      "Chlamydia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria is strictly aerobic?",
+    "options": [
+      "Pseudomonas",
+      "Clostridium",
+      "E. coli",
+      "Streptococcus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which virus causes Kaposi sarcoma?",
+    "options": [
+      "EBV",
+      "HHV-8",
+      "HPV",
+      "CMV"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which organism causes hydatid cyst?",
+    "options": [
+      "Echinococcus granulosus",
+      "Taenia",
+      "Ascaris",
+      "Hookworm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria causes “black eschar”?",
+    "options": [
+      "Bacillus anthracis",
+      "Clostridium",
+      "Vibrio",
+      "Salmonella"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which virus causes hemorrhagic cystitis?",
+    "options": [
+      "Adenovirus",
+      "Influenza",
+      "HIV",
+      "HSV"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria is curved Gram-negative rod?",
+    "options": [
+      "Vibrio",
+      "Bacillus",
+      "Streptococcus",
+      "Staphylococcus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organism causes onchocerciasis?",
+    "options": [
+      "Onchocerca volvulus",
+      "Wuchereria",
+      "Ascaris",
+      "Taenia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria causes “fishy odor” vaginal discharge?",
+    "options": [
+      "Gardnerella vaginalis",
+      "Candida",
+      "Trichomonas",
+      "Neisseria"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organism causes African sleeping sickness?",
+    "options": [
+      "Trypanosoma brucei",
+      "Plasmodium",
+      "Leishmania",
+      "Giardia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria causes Legionnaires’ disease?",
+    "options": [
+      "Legionella pneumophila",
+      "Mycoplasma",
+      "Streptococcus",
+      "Klebsiella"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which virus causes fifth disease?",
+    "options": [
+      "Parvovirus B19",
+      "Adenovirus",
+      "Influenza",
+      "HSV"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria is oxidase negative?",
+    "options": [
+      "Pseudomonas",
+      "Neisseria",
+      "E. coli",
+      "Vibrio"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which organism causes strongyloidiasis?",
+    "options": [
+      "Strongyloides stercoralis",
+      "Ascaris",
+      "Taenia",
+      "Hookworm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria produces “fried egg” colonies?",
+    "options": [
+      "Mycoplasma",
+      "Bacillus",
+      "Clostridium",
+      "Streptococcus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which virus causes roseola infantum?",
+    "options": [
+      "HHV-6",
+      "EBV",
+      "HSV",
+      "HPV"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria causes “yellow pigment”?",
+    "options": [
+      "Staphylococcus aureus",
+      "Streptococcus",
+      "Bacillus",
+      "Clostridium"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organism causes toxocariasis?",
+    "options": [
+      "Toxocara canis",
+      "Taenia",
+      "Ascaris",
+      "Hookworm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria causes “walking barefoot infection”?",
+    "options": [
+      "Hookworm",
+      "Ascaris",
+      "Taenia",
+      "Wuchereria"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which virus causes CMV infection?",
+    "options": [
+      "Cytomegalovirus",
+      "Adenovirus",
+      "Influenza",
+      "Rabies"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria causes “green pus”?",
+    "options": [
+      "Pseudomonas aeruginosa",
+      "Staphylococcus",
+      "Streptococcus",
+      "Bacillus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organism causes dracunculiasis?",
+    "options": [
+      "Dracunculus medinensis",
+      "Taenia",
+      "Ascaris",
+      "Hookworm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria causes “red rash fever”?",
+    "options": [
+      "Streptococcus pyogenes",
+      "Staphylococcus",
+      "Bacillus",
+      "Vibrio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which virus causes hepatitis D infection?",
+    "options": [
+      "Delta virus",
+      "Retrovirus",
+      "Adenovirus",
+      "Paramyxovirus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organism causes cutaneous leishmaniasis?",
+    "options": [
+      "Leishmania",
+      "Trypanosoma",
+      "Giardia",
+      "Plasmodium"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria is acid-fast weakly?",
+    "options": [
+      "Nocardia",
+      "Bacillus",
+      "Streptococcus",
+      "Vibrio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which virus causes croup?",
+    "options": [
+      "Parainfluenza virus",
+      "Influenza",
+      "HIV",
+      "Adenovirus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria causes “blue pus”?",
+    "options": [
+      "Pseudomonas",
+      "Staphylococcus",
+      "Streptococcus",
+      "Bacillus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organism causes schistosomiasis?",
+    "options": [
+      "Schistosoma",
+      "Taenia",
+      "Ascaris",
+      "Hookworm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria causes Q fever?",
+    "options": [
+      "Coxiella burnetii",
+      "Rickettsia",
+      "Chlamydia",
+      "Mycoplasma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which virus causes molluscum contagiosum?",
+    "options": [
+      "Poxvirus",
+      "HPV",
+      "HSV",
+      "EBV"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which organism causes giardiasis?",
+    "options": [
+      "Giardia lamblia",
+      "Entamoeba",
+      "Plasmodium",
+      "Trypanosoma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which bacteria causes “school sores”?",
+    "options": [
+      "Staphylococcus aureus",
+      "Streptococcus",
+      "Bacillus",
+      "Clostridium"
+    ],
+    "correctIndex": 0
+  }
+]

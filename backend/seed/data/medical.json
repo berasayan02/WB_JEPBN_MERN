@@ -1,0 +1,2002 @@
+[
+  {
+    "text": "The most common site for pressure ulcers is:",
+    "options": [
+      "Abdomen",
+      "Sacrum",
+      "Chest",
+      "Forearm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which position is best for a patient with dyspnea?",
+    "options": [
+      "Supine",
+      "Prone",
+      "Fowler’s position",
+      "Lithotomy"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The normal range of adult pulse rate is:",
+    "options": [
+      "40–60 bpm",
+      "60–100 bpm",
+      "100–120 bpm",
+      "120–140 bpm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which electrolyte imbalance causes muscle weakness and arrhythmia?",
+    "options": [
+      "Hyperkalemia",
+      "Hypokalemia",
+      "Hypernatremia",
+      "Hypocalcemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The priority nursing intervention in shock is:",
+    "options": [
+      "Give oral fluids",
+      "Maintain airway",
+      "Provide exercise",
+      "Give sedatives"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which sign indicates hypoxia?",
+    "options": [
+      "Cyanosis",
+      "Hypertension",
+      "Bradycardia",
+      "Warm skin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The purpose of NG tube insertion is:",
+    "options": [
+      "Increase BP",
+      "Provide nutrition",
+      "Reduce pain",
+      "Improve circulation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition requires strict fluid restriction?",
+    "options": [
+      "Dehydration",
+      "Renal failure",
+      "Diarrhea",
+      "Vomiting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal urine output in adults per hour is:",
+    "options": [
+      "10–20 mL",
+      "20–30 mL",
+      "30–50 mL",
+      "50–70 mL"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the most common complication of immobility?",
+    "options": [
+      "Hypertension",
+      "Pressure sores",
+      "Diabetes",
+      "Asthma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which IV fluid is isotonic?",
+    "options": [
+      "5% Dextrose",
+      "0.45% NaCl",
+      "0.9% NaCl",
+      "10% Dextrose"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "The early sign of infection is:",
+    "options": [
+      "Hypothermia",
+      "Fever",
+      "Bradycardia",
+      "Pallor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which disease requires airborne precautions?",
+    "options": [
+      "Tuberculosis",
+      "Hepatitis B",
+      "HIV",
+      "Typhoid"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "The antidote for heparin is:",
+    "options": [
+      "Vitamin K",
+      "Protamine sulfate",
+      "Atropine",
+      "Naloxone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition causes edema?",
+    "options": [
+      "Dehydration",
+      "Hypoproteinemia",
+      "Hypernatremia",
+      "Anemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best method to prevent infection is:",
+    "options": [
+      "Antibiotics",
+      "Hand washing",
+      "Isolation",
+      "Vaccination"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which sign indicates internal bleeding?",
+    "options": [
+      "Hypertension",
+      "Tachycardia",
+      "Warm skin",
+      "Increased appetite"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the first step in wound care?",
+    "options": [
+      "Dressing",
+      "Cleaning",
+      "Bandaging",
+      "Suturing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The normal respiratory rate in adults is:",
+    "options": [
+      "8–10/min",
+      "12–20/min",
+      "20–30/min",
+      "30–40/min"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition is a medical emergency?",
+    "options": [
+      "Mild fever",
+      "Cardiac arrest",
+      "Common cold",
+      "Headache"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which sign is an early indicator of shock?",
+    "options": [
+      "Hypotension",
+      "Bradycardia",
+      "Tachycardia",
+      "Cyanosis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which electrolyte imbalance causes peaked T waves in ECG?",
+    "options": [
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hyponatremia",
+      "Hypocalcemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "The best position for a patient after spinal anesthesia is:",
+    "options": [
+      "High Fowler’s",
+      "Flat supine",
+      "Trendelenburg",
+      "Lateral"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition leads to metabolic acidosis?",
+    "options": [
+      "Vomiting",
+      "Diarrhea",
+      "Hyperventilation",
+      "Antacid intake"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the priority in burn management?",
+    "options": [
+      "Pain relief",
+      "Fluid resuscitation",
+      "Nutrition",
+      "Dressing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which IV fluid is used in hypoglycemia?",
+    "options": [
+      "Normal saline",
+      "Ringer lactate",
+      "5% Dextrose",
+      "0.45% NaCl"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the most common complication of diabetes?",
+    "options": [
+      "Neuropathy",
+      "Hypertension",
+      "Asthma",
+      "Arthritis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which sign indicates fluid overload?",
+    "options": [
+      "Dry skin",
+      "Hypotension",
+      "Edema",
+      "Tachypnea"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition requires oxygen therapy immediately?",
+    "options": [
+      "Hypertension",
+      "Hypoxia",
+      "Diabetes",
+      "Anemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which test is used to assess kidney function?",
+    "options": [
+      "ECG",
+      "Serum creatinine",
+      "Hemoglobin",
+      "Platelet count"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which type of shock is caused by severe blood loss?",
+    "options": [
+      "Cardiogenic shock",
+      "Septic shock",
+      "Hypovolemic shock",
+      "Neurogenic shock"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which position is best for unconscious patient?",
+    "options": [
+      "Supine",
+      "Prone",
+      "Lateral (recovery position)",
+      "Fowler’s"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the antidote for opioid overdose?",
+    "options": [
+      "Atropine",
+      "Naloxone",
+      "Vitamin K",
+      "Protamine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition causes respiratory alkalosis?",
+    "options": [
+      "Diarrhea",
+      "Hypoventilation",
+      "Hyperventilation",
+      "Renal failure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which artery is commonly used to measure pulse?",
+    "options": [
+      "Femoral",
+      "Radial",
+      "Carotid",
+      "Brachial"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the first step in CPR?",
+    "options": [
+      "Give breaths",
+      "Check pulse",
+      "Check airway",
+      "Chest compression"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition is characterized by high blood sugar?",
+    "options": [
+      "Hypoglycemia",
+      "Diabetes mellitus",
+      "Anemia",
+      "Hypertension"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the normal pH of blood?",
+    "options": [
+      "6.8–7.0",
+      "7.35–7.45",
+      "7.5–8.0",
+      "6.0–6.5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which sign indicates dehydration?",
+    "options": [
+      "Edema",
+      "Dry mucous membrane",
+      "Hypertension",
+      "Bradycardia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition requires isolation precautions?",
+    "options": [
+      "Diabetes",
+      "Hypertension",
+      "Infectious diseases",
+      "Fracture"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the earliest sign of hypovolemic shock?",
+    "options": [
+      "Hypotension",
+      "Tachycardia",
+      "Oliguria",
+      "Confusion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which electrolyte imbalance causes muscle cramps and tetany?",
+    "options": [
+      "Hyperkalemia",
+      "Hypocalcemia",
+      "Hypernatremia",
+      "Hypokalemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which IV fluid is preferred in burn patients initially?",
+    "options": [
+      "5% Dextrose",
+      "0.45% NaCl",
+      "Ringer’s lactate",
+      "10% Dextrose"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is a late sign of hypoxia?",
+    "options": [
+      "Restlessness",
+      "Anxiety",
+      "Cyanosis",
+      "Tachycardia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which organ is most affected in hypertension?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Spleen",
+      "Pancreas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition leads to metabolic alkalosis?",
+    "options": [
+      "Diarrhea",
+      "Vomiting",
+      "Renal failure",
+      "Shock"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most reliable indicator of renal function?",
+    "options": [
+      "Blood urea",
+      "Serum creatinine",
+      "Urine output",
+      "Hemoglobin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which nursing action is priority in airway obstruction?",
+    "options": [
+      "Give fluids",
+      "Administer drugs",
+      "Clear airway",
+      "Check BP"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which sign indicates hyperkalemia?",
+    "options": [
+      "Flat T wave",
+      "Peaked T wave",
+      "U wave",
+      "ST depression"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which position is used for shock management?",
+    "options": [
+      "Fowler’s",
+      "Supine with legs elevated",
+      "Prone",
+      "Sitting"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the normal central venous pressure (CVP)?",
+    "options": [
+      "0–2 cm H₂O",
+      "2–6 cm H₂O",
+      "6–10 cm H₂O",
+      "10–15 cm H₂O"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which infection spreads through droplet transmission?",
+    "options": [
+      "Tuberculosis",
+      "Measles",
+      "Influenza",
+      "Chickenpox"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the first sign of infection in a wound?",
+    "options": [
+      "Pus formation",
+      "Redness",
+      "Necrosis",
+      "Bleeding"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the antidote for warfarin?",
+    "options": [
+      "Protamine sulfate",
+      "Vitamin K",
+      "Naloxone",
+      "Atropine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition is characterized by fluid in alveoli?",
+    "options": [
+      "Asthma",
+      "Pneumonia",
+      "Pulmonary edema",
+      "Bronchitis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the priority in cardiac arrest?",
+    "options": [
+      "IV fluids",
+      "Oxygen therapy",
+      "CPR",
+      "Medication"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition causes decreased hemoglobin?",
+    "options": [
+      "Polycythemia",
+      "Anemia",
+      "Leukemia",
+      "Hypertension"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which sign indicates increased intracranial pressure (ICP)?",
+    "options": [
+      "Bradycardia",
+      "Hypotension",
+      "Tachypnea",
+      "Hyperthermia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which test is used to diagnose myocardial infarction?",
+    "options": [
+      "ECG",
+      "X-ray",
+      "Ultrasound",
+      "MRI"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which condition is life-threatening and needs immediate care?",
+    "options": [
+      "Mild fever",
+      "Cardiac arrest",
+      "Headache",
+      "Fatigue"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the earliest symptom of hypoxia?",
+    "options": [
+      "Cyanosis",
+      "Restlessness",
+      "Bradycardia",
+      "Hypotension"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which electrolyte is mainly responsible for cardiac rhythm?",
+    "options": [
+      "Sodium",
+      "Potassium",
+      "Calcium",
+      "Magnesium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which IV fluid expands intravascular volume most effectively?",
+    "options": [
+      "5% Dextrose",
+      "Normal saline",
+      "Colloids",
+      "0.45% NaCl"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the most common cause of hospital-acquired infection?",
+    "options": [
+      "Air",
+      "Water",
+      "Hands of healthcare workers",
+      "Equipment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition causes metabolic acidosis?",
+    "options": [
+      "Vomiting",
+      "Diarrhea",
+      "Hyperventilation",
+      "Antacid use"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the first sign of fluid overload?",
+    "options": [
+      "Edema",
+      "Weight gain",
+      "Dyspnea",
+      "Hypertension"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which position improves venous return in shock?",
+    "options": [
+      "Fowler’s",
+      "Trendelenburg",
+      "Supine",
+      "Prone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition leads to respiratory acidosis?",
+    "options": [
+      "Hyperventilation",
+      "Hypoventilation",
+      "Fever",
+      "Anxiety"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most sensitive indicator of fluid balance?",
+    "options": [
+      "Blood pressure",
+      "Pulse",
+      "Body weight",
+      "Urine color"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is a sign of hypernatremia?",
+    "options": [
+      "Confusion",
+      "Muscle weakness",
+      "Dry mucous membrane",
+      "Seizures"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition requires droplet precautions?",
+    "options": [
+      "Tuberculosis",
+      "Measles",
+      "Influenza",
+      "HIV"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the priority nursing action in hemorrhage?",
+    "options": [
+      "Give antibiotics",
+      "Stop bleeding",
+      "Provide nutrition",
+      "Give fluids"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the earliest sign of increased intracranial pressure?",
+    "options": [
+      "Bradycardia",
+      "Hypertension",
+      "Altered consciousness",
+      "Irregular breathing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which electrolyte imbalance causes arrhythmia and muscle weakness?",
+    "options": [
+      "Hypernatremia",
+      "Hypokalemia",
+      "Hypercalcemia",
+      "Hypomagnesemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the normal oxygen saturation level?",
+    "options": [
+      "70–80%",
+      "80–85%",
+      "95–100%",
+      "85–90%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which organ failure leads to uremia?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Heart",
+      "Lung"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition causes respiratory alkalosis?",
+    "options": [
+      "Hypoventilation",
+      "Hyperventilation",
+      "Diarrhea",
+      "Renal failure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the antidote for opioid toxicity?",
+    "options": [
+      "Atropine",
+      "Naloxone",
+      "Vitamin K",
+      "Protamine sulfate"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the main cause of pressure ulcers?",
+    "options": [
+      "Infection",
+      "Immobility",
+      "Dehydration",
+      "Malnutrition"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition leads to edema?",
+    "options": [
+      "Hypoproteinemia",
+      "Dehydration",
+      "Anemia",
+      "Hypoglycemia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which sign indicates internal bleeding?",
+    "options": [
+      "Hypertension",
+      "Tachycardia",
+      "Warm skin",
+      "Increased appetite"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the best method to prevent infection?",
+    "options": [
+      "Antibiotics",
+      "Hand hygiene",
+      "Isolation",
+      "Vaccination"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most common complication after surgery?",
+    "options": [
+      "Infection",
+      "Hemorrhage",
+      "Shock",
+      "Pain"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which electrolyte imbalance causes tetany?",
+    "options": [
+      "Hyperkalemia",
+      "Hypocalcemia",
+      "Hypernatremia",
+      "Hypokalemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition requires oxygen therapy immediately?",
+    "options": [
+      "Hypertension",
+      "Hypoxia",
+      "Diabetes",
+      "Anemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the first step in wound healing?",
+    "options": [
+      "Proliferation",
+      "Inflammation",
+      "Maturation",
+      "Remodeling"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which IV fluid is hypotonic?",
+    "options": [
+      "0.9% NaCl",
+      "5% Dextrose",
+      "0.45% NaCl",
+      "Ringer lactate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition causes metabolic alkalosis?",
+    "options": [
+      "Diarrhea",
+      "Vomiting",
+      "Shock",
+      "Renal failure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which sign indicates dehydration?",
+    "options": [
+      "Edema",
+      "Dry mucous membrane",
+      "Hypertension",
+      "Bradycardia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most reliable sign of shock?",
+    "options": [
+      "Hypotension",
+      "Tachycardia",
+      "Cold skin",
+      "Confusion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which test confirms myocardial infarction?",
+    "options": [
+      "ECG",
+      "Troponin levels",
+      "X-ray",
+      "CT scan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the normal urine output per day?",
+    "options": [
+      "500 mL",
+      "1000 mL",
+      "1500 mL",
+      "3000 mL"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the priority in airway obstruction?",
+    "options": [
+      "Give oxygen",
+      "Clear airway",
+      "Start IV fluids",
+      "Give drugs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition spreads by airborne route?",
+    "options": [
+      "Influenza",
+      "Tuberculosis",
+      "Hepatitis",
+      "HIV"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the best indicator of kidney function?",
+    "options": [
+      "Urine output",
+      "Blood urea",
+      "Serum creatinine",
+      "Hemoglobin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition causes hyperkalemia?",
+    "options": [
+      "Diarrhea",
+      "Renal failure",
+      "Vomiting",
+      "Dehydration"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which sign indicates hypoglycemia?",
+    "options": [
+      "Sweating",
+      "Dry skin",
+      "Polyuria",
+      "Weight gain"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which position is best for unconscious patient?",
+    "options": [
+      "Supine",
+      "Prone",
+      "Lateral",
+      "Sitting"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the antidote for heparin?",
+    "options": [
+      "Vitamin K",
+      "Naloxone",
+      "Protamine sulfate",
+      "Atropine"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition is a medical emergency?",
+    "options": [
+      "Mild fever",
+      "Headache",
+      "Cardiac arrest",
+      "Fatigue"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the earliest sign of hypokalemia?",
+    "options": [
+      "Cardiac arrest",
+      "Muscle weakness",
+      "Paralysis",
+      "Peaked T wave"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which electrolyte imbalance causes Chvostek’s sign?",
+    "options": [
+      "Hyperkalemia",
+      "Hypocalcemia",
+      "Hypernatremia",
+      "Hypokalemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the best position for a patient with increased ICP?",
+    "options": [
+      "Supine",
+      "Trendelenburg",
+      "Semi-Fowler’s",
+      "Prone"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the earliest sign of dehydration?",
+    "options": [
+      "Hypotension",
+      "Tachycardia",
+      "Dry mucous membrane",
+      "Confusion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition leads to respiratory acidosis?",
+    "options": [
+      "Hyperventilation",
+      "Hypoventilation",
+      "Anxiety",
+      "Fever"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which IV fluid is hypertonic?",
+    "options": [
+      "0.9% NaCl",
+      "5% Dextrose",
+      "3% NaCl",
+      "Ringer lactate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which sign indicates fluid overload?",
+    "options": [
+      "Dry skin",
+      "Hypotension",
+      "Pulmonary edema",
+      "Sunken eyes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition causes metabolic acidosis?",
+    "options": [
+      "Vomiting",
+      "Diarrhea",
+      "Antacid use",
+      "Hyperventilation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most reliable indicator of oxygenation?",
+    "options": [
+      "Pulse rate",
+      "Respiratory rate",
+      "SpO₂",
+      "Blood pressure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the priority in burn management after airway?",
+    "options": [
+      "Nutrition",
+      "Pain relief",
+      "Fluid resuscitation",
+      "Dressing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which electrolyte imbalance causes U waves in ECG?",
+    "options": [
+      "Hyperkalemia",
+      "Hypokalemia",
+      "Hypercalcemia",
+      "Hyponatremia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most common cause of acute renal failure?",
+    "options": [
+      "Dehydration",
+      "Infection",
+      "Trauma",
+      "Hypertension"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is the earliest sign of sepsis?",
+    "options": [
+      "Hypotension",
+      "Fever",
+      "Bradycardia",
+      "Cyanosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which position is best for patient with shock?",
+    "options": [
+      "Fowler’s",
+      "Supine with legs elevated",
+      "Sitting",
+      "Prone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most sensitive indicator of infection?",
+    "options": [
+      "WBC count",
+      "Fever",
+      "ESR",
+      "CRP"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "text": "Which condition leads to metabolic alkalosis?",
+    "options": [
+      "Diarrhea",
+      "Vomiting",
+      "Shock",
+      "Renal failure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the first step in CPR (adult)?",
+    "options": [
+      "Airway",
+      "Breathing",
+      "Circulation (compression)",
+      "Defibrillation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition causes hyperkalemia?",
+    "options": [
+      "Diarrhea",
+      "Vomiting",
+      "Renal failure",
+      "Dehydration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which sign indicates hypoxia?",
+    "options": [
+      "Cyanosis",
+      "Hypertension",
+      "Bradycardia",
+      "Warm skin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is the most common complication of IV therapy?",
+    "options": [
+      "Infection",
+      "Phlebitis",
+      "Shock",
+      "Hemorrhage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the normal CVP?",
+    "options": [
+      "0–2 cm H₂O",
+      "2–6 cm H₂O",
+      "6–10 cm H₂O",
+      "10–15 cm H₂O"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition requires airborne precautions?",
+    "options": [
+      "Influenza",
+      "Tuberculosis",
+      "HIV",
+      "Hepatitis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the earliest sign of hemorrhage?",
+    "options": [
+      "Hypotension",
+      "Tachycardia",
+      "Pallor",
+      "Cold skin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which electrolyte imbalance causes tetany?",
+    "options": [
+      "Hypernatremia",
+      "Hypocalcemia",
+      "Hyperkalemia",
+      "Hypokalemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most reliable indicator of kidney function?",
+    "options": [
+      "Urine output",
+      "Blood urea",
+      "Serum creatinine",
+      "Hemoglobin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which sign indicates fluid deficit?",
+    "options": [
+      "Edema",
+      "Dry mucosa",
+      "Hypertension",
+      "Weight gain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the priority in airway obstruction?",
+    "options": [
+      "Give oxygen",
+      "Clear airway",
+      "IV fluids",
+      "Medication"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition causes respiratory alkalosis?",
+    "options": [
+      "Hypoventilation",
+      "Hyperventilation",
+      "Renal failure",
+      "Diarrhea"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the best indicator of fluid balance?",
+    "options": [
+      "BP",
+      "Pulse",
+      "Body weight",
+      "Urine color"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition leads to edema?",
+    "options": [
+      "Hypoproteinemia",
+      "Dehydration",
+      "Hypoglycemia",
+      "Anemia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is the normal oxygen saturation?",
+    "options": [
+      "85–90%",
+      "90–95%",
+      "95–100%",
+      "80–85%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the earliest sign of increased ICP?",
+    "options": [
+      "Bradycardia",
+      "Altered consciousness",
+      "Hypertension",
+      "Irregular breathing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition spreads by droplet infection?",
+    "options": [
+      "TB",
+      "Influenza",
+      "HIV",
+      "Hepatitis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most common cause of shock?",
+    "options": [
+      "Infection",
+      "Hemorrhage",
+      "Trauma",
+      "Burns"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which electrolyte imbalance causes arrhythmia?",
+    "options": [
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Both A & B",
+      "None"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition causes hypoglycemia?",
+    "options": [
+      "Excess insulin",
+      "Infection",
+      "Stress",
+      "Trauma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is the most reliable sign of shock?",
+    "options": [
+      "Hypotension",
+      "Tachycardia",
+      "Cold skin",
+      "Confusion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which test confirms MI?",
+    "options": [
+      "ECG",
+      "Troponin",
+      "X-ray",
+      "CT"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the normal urine output/day?",
+    "options": [
+      "500 mL",
+      "1000 mL",
+      "1500 mL",
+      "3000 mL"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the best method to prevent infection?",
+    "options": [
+      "Antibiotics",
+      "Hand hygiene",
+      "Isolation",
+      "Vaccination"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition requires oxygen therapy?",
+    "options": [
+      "Hypoxia",
+      "Hypertension",
+      "Diabetes",
+      "Anemia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is the antidote for warfarin?",
+    "options": [
+      "Protamine",
+      "Vitamin K",
+      "Naloxone",
+      "Atropine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which sign indicates internal bleeding?",
+    "options": [
+      "Hypertension",
+      "Tachycardia",
+      "Warm skin",
+      "Appetite"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most common complication of surgery?",
+    "options": [
+      "Infection",
+      "Shock",
+      "Pain",
+      "Bleeding"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which electrolyte imbalance causes muscle weakness?",
+    "options": [
+      "Hypernatremia",
+      "Hypokalemia",
+      "Hypercalcemia",
+      "Hypomagnesemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition causes pulmonary edema?",
+    "options": [
+      "Heart failure",
+      "Asthma",
+      "Pneumonia",
+      "Bronchitis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is the priority in cardiac arrest?",
+    "options": [
+      "Oxygen",
+      "CPR",
+      "Medication",
+      "IV fluids"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition requires isolation?",
+    "options": [
+      "Hypertension",
+      "Diabetes",
+      "Infectious disease",
+      "Fracture"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the earliest sign of infection?",
+    "options": [
+      "Pus",
+      "Redness",
+      "Fever",
+      "Necrosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition is life-threatening?",
+    "options": [
+      "Mild fever",
+      "Headache",
+      "Cardiac arrest",
+      "Fatigue"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the earliest sign of hyperkalemia?",
+    "options": [
+      "Muscle weakness",
+      "Cardiac arrest",
+      "Peaked T wave",
+      "Paralysis"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which electrolyte imbalance causes positive Trousseau’s sign?",
+    "options": [
+      "Hyperkalemia",
+      "Hypocalcemia",
+      "Hypernatremia",
+      "Hypokalemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which position is contraindicated in increased ICP?",
+    "options": [
+      "Semi-Fowler’s",
+      "Supine with head elevated",
+      "Trendelenburg",
+      "Neutral head position"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the earliest sign of fluid overload?",
+    "options": [
+      "Pulmonary edema",
+      "Weight gain",
+      "Hypertension",
+      "Dyspnea"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition causes respiratory acidosis?",
+    "options": [
+      "Hyperventilation",
+      "Hypoventilation",
+      "Anxiety",
+      "Fever"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which IV fluid is isotonic?",
+    "options": [
+      "0.45% NaCl",
+      "5% Dextrose",
+      "0.9% NaCl",
+      "3% NaCl"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the most reliable indicator of oxygenation?",
+    "options": [
+      "Respiratory rate",
+      "Pulse",
+      "SpO₂",
+      "Blood pressure"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is priority in burn management after airway and breathing?",
+    "options": [
+      "Pain control",
+      "Fluid resuscitation",
+      "Dressing",
+      "Nutrition"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which electrolyte imbalance causes flattened T waves?",
+    "options": [
+      "Hyperkalemia",
+      "Hypokalemia",
+      "Hypercalcemia",
+      "Hypernatremia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most common cause of acute kidney injury?",
+    "options": [
+      "Dehydration",
+      "Infection",
+      "Trauma",
+      "Hypertension"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is the earliest sign of sepsis?",
+    "options": [
+      "Hypotension",
+      "Fever",
+      "Cyanosis",
+      "Bradycardia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which position improves breathing in COPD patients?",
+    "options": [
+      "Supine",
+      "Prone",
+      "Tripod position",
+      "Trendelenburg"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition causes metabolic alkalosis?",
+    "options": [
+      "Diarrhea",
+      "Vomiting",
+      "Renal failure",
+      "Shock"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most sensitive indicator of infection?",
+    "options": [
+      "WBC count",
+      "Fever",
+      "CRP",
+      "ESR"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the first step in adult CPR?",
+    "options": [
+      "Airway",
+      "Breathing",
+      "Chest compression",
+      "Defibrillation"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition leads to hyperkalemia?",
+    "options": [
+      "Vomiting",
+      "Diarrhea",
+      "Renal failure",
+      "Dehydration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the earliest sign of hypoxia?",
+    "options": [
+      "Cyanosis",
+      "Restlessness",
+      "Bradycardia",
+      "Hypotension"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most common IV complication?",
+    "options": [
+      "Infection",
+      "Phlebitis",
+      "Shock",
+      "Hemorrhage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the normal CVP?",
+    "options": [
+      "0–2 cm H₂O",
+      "2–6 cm H₂O",
+      "6–10 cm H₂O",
+      "10–15 cm H₂O"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which infection spreads via airborne route?",
+    "options": [
+      "Influenza",
+      "Tuberculosis",
+      "HIV",
+      "Hepatitis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the earliest sign of hemorrhage?",
+    "options": [
+      "Hypotension",
+      "Tachycardia",
+      "Pallor",
+      "Cold skin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which electrolyte imbalance causes tetany?",
+    "options": [
+      "Hypernatremia",
+      "Hypocalcemia",
+      "Hyperkalemia",
+      "Hypokalemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the best indicator of renal function?",
+    "options": [
+      "Urine output",
+      "Blood urea",
+      "Serum creatinine",
+      "Hemoglobin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which sign indicates dehydration?",
+    "options": [
+      "Edema",
+      "Dry mucous membrane",
+      "Hypertension",
+      "Weight gain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the priority in airway obstruction?",
+    "options": [
+      "Oxygen",
+      "Clear airway",
+      "IV fluids",
+      "Drugs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition causes respiratory alkalosis?",
+    "options": [
+      "Hypoventilation",
+      "Hyperventilation",
+      "Renal failure",
+      "Diarrhea"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the best indicator of fluid balance?",
+    "options": [
+      "BP",
+      "Pulse",
+      "Body weight",
+      "Urine color"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition leads to edema?",
+    "options": [
+      "Hypoproteinemia",
+      "Dehydration",
+      "Hypoglycemia",
+      "Anemia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is the normal SpO₂ level?",
+    "options": [
+      "85–90%",
+      "90–95%",
+      "95–100%",
+      "80–85%"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the earliest sign of increased ICP?",
+    "options": [
+      "Bradycardia",
+      "Altered consciousness",
+      "Hypertension",
+      "Irregular breathing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which infection spreads by droplet?",
+    "options": [
+      "TB",
+      "Influenza",
+      "HIV",
+      "Hepatitis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most common cause of shock?",
+    "options": [
+      "Infection",
+      "Hemorrhage",
+      "Burns",
+      "Trauma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which electrolyte imbalance causes arrhythmia?",
+    "options": [
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Both",
+      "None"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which condition causes hypoglycemia?",
+    "options": [
+      "Excess insulin",
+      "Infection",
+      "Stress",
+      "Trauma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is the most reliable sign of shock?",
+    "options": [
+      "Hypotension",
+      "Tachycardia",
+      "Cold skin",
+      "Confusion"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which test confirms myocardial infarction?",
+    "options": [
+      "ECG",
+      "Troponin",
+      "X-ray",
+      "CT scan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the normal urine output/day?",
+    "options": [
+      "500 mL",
+      "1000 mL",
+      "1500 mL",
+      "3000 mL"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the best method to prevent infection?",
+    "options": [
+      "Antibiotics",
+      "Hand hygiene",
+      "Isolation",
+      "Vaccination"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition requires oxygen therapy?",
+    "options": [
+      "Hypoxia",
+      "Hypertension",
+      "Diabetes",
+      "Anemia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is the antidote for warfarin?",
+    "options": [
+      "Protamine",
+      "Vitamin K",
+      "Naloxone",
+      "Atropine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which sign indicates internal bleeding?",
+    "options": [
+      "Hypertension",
+      "Tachycardia",
+      "Warm skin",
+      "Appetite increase"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which is the most common post-op complication?",
+    "options": [
+      "Infection",
+      "Shock",
+      "Pain",
+      "Bleeding"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which electrolyte imbalance causes muscle weakness?",
+    "options": [
+      "Hypernatremia",
+      "Hypokalemia",
+      "Hypercalcemia",
+      "Hypomagnesemia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition causes pulmonary edema?",
+    "options": [
+      "Heart failure",
+      "Asthma",
+      "Pneumonia",
+      "Bronchitis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which is the priority in cardiac arrest?",
+    "options": [
+      "Oxygen",
+      "CPR",
+      "Medication",
+      "IV fluids"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition requires isolation?",
+    "options": [
+      "Hypertension",
+      "Diabetes",
+      "Infectious disease",
+      "Fracture"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the earliest sign of wound infection?",
+    "options": [
+      "Pus",
+      "Redness",
+      "Fever",
+      "Necrosis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "text": "Which condition is life-threatening?",
+    "options": [
+      "Mild fever",
+      "Headache",
+      "Cardiac arrest",
+      "Fatigue"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "text": "Which is the first sign of hypoglycemia?",
+    "options": [
+      "Sweating",
+      "Dry skin",
+      "Weight gain",
+      "Polyuria"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "Which position is best for unconscious patient?",
+    "options": [
+      "Supine",
+      "Prone",
+      "Lateral",
+      "Sitting"
+    ],
+    "correctIndex": 2
+  }
+]
