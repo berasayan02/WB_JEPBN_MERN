@@ -35,7 +35,7 @@ export default function Register() {
     <div className="auth-wrapper">
       <div className="auth-card">
         <h1>Create Account</h1>
-        <p className="subtitle">Start practicing for WB JEPBN 2026</p>
+        <p className="subtitle">Start practicing for WB JEPBN</p>
 
         {error && <div className="error-banner">{error}</div>}
 
